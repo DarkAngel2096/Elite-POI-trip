@@ -1,0 +1,1445 @@
+[
+	{
+		"id": 1645,
+		"type": "planetFeatures",
+		"name": "Sochi",
+		"galMapSearch": "Hypo Aeb WK-H b51-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21712518/name/Hypo+Aeb+WK-H+b51-0",
+		"coords": {
+			"x": -10022.9375,
+			"y": 19.6875,
+			"z": -7643.59375
+		},
+		"distance": 35016.25
+	},
+	{
+		"id": 1692,
+		"type": "planetFeatures",
+		"name": "Beauty and The Beast",
+		"galMapSearch": "Eictach ES-I d10-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24345669/name/Eictach+ES-I+d10-3",
+		"coords": {
+			"x": 8299.75,
+			"y": -397.625,
+			"z": 60046.9375
+		},
+		"distance": 35137.23
+	},
+	{
+		"id": 2035,
+		"type": "minorPOI",
+		"name": "Feelings of Home In The Dark",
+		"galMapSearch": "Exark OJ-I d9-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43778977/name/Exark+OJ-I+d9-7",
+		"coords": {
+			"x": -12827.34375,
+			"y": -5.75,
+			"z": 58674.75
+		},
+		"distance": 35204.76
+	},
+	{
+		"id": 1252,
+		"type": "planetFeatures",
+		"name": "Silent Raindrops",
+		"galMapSearch": "Qauthe ON-B d13-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12464365/name/Qauthe+ON-B+d13-2",
+		"coords": {
+			"x": 17571.5,
+			"y": 105.0625,
+			"z": 56444.375
+		},
+		"distance": 35225.68
+	},
+	{
+		"id": 96,
+		"type": "minorPOI",
+		"name": "Diamond & Zirconia",
+		"galMapSearch": "Spaidau VT-Z d13-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206681/name/Spaidau+VT-Z+d13-4",
+		"coords": {
+			"x": 6269.25,
+			"y": 59.3125,
+			"z": -8785.46875
+		},
+		"distance": 35243.07
+	},
+	{
+		"id": 82,
+		"type": "planetFeatures",
+		"name": "King Midas",
+		"galMapSearch": "Prea Aick MO-Z d13-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206421/name/Prea+Aick+MO-Z+d13-2",
+		"coords": {
+			"x": 32320.25,
+			"y": -12.59375,
+			"z": 11724.78125
+		},
+		"distance": 35269.04
+	},
+	{
+		"id": 1641,
+		"type": "stellarRemnant",
+		"name": "Angustia Trinity",
+		"galMapSearch": "Fraufooe AA-A h8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18429646/name/Fraufooe+AA-A+h8",
+		"coords": {
+			"x": -25665.65625,
+			"y": -1217.375,
+			"z": 1732.34375
+		},
+		"distance": 35292.02
+	},
+	{
+		"id": 252,
+		"type": "nebula",
+		"name": "Skull & Crossbones Nebula",
+		"galMapSearch": "Haffner 18 LSS 27",
+		"galMapUrl": "https://www.edsm.net/en/system/id/191870/name/Haffner+18+LSS+27",
+		"coords": {
+			"x": 13388.4375,
+			"y": 116.25,
+			"z": -6775.625
+		},
+		"distance": 35302.82
+	},
+	{
+		"id": 55,
+		"type": "minorPOI",
+		"name": "The Sublustris Beacon",
+		"galMapSearch": "Cheae Eurl AA-A e0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/658607/name/Cheae+Eurl+AA-A+e0",
+		"coords": {
+			"x": 7632.3125,
+			"y": 3.625,
+			"z": 60397.75
+		},
+		"distance": 35326.55
+	},
+	{
+		"id": 1222,
+		"type": "planetFeatures",
+		"name": "Grand Rings",
+		"galMapSearch": "Cheae Euq ER-L c21-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2109912/name/Cheae+Euq+ER-L+c21-0",
+		"coords": {
+			"x": 694.25,
+			"y": 22.125,
+			"z": 61314.28125
+		},
+		"distance": 35420.66
+	},
+	{
+		"id": 513,
+		"type": "minorPOI",
+		"name": "Dhat-Badan",
+		"galMapSearch": "Chua Dryiae JU-S b51-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1915540/name/Chua+Dryiae+JU-S+b51-0",
+		"coords": {
+			"x": -1001.8125,
+			"y": -48.71875,
+			"z": 61489.625
+		},
+		"distance": 35604.48
+	},
+	{
+		"id": 2023,
+		"type": "organicPOI",
+		"name": "Nadelwald",
+		"galMapSearch": "Cleayia XA-U d4-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27754478/name/Cleayia+XA-U+d4-0",
+		"coords": {
+			"x": -7142.96875,
+			"y": -25.9375,
+			"z": 60789.75
+		},
+		"distance": 35618.53
+	},
+	{
+		"id": 1346,
+		"type": "historicalLocation",
+		"name": "Serebrov Beacon",
+		"galMapSearch": "Dryaa Phoe WV-C d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13648928/name/Dryaa+Phoe+WV-C+d0",
+		"coords": {
+			"x": -4.15625,
+			"y": -62.84375,
+			"z": -9993.875
+		},
+		"distance": 35893.88
+	},
+	{
+		"id": 1573,
+		"type": "minorPOI",
+		"name": "The Brothers",
+		"galMapSearch": "Dryi Aim LD-E b39-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5181812/name/Dryi+Aim+LD-E+b39-0",
+		"coords": {
+			"x": -7719.40625,
+			"y": -2.375,
+			"z": -9182.46875
+		},
+		"distance": 35927.11
+	},
+	{
+		"id": 99,
+		"type": "minorPOI",
+		"name": "The Syroifoe Oasis",
+		"galMapSearch": "Syroifoe CL-Y g1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1906021/name/Syroifoe+CL-Y+g1",
+		"coords": {
+			"x": -15401.5625,
+			"y": -31.6875,
+			"z": -6562.59375
+		},
+		"distance": 35941.67
+	},
+	{
+		"id": 1690,
+		"type": "regional",
+		"name": "Abyssinial Hidden Paradise",
+		"galMapSearch": "Cliewoae NT-F d12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24372272/name/Cliewoae+NT-F+d12-0",
+		"coords": {
+			"x": -5231.96875,
+			"y": -132.53125,
+			"z": 61470.84375
+		},
+		"distance": 35957.44
+	},
+	{
+		"id": 1311,
+		"type": "planetaryNebula",
+		"name": "Alastor",
+		"galMapSearch": "Flyoo Groa SO-Z e0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9873760/name/Flyoo+Groa+SO-Z+e0",
+		"coords": {
+			"x": -26482.4375,
+			"y": -78.78125,
+			"z": 50335.125
+		},
+		"distance": 36051.85
+	},
+	{
+		"id": 102,
+		"type": "minorPOI",
+		"name": "The Alluring Siren",
+		"galMapSearch": "Phae Aeb BK-I d9-22",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2134225/name/Phae+Aeb+BK-I+d9-22",
+		"coords": {
+			"x": -15647.53125,
+			"y": -2.84375,
+			"z": -6599.53125
+		},
+		"distance": 36081.2
+	},
+	{
+		"id": 836,
+		"type": "surfacePOI",
+		"name": "Frozen Arcadia",
+		"galMapSearch": "Ooctarbs CP-E c25-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8711515/name/Ooctarbs+CP-E+c25-1",
+		"coords": {
+			"x": 11459.53125,
+			"y": 51.71875,
+			"z": 60177.4375
+		},
+		"distance": 36134.38
+	},
+	{
+		"id": 1990,
+		"type": "minorPOI",
+		"name": "Dawn Crater",
+		"galMapSearch": "Pyrooe Dryoae UF-S c6-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41216885/name/Pyrooe+Dryoae+UF-S+c6-0",
+		"coords": {
+			"x": 3093.5625,
+			"y": -326.4375,
+			"z": 61967.03125
+		},
+		"distance": 36198.63
+	},
+	{
+		"id": 2105,
+		"type": "regional",
+		"name": "Blie Auwsy Overdensities",
+		"galMapSearch": "Blie Auwsy AN-S b31-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/51311596/name/Blie+Auwsy+AN-S+b31-0",
+		"coords": {
+			"x": 30379.75,
+			"y": 17.5625,
+			"z": 45699.9375
+		},
+		"distance": 36241.38
+	},
+	{
+		"id": 667,
+		"type": "minorPOI",
+		"name": "Otherwise Ordinary",
+		"galMapSearch": "Pyrie Eurk NV-G c10-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/346241/name/Pyrie+Eurk+NV-G+c10-0",
+		"coords": {
+			"x": -1688.5625,
+			"y": 38.125,
+			"z": 62113.6875
+		},
+		"distance": 36254.3
+	},
+	{
+		"id": 455,
+		"type": "minorPOI",
+		"name": "Jovian Assembly",
+		"galMapSearch": "Cho Eur GX-L d7-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2169847/name/Cho+Eur+GX-L+d7-5",
+		"coords": {
+			"x": 8938.84375,
+			"y": 30.75,
+			"z": 61068.0625
+		},
+		"distance": 36280.16
+	},
+	{
+		"id": 1688,
+		"type": "minorPOI",
+		"name": "Selene's Rest",
+		"galMapSearch": "Cheae Eur GX-L c7-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24119270/name/Cheae+Eur+GX-L+c7-1",
+		"coords": {
+			"x": 10206.5,
+			"y": 14.25,
+			"z": 60730.90625
+		},
+		"distance": 36288.48
+	},
+	{
+		"id": 457,
+		"type": "planetaryNebula",
+		"name": "Distant View in Blue",
+		"galMapSearch": "Pyrie Eurk QX-U e2-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2036654/name/Pyrie+Eurk+QX-U+e2-0",
+		"coords": {
+			"x": -1643.875,
+			"y": 136.8125,
+			"z": 62150.1875
+		},
+		"distance": 36288.97
+	},
+	{
+		"id": 1893,
+		"type": "stellarRemnant",
+		"name": "Seitsemän Veljestä (Seven Brothers)",
+		"galMapSearch": "Phae Aeb ZK-P e5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/20902791/name/Phae+Aeb+ZK-P+e5-0",
+		"coords": {
+			"x": -16520,
+			"y": -18.03125,
+			"z": -6502.96875
+		},
+		"distance": 36382.61
+	},
+	{
+		"id": 803,
+		"type": "minorPOI",
+		"name": "Fiarazio",
+		"galMapSearch": "Cho Eur GZ-O c19-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6224822/name/Cho+Eur+GZ-O+c19-3",
+		"coords": {
+			"x": 8929.09375,
+			"y": 3.96875,
+			"z": 61246.4375
+		},
+		"distance": 36450.69
+	},
+	{
+		"id": 90,
+		"type": "starCluster",
+		"name": "NGC 1893",
+		"galMapSearch": "NGC 1893 CF 43",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206669/name/NGC+1893+CF+43",
+		"coords": {
+			"x": -1203.1875,
+			"y": -313.90625,
+			"z": -10644.625
+		},
+		"distance": 36566.41
+	},
+	{
+		"id": 1992,
+		"type": "planetFeatures",
+		"name": "Far Oasis",
+		"galMapSearch": "Pyraea Euq ZK-P d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/40322129/name/Pyraea+Euq+ZK-P+d5-0",
+		"coords": {
+			"x": -5036.09375,
+			"y": 52.4375,
+			"z": 62168.21875
+		},
+		"distance": 36619.78
+	},
+	{
+		"id": 1715,
+		"type": "minorPOI",
+		"name": "Angel's Heart",
+		"galMapSearch": "Pyrie Eurl LX-U c2-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25189487/name/Pyrie+Eurl+LX-U+c2-0",
+		"coords": {
+			"x": 7659.5625,
+			"y": 17.09375,
+			"z": 61779.71875
+		},
+		"distance": 36682.98
+	},
+	{
+		"id": 61,
+		"type": "minorPOI",
+		"name": "Permadesco Zoi",
+		"galMapSearch": "Puwhoi ZO-I d9-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1851373/name/Puwhoi+ZO-I+d9-4",
+		"coords": {
+			"x": 4832.8125,
+			"y": 56.3125,
+			"z": 62465.875
+		},
+		"distance": 36880.68
+	},
+	{
+		"id": 802,
+		"type": "minorPOI",
+		"name": "Eiselbar",
+		"galMapSearch": "Pyria Eurl GL-P d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6142566/name/Pyria+Eurl+GL-P+d5-0",
+		"coords": {
+			"x": 7024.03125,
+			"y": -21.71875,
+			"z": 62206.375
+		},
+		"distance": 36974.84
+	},
+	{
+		"id": 964,
+		"type": "minorPOI",
+		"name": "Doris",
+		"galMapSearch": "Pyrie Eurl UY-S d3-13",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9218527/name/Pyrie+Eurl+UY-S+d3-13",
+		"coords": {
+			"x": 7998.875,
+			"y": 20.09375,
+			"z": 62013.90625
+		},
+		"distance": 36983.74
+	},
+	{
+		"id": 1326,
+		"type": "historicalLocation",
+		"name": "Monoceros Beacon",
+		"galMapSearch": "Jongoi MF-A d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13489743/name/Jongoi+MF-A+d0",
+		"coords": {
+			"x": 10020.09375,
+			"y": 57.21875,
+			"z": -10017.875
+		},
+		"distance": 37282.64
+	},
+	{
+		"id": 1539,
+		"type": "minorPOI",
+		"name": "Solitude Worlds",
+		"galMapSearch": "Frecku IG-Y d1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17818998/name/Frecku+IG-Y+d1",
+		"coords": {
+			"x": 4118.0625,
+			"y": -5.15625,
+			"z": 63017.46875
+		},
+		"distance": 37342.47
+	},
+	{
+		"id": 833,
+		"type": "minorPOI",
+		"name": "Lonely Candle",
+		"galMapSearch": "Nuweou CO-F d12-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8485073/name/Nuweou+CO-F+d12-4",
+		"coords": {
+			"x": 6527.21875,
+			"y": -254.65625,
+			"z": 62706.03125
+		},
+		"distance": 37376.69
+	},
+	{
+		"id": 1347,
+		"type": "starCluster",
+		"name": "Groerld Association",
+		"galMapSearch": "Groerld IL-P d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13593693/name/Groerld+IL-P+d5-0",
+		"coords": {
+			"x": 7139.90625,
+			"y": -11.4375,
+			"z": -10813.4375
+		},
+		"distance": 37396.43
+	},
+	{
+		"id": 456,
+		"type": "minorPOI",
+		"name": "Last Stop Saloon",
+		"galMapSearch": "Fleckia FI-Z d1-6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/124652/name/Fleckia+FI-Z+d1-6",
+		"coords": {
+			"x": 3899.53125,
+			"y": -87.375,
+			"z": 63147.71875
+		},
+		"distance": 37448.76
+	},
+	{
+		"id": 1375,
+		"type": "stellarRemnant",
+		"name": "PZ Cassiopeiae",
+		"galMapSearch": "HIP 117078",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1968648/name/HIP+117078",
+		"coords": {
+			"x": -16367.90625,
+			"y": 46.96875,
+			"z": -7773.8125
+		},
+		"distance": 37452.14
+	},
+	{
+		"id": 1912,
+		"type": "minorPOI",
+		"name": "Voyager's Reach",
+		"galMapSearch": "Byoo Briae CW-C c26-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22242389/name/Byoo+Briae+CW-C+c26-0",
+		"coords": {
+			"x": 20020.5625,
+			"y": 20.0625,
+			"z": 57659.6875
+		},
+		"distance": 37529.92
+	},
+	{
+		"id": 1644,
+		"type": "minorPOI",
+		"name": "Trapped Shepherds",
+		"galMapSearch": "Dehio LO-U b50-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21694447/name/Dehio+LO-U+b50-0",
+		"coords": {
+			"x": -34145.15625,
+			"y": -52.8125,
+			"z": 10257.6875
+		},
+		"distance": 37580.53
+	},
+	{
+		"id": 560,
+		"type": "minorPOI",
+		"name": "Goliath's Sling",
+		"galMapSearch": "Groa Eaeb KT-O d7-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/164272/name/Groa+Eaeb+KT-O+d7-4",
+		"coords": {
+			"x": 36435.1875,
+			"y": -31.71875,
+			"z": 16237.21875
+		},
+		"distance": 37670.34
+	},
+	{
+		"id": 516,
+		"type": "minorPOI",
+		"name": "The Four Muses",
+		"galMapSearch": "Strivie JG-Y e3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3228847/name/Strivie+JG-Y+e3",
+		"coords": {
+			"x": -24826.53125,
+			"y": 68.9375,
+			"z": 54238.34375
+		},
+		"distance": 37691.92
+	},
+	{
+		"id": 104,
+		"type": "minorPOI",
+		"name": "Oob",
+		"galMapSearch": "Oob Airg WO-J b50-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206762/name/Oob+Airg+WO-J+b50-1",
+		"coords": {
+			"x": -11138.25,
+			"y": 58.0625,
+			"z": -10214.96875
+		},
+		"distance": 37801.03
+	},
+	{
+		"id": 97,
+		"type": "blackHole",
+		"name": "Explorer's End",
+		"galMapSearch": "Phae Phlai AA-A h0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1907806/name/Phae+Phlai+AA-A+h0",
+		"coords": {
+			"x": -18735.53125,
+			"y": 350.3125,
+			"z": -7077.40625
+		},
+		"distance": 37942.2
+	},
+	{
+		"id": 62,
+		"type": "minorPOI",
+		"name": "Permadesco Freckie",
+		"galMapSearch": "Freckie FG-Y d10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2205920/name/Freckie+FG-Y+d10",
+		"coords": {
+			"x": 7766.46875,
+			"y": -10.84375,
+			"z": 63048.6875
+		},
+		"distance": 37946.73
+	},
+	{
+		"id": 2218,
+		"type": "organicPOI",
+		"name": "Jewels of Tenebrae",
+		"galMapSearch": "Byai Airgh WD-K d8-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/49423975/name/Byai+Airgh+WD-K+d8-0",
+		"coords": {
+			"x": 36777.90625,
+			"y": -22,
+			"z": 16319.59375
+		},
+		"distance": 37980.83
+	},
+	{
+		"id": 1393,
+		"type": "blackHole",
+		"name": "Ostium Tenebris",
+		"galMapSearch": "Pla Aick GA-A e1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14033879/name/Pla+Aick+GA-A+e1",
+		"coords": {
+			"x": 34202.09375,
+			"y": 7.09375,
+			"z": 9181.96875
+		},
+		"distance": 38046.7
+	},
+	{
+		"id": 1724,
+		"type": "planetFeatures",
+		"name": "Calidum Capsicum Annuum (Hot Potato)",
+		"galMapSearch": "Streau Eop ZP-N c23-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25259723/name/Streau+Eop+ZP-N+c23-0",
+		"coords": {
+			"x": -2183.09375,
+			"y": -78.40625,
+			"z": 63935.625
+		},
+		"distance": 38099.75
+	},
+	{
+		"id": 106,
+		"type": "blackHole",
+		"name": "'Opposites'",
+		"galMapSearch": "Smaidou ZE-A g0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/126751/name/Smaidou+ZE-A+g0",
+		"coords": {
+			"x": -14245.71875,
+			"y": -88.03125,
+			"z": -9557.875
+		},
+		"distance": 38222.02
+	},
+	{
+		"id": 1661,
+		"type": "stellarRemnant",
+		"name": "Pamplemousse",
+		"galMapSearch": "Dryeou Flaae OM-W d1-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14700998/name/Dryeou+Flaae+OM-W+d1-4",
+		"coords": {
+			"x": 37535.78125,
+			"y": 34.5625,
+			"z": 18347.09375
+		},
+		"distance": 38263.45
+	},
+	{
+		"id": 2030,
+		"type": "minorPOI",
+		"name": "Brothers And Sisters Of The Void",
+		"galMapSearch": "Thuechoea ZE-A g0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41701935/name/Thuechoea+ZE-A+g0",
+		"coords": {
+			"x": -26997.03125,
+			"y": -48.75,
+			"z": 53262.78125
+		},
+		"distance": 38456.81
+	},
+	{
+		"id": 1405,
+		"type": "minorPOI",
+		"name": "Little Trojan",
+		"galMapSearch": "Myoidu HS-S d4-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14666123/name/Myoidu+HS-S+d4-3",
+		"coords": {
+			"x": -20258.5,
+			"y": 622.15625,
+			"z": -7062.21875
+		},
+		"distance": 38708.51
+	},
+	{
+		"id": 364,
+		"type": "minorPOI",
+		"name": "The Twins' Garden",
+		"galMapSearch": "Hyueths HS-H d11-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1415606/name/Hyueths+HS-H+d11-5",
+		"coords": {
+			"x": -93.9375,
+			"y": -55.84375,
+			"z": -12836.96875
+		},
+		"distance": 38737.14
+	},
+	{
+		"id": 53,
+		"type": "planetFeatures",
+		"name": "Podar",
+		"galMapSearch": "Myeia Thaa ZE-R d4-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1550238/name/Myeia+Thaa+ZE-R+d4-0",
+		"coords": {
+			"x": -2203.84375,
+			"y": -5.78125,
+			"z": 64691.65625
+		},
+		"distance": 38855.68
+	},
+	{
+		"id": 100,
+		"type": "minorPOI",
+		"name": "Vigs' Beacon",
+		"galMapSearch": "Vigs AA-A e1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206704/name/Vigs+AA-A+e1",
+		"coords": {
+			"x": -6398.625,
+			"y": 112.125,
+			"z": -12475.25
+		},
+		"distance": 38909.39
+	},
+	{
+		"id": 1794,
+		"type": "planetFeatures",
+		"name": "Gates Of Alighieri",
+		"galMapSearch": "Blaei Eun CF-E b39-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27649408/name/Blaei+Eun+CF-E+b39-0",
+		"coords": {
+			"x": 32820.3125,
+			"y": -3.4375,
+			"z": 4895.1875
+		},
+		"distance": 38945.08
+	},
+	{
+		"id": 58,
+		"type": "planetFeatures",
+		"name": "Solitude",
+		"galMapSearch": "Ceeckia KU-M d8-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2046951/name/Ceeckia+KU-M+d8-1",
+		"coords": {
+			"x": -1114.34375,
+			"y": -163.6875,
+			"z": 64943.09375
+		},
+		"distance": 39060.01
+	},
+	{
+		"id": 1401,
+		"type": "minorPOI",
+		"name": "Celeri Transitu",
+		"galMapSearch": "Spliech UE-Y c14-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14285265/name/Spliech+UE-Y+c14-0",
+		"coords": {
+			"x": 417.09375,
+			"y": 93.4375,
+			"z": -13189.28125
+		},
+		"distance": 39091.38
+	},
+	{
+		"id": 876,
+		"type": "historicalLocation",
+		"name": "VonRictofen's Rescue",
+		"galMapSearch": "VonRictofen's Rescue",
+		"galMapUrl": "https://www.edsm.net/en/system/id/124860/name/VonRictofen%27s+Rescue",
+		"coords": {
+			"x": -887.96875,
+			"y": -16.5,
+			"z": 64987.21875
+		},
+		"distance": 39097.92
+	},
+	{
+		"id": 877,
+		"type": "historicalLocation",
+		"name": "Macedonica's Leap",
+		"galMapSearch": "Macedonica's Leap",
+		"galMapUrl": "https://www.edsm.net/en/system/id/662244/name/Macedonica%27s+Leap",
+		"coords": {
+			"x": -923.59375,
+			"y": -8.28125,
+			"z": 65005.21875
+		},
+		"distance": 39116.76
+	},
+	{
+		"id": 59,
+		"type": "minorPOI",
+		"name": "Tunveer's World",
+		"galMapSearch": "Ceeckia QA-L d9-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/125027/name/Ceeckia+QA-L+d9-0",
+		"coords": {
+			"x": -995.3125,
+			"y": -126.8125,
+			"z": 65052.71875
+		},
+		"distance": 39166.19
+	},
+	{
+		"id": 60,
+		"type": "minorPOI",
+		"name": "Lynx Legacy",
+		"galMapSearch": "Iorant GM-L c21-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2205909/name/Iorant+GM-L+c21-0",
+		"coords": {
+			"x": -624.5625,
+			"y": -22.875,
+			"z": 65135.4375
+		},
+		"distance": 39240.85
+	},
+	{
+		"id": 1213,
+		"type": "minorPOI",
+		"name": "Baton's Geyser",
+		"galMapSearch": "Ceeckia SD-R c21-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5392646/name/Ceeckia+SD-R+c21-0",
+		"coords": {
+			"x": -862.125,
+			"y": -99.15625,
+			"z": 65139.59375
+		},
+		"distance": 39249.73
+	},
+	{
+		"id": 51,
+		"type": "historicalLocation",
+		"name": "Beagle Point",
+		"galMapSearch": "Beagle Point",
+		"galMapUrl": "https://www.edsm.net/en/system/id/124406/name/Beagle+Point",
+		"coords": {
+			"x": -1111.5625,
+			"y": -134.21875,
+			"z": 65269.75
+		},
+		"distance": 39386.35
+	},
+	{
+		"id": 1598,
+		"type": "planetFeatures",
+		"name": "Rings Shore",
+		"galMapSearch": "Smaidiae IZ-M d8-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/20318763/name/Smaidiae+IZ-M+d8-7",
+		"coords": {
+			"x": -17751.03125,
+			"y": -41.75,
+			"z": -9289.46875
+		},
+		"distance": 39424.51
+	},
+	{
+		"id": 57,
+		"type": "minorPOI",
+		"name": "The 'Treehouse",
+		"galMapSearch": "Iorant FR-C c26-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/143932/name/Iorant+FR-C+c26-0",
+		"coords": {
+			"x": -420.125,
+			"y": -23.28125,
+			"z": 65338.59375
+		},
+		"distance": 39441.14
+	},
+	{
+		"id": 2252,
+		"type": "planetFeatures",
+		"name": "Theophrastus's Conservatory",
+		"galMapSearch": "Swauwry UY-S d3-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/71764623/name/Swauwry+UY-S+d3-5",
+		"coords": {
+			"x": 37433.375,
+			"y": 33.84375,
+			"z": 13354.84375
+		},
+		"distance": 39455.71
+	},
+	{
+		"id": 971,
+		"type": "historicalLocation",
+		"name": "Nansen's Star",
+		"galMapSearch": "Myeia Thaa JI-B d13-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/604404/name/Myeia+Thaa+JI-B+d13-0",
+		"coords": {
+			"x": -2215.78125,
+			"y": -11.59375,
+			"z": 65336.15625
+		},
+		"distance": 39499.81
+	},
+	{
+		"id": 50,
+		"type": "stellarRemnant",
+		"name": "Asterous - The 'Northern' Meridian",
+		"galMapSearch": "Iorady JO-Z d13-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2096051/name/Iorady+JO-Z+d13-0",
+		"coords": {
+			"x": 26.90625,
+			"y": -13.6875,
+			"z": 65424.3125
+		},
+		"distance": 39524.34
+	},
+	{
+		"id": 1723,
+		"type": "minorPOI",
+		"name": "Distant Tan",
+		"galMapSearch": "Byooe Chraea JL-P d5-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23504261/name/Byooe+Chraea+JL-P+d5-1",
+		"coords": {
+			"x": -27310.96875,
+			"y": 24.25,
+			"z": 54511.4375
+		},
+		"distance": 39571.27
+	},
+	{
+		"id": 485,
+		"type": "stellarRemnant",
+		"name": "Pernicious - The 'Eastern' Meridian",
+		"galMapSearch": "Plae Eur IC-D d12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/254155/name/Plae+Eur+IC-D+d12-0",
+		"coords": {
+			"x": 30017.21875,
+			"y": -21.0625,
+			"z": -11.78125
+		},
+		"distance": 39635.07
+	},
+	{
+		"id": 484,
+		"type": "minorPOI",
+		"name": "Deuteros",
+		"galMapSearch": "Cyuefai RP-K b49-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/254132/name/Cyuefai+RP-K+b49-0",
+		"coords": {
+			"x": -30003.25,
+			"y": -8.375,
+			"z": -0.65625
+		},
+		"distance": 39655.41
+	},
+	{
+		"id": 478,
+		"type": "stellarRemnant",
+		"name": "Procul",
+		"galMapSearch": "Oevaxy IG-Y d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1456078/name/Oevaxy+IG-Y+d0",
+		"coords": {
+			"x": -971.03125,
+			"y": -23.125,
+			"z": 65619.875
+		},
+		"distance": 39732.4
+	},
+	{
+		"id": 2069,
+		"type": "planetFeatures",
+		"name": "Fly By Ice",
+		"galMapSearch": "Ausain CO-S c17-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/47159548/name/Ausain+CO-S+c17-2",
+		"coords": {
+			"x": 38282.46875,
+			"y": -4.5625,
+			"z": 15091.5625
+		},
+		"distance": 39754.74
+	},
+	{
+		"id": 1333,
+		"type": "historicalLocation",
+		"name": "Semotus Beacon & Salomé's Reach",
+		"galMapSearch": "Oevasy SG-Y d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1695466/name/Oevasy+SG-Y+d0",
+		"coords": {
+			"x": -1502.15625,
+			"y": -2.625,
+			"z": 65630.15625
+		},
+		"distance": 39759.54
+	},
+	{
+		"id": 2019,
+		"type": "surfacePOI",
+		"name": "The Aidohs Platforms",
+		"galMapSearch": "Aidohs JI-A d14-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16784020/name/Aidohs+JI-A+d14-0",
+		"coords": {
+			"x": 1993.15625,
+			"y": 341.625,
+			"z": -13871.375
+		},
+		"distance": 39821.65
+	},
+	{
+		"id": 81,
+		"type": "planetFeatures",
+		"name": "Void's Brink",
+		"galMapSearch": "Chanoa QK-C d14-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/174765/name/Chanoa+QK-C+d14-0",
+		"coords": {
+			"x": 39307.25,
+			"y": -92.4375,
+			"z": 19338.375
+		},
+		"distance": 39826.34
+	},
+	{
+		"id": 1531,
+		"type": "surfacePOI",
+		"name": "White Walker’s Nightmare",
+		"galMapSearch": "Dryaea Phlai IB-P b19-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17839205/name/Dryaea+Phlai+IB-P+b19-0",
+		"coords": {
+			"x": -11770.1875,
+			"y": -20.25,
+			"z": -12162.53125
+		},
+		"distance": 39848.28
+	},
+	{
+		"id": 636,
+		"type": "stellarRemnant",
+		"name": "3 Geminorum",
+		"galMapSearch": "3 Geminorum",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4932952/name/3+Geminorum",
+		"coords": {
+			"x": 1996.3125,
+			"y": 587.5625,
+			"z": -14027.53125
+		},
+		"distance": 39980.75
+	},
+	{
+		"id": 507,
+		"type": "stellarRemnant",
+		"name": "Blue In The Black",
+		"galMapSearch": "Footie AA-A g0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2938094/name/Footie+AA-A+g0",
+		"coords": {
+			"x": -30620.1875,
+			"y": 171.40625,
+			"z": 51702.0625
+		},
+		"distance": 40061.53
+	},
+	{
+		"id": 115,
+		"type": "minorPOI",
+		"name": "Westpoint Ormand",
+		"galMapSearch": "Cyuefai BC-D d12-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206966/name/Cyuefai+BC-D+d12-4",
+		"coords": {
+			"x": -30697.34375,
+			"y": 0.375,
+			"z": -2.09375
+		},
+		"distance": 40184.49
+	},
+	{
+		"id": 2063,
+		"type": "surfacePOI",
+		"name": "The Amphitheatre",
+		"galMapSearch": "Slacheae CK-A d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/46703820/name/Slacheae+CK-A+d0",
+		"coords": {
+			"x": -35419.59375,
+			"y": -1139.21875,
+			"z": 45023.71875
+		},
+		"distance": 40290.24
+	},
+	{
+		"id": 791,
+		"type": "planetaryNebula",
+		"name": "Spongou Nebula",
+		"galMapSearch": "Spongou FA-A e2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3686352/name/Spongou+FA-A+e2",
+		"coords": {
+			"x": -18345.625,
+			"y": -15.46875,
+			"z": -9967.59375
+		},
+		"distance": 40298.51
+	},
+	{
+		"id": 2193,
+		"type": "planetFeatures",
+		"name": "Celestial Slingshot",
+		"galMapSearch": "Oob Aeb XV-P b46-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/54563615/name/Oob+Aeb+XV-P+b46-0",
+		"coords": {
+			"x": -11480.65625,
+			"y": -23.3125,
+			"z": -12862.25
+		},
+		"distance": 40433.83
+	},
+	{
+		"id": 2250,
+		"type": "historicalLocation",
+		"name": "Cloud One",
+		"galMapSearch": "Nyoijaa QD-K d8-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15337325/name/Nyoijaa+QD-K+d8-0",
+		"coords": {
+			"x": 40172.84375,
+			"y": -15.21875,
+			"z": 20170
+		},
+		"distance": 40554.46
+	},
+	{
+		"id": 2222,
+		"type": "stellarRemnant",
+		"name": "HD 11092",
+		"galMapSearch": "HD 11092",
+		"galMapUrl": "https://www.edsm.net/en/system/id/68121239/name/HD+11092",
+		"coords": {
+			"x": -14771.0625,
+			"y": 1020.5,
+			"z": -12201.6875
+		},
+		"distance": 40887.05
+	},
+	{
+		"id": 98,
+		"type": "historicalLocation",
+		"name": "Point Decision",
+		"galMapSearch": "Aicods KD-K d8-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206702/name/Aicods+KD-K+d8-3",
+		"coords": {
+			"x": -7684.75,
+			"y": 13.46875,
+			"z": -14373.46875
+		},
+		"distance": 41004.81
+	},
+	{
+		"id": 93,
+		"type": "starCluster",
+		"name": "The Brown Dwarf Microcluster",
+		"galMapSearch": "Pheia Euq CA-A d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206674/name/Pheia+Euq+CA-A+d0",
+		"coords": {
+			"x": 107.15625,
+			"y": -20.0625,
+			"z": -15141.6875
+		},
+		"distance": 41041.74
+	},
+	{
+		"id": 296,
+		"type": "blackHole",
+		"name": "Cygni X-3",
+		"galMapSearch": "Cygni X-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53595/name/Cygni+X-3",
+		"coords": {
+			"x": -36417.71875,
+			"y": 452.0625,
+			"z": 6522.71875
+		},
+		"distance": 41276.98
+	},
+	{
+		"id": 967,
+		"type": "historicalLocation",
+		"name": "Magellan's Star",
+		"galMapSearch": "Ood Fleau ZJ-I d9-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3756697/name/Ood+Fleau+ZJ-I+d9-0",
+		"coords": {
+			"x": 40503.8125,
+			"y": 25.96875,
+			"z": 17678
+		},
+		"distance": 41305.2
+	},
+	{
+		"id": 365,
+		"type": "minorPOI",
+		"name": "Borchgrevink Point",
+		"galMapSearch": "Hypuae Euq XV-E d11-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1188579/name/Hypuae+Euq+XV-E+d11-0",
+		"coords": {
+			"x": 25.03125,
+			"y": -16.875,
+			"z": -15461.9375
+		},
+		"distance": 41361.91
+	},
+	{
+		"id": 1544,
+		"type": "minorPOI",
+		"name": "Ice on fire",
+		"galMapSearch": "Wimly LN-B d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18028198/name/Wimly+LN-B+d0",
+		"coords": {
+			"x": 15380.0625,
+			"y": 615.96875,
+			"z": -12581.8125
+		},
+		"distance": 41436.99
+	},
+	{
+		"id": 579,
+		"type": "historicalLocation",
+		"name": "Star One",
+		"galMapSearch": "Byaa Thoi GC-D d12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4247648/name/Byaa+Thoi+GC-D+d12-0",
+		"coords": {
+			"x": -35413.03125,
+			"y": -14.75,
+			"z": 3821.46875
+		},
+		"distance": 41753.2
+	},
+	{
+		"id": 1550,
+		"type": "minorPOI",
+		"name": "Red vs Blue",
+		"galMapSearch": "Eowyg Aewsy AL-P e5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18356267/name/Eowyg+Aewsy+AL-P+e5-0",
+		"coords": {
+			"x": 15725.78125,
+			"y": -17.3125,
+			"z": -12811.3125
+		},
+		"distance": 41774.05
+	},
+	{
+		"id": 1407,
+		"type": "minorPOI",
+		"name": "Hesperus",
+		"galMapSearch": "Cyuefa HC-D d12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14807976/name/Cyuefa+HC-D+d12-0",
+		"coords": {
+			"x": -32762.53125,
+			"y": 7.1875,
+			"z": -3.8125
+		},
+		"distance": 41785.68
+	},
+	{
+		"id": 660,
+		"type": "minorPOI",
+		"name": "Notus - The 'Southern' Meridian",
+		"galMapSearch": "Hypuae Euq ZK-P d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1490807/name/Hypuae+Euq+ZK-P+d5-0",
+		"coords": {
+			"x": 24.84375,
+			"y": -16.96875,
+			"z": -15940.15625
+		},
+		"distance": 41840.13
+	},
+	{
+		"id": 1525,
+		"type": "historicalLocation",
+		"name": "Rimor Captionem",
+		"galMapSearch": "Oedgaf DL-Y g0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14861851/name/Oedgaf+DL-Y+g0",
+		"coords": {
+			"x": -31332.96875,
+			"y": -71.90625,
+			"z": 53801.4375
+		},
+		"distance": 41974.16
+	},
+	{
+		"id": 630,
+		"type": "historicalLocation",
+		"name": "Livingstone Point",
+		"galMapSearch": "Hypuae Euq SY-S d3-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4249517/name/Hypuae+Euq+SY-S+d3-0",
+		"coords": {
+			"x": 101.5625,
+			"y": -22.46875,
+			"z": -16097.09375
+		},
+		"distance": 41997.13
+	},
+	{
+		"id": 1837,
+		"type": "starCluster",
+		"name": "New Zealand Cluster",
+		"galMapSearch": "Hypoe Dryou FR-B b47-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/30029136/name/Hypoe+Dryou+FR-B+b47-0",
+		"coords": {
+			"x": 10077.90625,
+			"y": -62.125,
+			"z": -15420.75
+		},
+		"distance": 42525.99
+	},
+	{
+		"id": 1468,
+		"type": "historicalLocation",
+		"name": "Manifest Destiny - The Western Meridian",
+		"galMapSearch": "Cyuefoo LC-D d12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9933560/name/Cyuefoo+LC-D+d12-0",
+		"coords": {
+			"x": -33742.96875,
+			"y": 53.5,
+			"z": 26.46875
+		},
+		"distance": 42540.97
+	},
+	{
+		"id": 2085,
+		"type": "planetFeatures",
+		"name": "Australis Ferris Wheel",
+		"galMapSearch": "Eol Hypa GE-E d13-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/45660778/name/Eol+Hypa+GE-E+d13-2",
+		"coords": {
+			"x": 18396.0625,
+			"y": -58.4375,
+			"z": -12698.6875
+		},
+		"distance": 42747.46
+	},
+	{
+		"id": 1403,
+		"type": "stellarRemnant",
+		"name": "Arms End",
+		"galMapSearch": "Hypau Aec IO-Z d13-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5858416/name/Hypau+Aec+IO-Z+d13-0",
+		"coords": {
+			"x": 26874.21875,
+			"y": -18.6875,
+			"z": -7473.59375
+		},
+		"distance": 42832.97
+	},
+	{
+		"id": 1569,
+		"type": "minorPOI",
+		"name": "Lone Runner",
+		"galMapSearch": "Jongoae OX-L d7-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16800182/name/Jongoae+OX-L+d7-0",
+		"coords": {
+			"x": 24939.59375,
+			"y": 14.09375,
+			"z": -9350.375
+		},
+		"distance": 43166.12
+	},
+	{
+		"id": 968,
+		"type": "historicalLocation",
+		"name": "Erikson's Star",
+		"galMapSearch": "Sphiesi HX-L d7-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4935564/name/Sphiesi+HX-L+d7-0",
+		"coords": {
+			"x": -42213.8125,
+			"y": -19.21875,
+			"z": 35418.71875
+		},
+		"distance": 43298.3
+	},
+	{
+		"id": 1517,
+		"type": "minorPOI",
+		"name": "Hypnos and Thanatos",
+		"galMapSearch": "Leech TG-Y d8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17264417/name/Leech+TG-Y+d8",
+		"coords": {
+			"x": 11401.84375,
+			"y": -5.3125,
+			"z": -16273.25
+		},
+		"distance": 43680.75
+	},
+	{
+		"id": 84,
+		"type": "historicalLocation",
+		"name": "Shackleton's Star",
+		"galMapSearch": "Lyed KX-A c27-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/604149/name/Lyed+KX-A+c27-0",
+		"coords": {
+			"x": 11170.34375,
+			"y": 6.03125,
+			"z": -16520.875
+		},
+		"distance": 43860.49
+	},
+	{
+		"id": 1016,
+		"type": "historicalLocation",
+		"name": "Amundsen's Star",
+		"galMapSearch": "Lyed YJ-I d9-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3077029/name/Lyed+YJ-I+d9-0",
+		"coords": {
+			"x": 11007.46875,
+			"y": 44.84375,
+			"z": -16899.75
+		},
+		"distance": 44186.31
+	},
+	{
+		"id": 87,
+		"type": "planetFeatures",
+		"name": "Hermit's World",
+		"galMapSearch": "Eolls Hypai LX-B c16-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206515/name/Eolls+Hypai+LX-B+c16-0",
+		"coords": {
+			"x": 21934.28125,
+			"y": -27.84375,
+			"z": -13180
+		},
+		"distance": 44802.36
+	},
+	{
+		"id": 86,
+		"type": "historicalLocation",
+		"name": "Distant Angosk",
+		"galMapSearch": "Angosk DL-P d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/604205/name/Angosk+DL-P+d5-0",
+		"coords": {
+			"x": 22107.8125,
+			"y": -15.40625,
+			"z": -13375.75
+		},
+		"distance": 45058
+	},
+	{
+		"id": 594,
+		"type": "historicalLocation",
+		"name": "Sepositus Beacon",
+		"galMapSearch": "Angosk OM-W d1-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3018860/name/Angosk+OM-W+d1-0",
+		"coords": {
+			"x": 22183.28125,
+			"y": -24.65625,
+			"z": -13696.59375
+		},
+		"distance": 45374.75
+	}
+]

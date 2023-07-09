@@ -1,18 +1,37 @@
 // module imports
 import fs from "fs";
-import { distanceCalc, nearestNeighbor } from "./helperFunctions.js";
+import { distanceCalc, dynamicSort, nearestNeighbor, optimization2Opt } from "./helperFunctions.js";
 
-import POIs from "./../data/NearSol.json" assert { type: "json" };
+import POIs from "./../data/within1kLy.json" assert { type: "json" };
 
 const startTime = new Date();
 console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${POIs.length}" items in the POI list`);
 
-//let solCoords = {x: 0, y: 0, z: 0}
-nearestNeighbor(POIs);
+let solCoords = { x: 0, y: 0, z: 0 };
+// let sagACoords = { x: 25.21875, y: -20.90625, z: 25899.96875 };
+
+// let within1kLy = [];
+//
+// for (let item of POIs) {
+//     if (distanceCalc(solCoords, item.coords) < 2000) within1kLy.push(item);
+// }
+//
+// console.log(within1kLy.length);
+//
+// fs.writeFileSync("./../data/within1kLy.json", JSON.stringify(within1kLy, null, "\t"));
+
+let nearestTime = performance.now();
+
+let initialTrip = nearestNeighbor(POIs);
+
+console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
+
+optimization2Opt(initialTrip);
 
 
 const endTime = new Date();
 console.log(`\nScript ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish`);
+
 /*
 list of types
 
