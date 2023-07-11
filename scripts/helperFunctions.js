@@ -1,18 +1,3 @@
-// helper function for sorting
-export const dynamicSort = (property) => {
-    let sortOrder = 1;
-
-    if (property[0] === "-") {
-        sortOrder = -1;
-        property = property.substr(1);
-    }
-
-    return function (a,b) {
-        let result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
-        return result * sortOrder;
-    }
-}
-
 // function that does euclidean distance calculations
 export const distanceCalc = (point1, point2) => {
     return Math.sqrt(Math.pow((point1.x - point2.x), 2) +
@@ -102,6 +87,7 @@ export const optimization2Opt = (initialPath, distancesObject) => {
 
     // variable to keep the current best trip
     let bestPath = initialPath.path;
+    let pathLength = initialPath.path.length
 
     console.log(`Starting with initial trip point count of: "${initialPath.path.length}" and a total distance of: "${initialPath.totalDistance}"Ly.`);
 
@@ -113,12 +99,12 @@ export const optimization2Opt = (initialPath, distancesObject) => {
         if (roundsDone % 50 == 0) console.log(`Passed iteration: ${roundsDone}`);
 
         // create a loop to go through each pair of the points, excluding the first and last (plus one on the last, since going there anyway in the loop)
-        for (let i = 1; i < initialPath.path.length - 3; i++) {
-            for (let j = i + 1; j < initialPath.path.length - 1; j++) {
+        for (let i = 1; i < pathLength - 3; i++) {
+            for (let j = i + 1; j < pathLength - 1; j++) {
 
                 // get the two pairs of points i want (end has to be +1 because not included)
-                let firstPair = bestPath.slice(i - 1, i + 1);
-                let secondPair = bestPath.slice(j, j + 2);
+                let firstPair = [bestPath[i - 1], bestPath[i]];
+                let secondPair = [bestPath[j], bestPath[j + 1]];
 
                 // get the old distance between the two
                 let oldDistance = distancesObject[firstPair[0]][firstPair[1]] + distancesObject[secondPair[0]][secondPair[1]];
@@ -159,10 +145,7 @@ const combinedDistance = (pointList, distancesObject) => {
 
     // need a loop to iterate through all points, going from first to second to last since it will calculate distance between the current and next in list
     for (let i = 0; i < pointList.length - 1; i++) {
-        // temp split to it's own variable
-        let distanceBetweenTwo = distancesObject[pointList[i]][pointList[i + 1]];
-
-        totalDistance += distanceBetweenTwo;
+        totalDistance += distancesObject[pointList[i]][pointList[i + 1]];
     }
 
     return totalDistance;
