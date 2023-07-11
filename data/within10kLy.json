@@ -1,0 +1,6026 @@
+[
+	{
+		"id": 88,
+		"type": "pulsar",
+		"name": "Crab Pulsar",
+		"galMapSearch": "Crab Pulsar",
+		"galMapUrl": "https://www.edsm.net/en/system/id/71531/name/Crab+Pulsar",
+		"coords": {
+			"x": 558.5,
+			"y": -707.40625,
+			"z": -6941.75
+		}
+	},
+	{
+		"id": 89,
+		"type": "nebula",
+		"name": "Monkey Head Nebula",
+		"galMapSearch": "Monkey Head Sector MT-G a11-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206636/name/Monkey+Head+Sector+MT-G+a11-0",
+		"coords": {
+			"x": 1133.3125,
+			"y": 37.53125,
+			"z": -6283.375
+		}
+	},
+	{
+		"id": 91,
+		"type": "starCluster",
+		"name": "NGC 2286",
+		"galMapSearch": "NGC 2286 Sector WD-T d3-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206672/name/NGC+2286+Sector+WD-T+d3-1",
+		"coords": {
+			"x": 5695.53125,
+			"y": -674,
+			"z": -7754.625
+		}
+	},
+	{
+		"id": 94,
+		"type": "minorPOI",
+		"name": "Sunny Side Down (Planetary Nebula)",
+		"galMapSearch": "Cyoidai GH-U e3-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/129509/name/Cyoidai+GH-U+e3-3",
+		"coords": {
+			"x": 663.1875,
+			"y": -160.9375,
+			"z": -6773.4375
+		}
+	},
+	{
+		"id": 95,
+		"type": "minorPOI",
+		"name": "Terra Madre",
+		"galMapSearch": "Hypiae Aip KX-I c23-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206678/name/Hypiae+Aip+KX-I+c23-1",
+		"coords": {
+			"x": 4748.34375,
+			"y": 177.125,
+			"z": -5176.59375
+		}
+	},
+	{
+		"id": 101,
+		"type": "minorPOI",
+		"name": "Oceanus Coelis",
+		"galMapSearch": "Myoidee YK-P d5-6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2206705/name/Myoidee+YK-P+d5-6",
+		"coords": {
+			"x": -6399.3125,
+			"y": 51.90625,
+			"z": -6940.625
+		}
+	},
+	{
+		"id": 117,
+		"type": "minorPOI",
+		"name": "Daughter's Reach",
+		"galMapSearch": "Ellairb UL-N c7-33",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1985386/name/Ellairb+UL-N+c7-33",
+		"coords": {
+			"x": -1422.21875,
+			"y": 296.875,
+			"z": 9531.625
+		}
+	},
+	{
+		"id": 123,
+		"type": "planetFeatures",
+		"name": "R-Maile's DZ 050316",
+		"galMapSearch": "Prieluia RD-P c20-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/737601/name/Prieluia+RD-P+c20-0",
+		"coords": {
+			"x": 1051.28125,
+			"y": 382.65625,
+			"z": 8806.09375
+		}
+	},
+	{
+		"id": 124,
+		"type": "minorPOI",
+		"name": "Prieluia's Furnace",
+		"galMapSearch": "Prieluia GH-B c27-16",
+		"galMapUrl": "https://www.edsm.net/en/system/id/401735/name/Prieluia+GH-B+c27-16",
+		"coords": {
+			"x": 899.59375,
+			"y": 71.3125,
+			"z": 9060.8125
+		}
+	},
+	{
+		"id": 129,
+		"type": "blackHole",
+		"name": "Thor's Eye",
+		"galMapSearch": "Thor's Eye",
+		"galMapUrl": "https://www.edsm.net/en/system/id/66712/name/Thor%27s+Eye",
+		"coords": {
+			"x": -439.84375,
+			"y": -86.625,
+			"z": 4205.15625
+		}
+	},
+	{
+		"id": 134,
+		"type": "nebula",
+		"name": "Barnard's Loop",
+		"galMapSearch": "Trapezium Sector AF-Z c0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/97169/name/Trapezium+Sector+AF-Z+c0",
+		"coords": {
+			"x": 617.03125,
+			"y": -421.625,
+			"z": -1224.5625
+		}
+	},
+	{
+		"id": 135,
+		"type": "planetaryNebula",
+		"name": "Blue Planetary Nebula",
+		"galMapSearch": "GCRV 715",
+		"galMapUrl": "https://www.edsm.net/en/system/id/81270/name/GCRV+715",
+		"coords": {
+			"x": 4527.25,
+			"y": 409.6875,
+			"z": 2082.28125
+		}
+	},
+	{
+		"id": 136,
+		"type": "nebula",
+		"name": "Bubble Nebula",
+		"galMapSearch": "Bubble Sector PD-S b4-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67028/name/Bubble+Sector+PD-S+b4-4",
+		"coords": {
+			"x": -6570.5,
+			"y": 29.84375,
+			"z": -2680.28125
+		}
+	},
+	{
+		"id": 137,
+		"type": "nebula",
+		"name": "California Nebula",
+		"galMapSearch": "California Sector LX-T b3-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/354214/name/California+Sector+LX-T+b3-0",
+		"coords": {
+			"x": -337.90625,
+			"y": -211.9375,
+			"z": -927.03125
+		}
+	},
+	{
+		"id": 138,
+		"type": "nebula",
+		"name": "Cat's Paw Nebula (NGC 6334)",
+		"galMapSearch": "Cat's Paw Sector IH-V c2-37",
+		"galMapUrl": "https://www.edsm.net/en/system/id/495275/name/Cat%27s+Paw+Sector+IH-V+c2-37",
+		"coords": {
+			"x": 850.09375,
+			"y": 60.9375,
+			"z": 5438.0625
+		}
+	},
+	{
+		"id": 139,
+		"type": "historicalLocation",
+		"name": "The Coalsack & Chameleon Nebulae",
+		"galMapSearch": "Musca Dark Region HM-V c2-29",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22075/name/Musca+Dark+Region+HM-V+c2-29",
+		"coords": {
+			"x": 418.46875,
+			"y": -4.5625,
+			"z": 270.65625
+		}
+	},
+	{
+		"id": 140,
+		"type": "starCluster",
+		"name": "Collinder 470 Supercluster",
+		"galMapSearch": "V1578 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/425598/name/V1578+Cygni",
+		"coords": {
+			"x": -3162.96875,
+			"y": -301.8125,
+			"z": -235
+		}
+	},
+	{
+		"id": 141,
+		"type": "nebula",
+		"name": "Cocoon Nebula",
+		"galMapSearch": "V1576 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18277021/name/V1576+Cygni",
+		"coords": {
+			"x": -3175.9375,
+			"y": -302.4375,
+			"z": -235.78125
+		}
+	},
+	{
+		"id": 143,
+		"type": "nebula",
+		"name": "Eagle Nebula",
+		"galMapSearch": "Eagle Sector EL-Y d203",
+		"galMapUrl": "https://www.edsm.net/en/system/id/35574/name/Eagle+Sector+EL-Y+d203",
+		"coords": {
+			"x": -2036.8125,
+			"y": 99.65625,
+			"z": 6687.0625
+		}
+	},
+	{
+		"id": 144,
+		"type": "nebula",
+		"name": "Elephant's Trunk Nebula",
+		"galMapSearch": "GM Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24541/name/GM+Cephei",
+		"coords": {
+			"x": -2660.96875,
+			"y": 180.15625,
+			"z": -433.15625
+		}
+	},
+	{
+		"id": 145,
+		"type": "nebula",
+		"name": "Eta Carina Nebula",
+		"galMapSearch": "Eta Carina Sector JH-V c2-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/74937/name/Eta+Carina+Sector+JH-V+c2-7",
+		"coords": {
+			"x": 8579.96875,
+			"y": -138.96875,
+			"z": 2701.375
+		}
+	},
+	{
+		"id": 146,
+		"type": "stellarRemnant",
+		"name": "Eta Carinae",
+		"galMapSearch": "Eta Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21226/name/Eta+Carinae",
+		"coords": {
+			"x": 7339.25,
+			"y": -84.625,
+			"z": 2327.6875
+		}
+	},
+	{
+		"id": 147,
+		"type": "nebula",
+		"name": "Flaming Star Emission Nebula",
+		"galMapSearch": "Flaming Star Sector GW-W c1-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41987/name/Flaming+Star+Sector+GW-W+c1-4",
+		"coords": {
+			"x": -233.5,
+			"y": -67.1875,
+			"z": -1681.3125
+		}
+	},
+	{
+		"id": 148,
+		"type": "nebula",
+		"name": "Heart & Soul Nebulae",
+		"galMapSearch": "Hypoae Ain MO-I d9-37",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2325302/name/Hypoae+Ain+MO-I+d9-37",
+		"coords": {
+			"x": -5150.90625,
+			"y": 98.625,
+			"z": -5326.6875
+		}
+	},
+	{
+		"id": 150,
+		"type": "starCluster",
+		"name": "IC 2944 - The Running Chicken Cluster",
+		"galMapSearch": "IC 2944 HG 10004",
+		"galMapUrl": "https://www.edsm.net/en/system/id/83097/name/IC+2944+HG+10004",
+		"coords": {
+			"x": 5289.40625,
+			"y": -155.125,
+			"z": 2437.25
+		}
+	},
+	{
+		"id": 151,
+		"type": "nebula",
+		"name": "Jellyfish Nebula",
+		"galMapSearch": "Jellyfish Sector BA-A e3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/69650/name/Jellyfish+Sector+BA-A+e3",
+		"coords": {
+			"x": 785.1875,
+			"y": 251.625,
+			"z": -4922.15625
+		}
+	},
+	{
+		"id": 152,
+		"type": "starCluster",
+		"name": "CX Crucis (The Jewel Box)",
+		"galMapSearch": "CX Crucis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/85236/name/CX+Crucis",
+		"coords": {
+			"x": 5397.53125,
+			"y": 282.1875,
+			"z": 3536.3125
+		}
+	},
+	{
+		"id": 153,
+		"type": "nebula",
+		"name": "Lagoon Nebula",
+		"galMapSearch": "Herschel 36",
+		"galMapUrl": "https://www.edsm.net/en/system/id/32972/name/Herschel+36",
+		"coords": {
+			"x": -468,
+			"y": -92.1875,
+			"z": 4474.625
+		}
+	},
+	{
+		"id": 154,
+		"type": "planetaryNebula",
+		"name": "Little Ghost",
+		"galMapSearch": "CD-23 13397",
+		"galMapUrl": "https://www.edsm.net/en/system/id/68997/name/CD-23+13397",
+		"coords": {
+			"x": -204.125,
+			"y": 503.65625,
+			"z": 4869.75
+		}
+	},
+	{
+		"id": 155,
+		"type": "nebula",
+		"name": "NGC 281",
+		"galMapSearch": "BD+55 191",
+		"galMapUrl": "https://www.edsm.net/en/system/id/101993/name/BD%2B55+191",
+		"coords": {
+			"x": -6660.25,
+			"y": -870.0625,
+			"z": -4345.59375
+		}
+	},
+	{
+		"id": 156,
+		"type": "starCluster",
+		"name": "NGC 1039 Open Cluster",
+		"galMapSearch": "V823 Persei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/524638/name/V823+Persei",
+		"coords": {
+			"x": -922.75,
+			"y": -432,
+			"z": -1251.8125
+		}
+	},
+	{
+		"id": 157,
+		"type": "starCluster",
+		"name": "NGC 1502 (The Orio-Persean String)",
+		"galMapSearch": "NGC 1502 HOAG 120",
+		"galMapUrl": "https://www.edsm.net/en/system/id/425434/name/NGC+1502+HOAG+120",
+		"coords": {
+			"x": -1575.53125,
+			"y": 358.25,
+			"z": -2141.96875
+		}
+	},
+	{
+		"id": 158,
+		"type": "starCluster",
+		"name": "NGC 1647 Cluster",
+		"galMapSearch": "BD+18 718",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2701383/name/BD%2B18+718",
+		"coords": {
+			"x": 12.4375,
+			"y": -514.46875,
+			"z": -1710.28125
+		}
+	},
+	{
+		"id": 159,
+		"type": "starCluster",
+		"name": "NGC 1960 Open Cluster",
+		"galMapSearch": "NGC 1960 11",
+		"galMapUrl": "https://www.edsm.net/en/system/id/105391/name/NGC+1960+11",
+		"coords": {
+			"x": -408.65625,
+			"y": 80.75,
+			"z": -4289.84375
+		}
+	},
+	{
+		"id": 160,
+		"type": "starCluster",
+		"name": "NGC 2168 Super Cluster",
+		"galMapSearch": "NGC 2168 MMS 278",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2220004/name/NGC+2168+MMS+278",
+		"coords": {
+			"x": 296.125,
+			"y": 93.6875,
+			"z": -2446.375
+		}
+	},
+	{
+		"id": 161,
+		"type": "starCluster",
+		"name": "NGC 2244",
+		"galMapSearch": "NGC 2244 CDZ 157",
+		"galMapUrl": "https://www.edsm.net/en/system/id/75674/name/NGC+2244+CDZ+157",
+		"coords": {
+			"x": 2403.28125,
+			"y": -184.125,
+			"z": -4815.46875
+		}
+	},
+	{
+		"id": 162,
+		"type": "starCluster",
+		"name": "NGC 2367 Open Cluster",
+		"galMapSearch": "NGC 2367 10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2701480/name/NGC+2367+10",
+		"coords": {
+			"x": 5360,
+			"y": -436.8125,
+			"z": -3670.53125
+		}
+	},
+	{
+		"id": 163,
+		"type": "starCluster",
+		"name": "NGC 2374 Open Cluster",
+		"galMapSearch": "NGC 2374 Sector BA-A e0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2701485/name/NGC+2374+Sector+BA-A+e0",
+		"coords": {
+			"x": 3532.84375,
+			"y": -29.9375,
+			"z": -3313.0625
+		}
+	},
+	{
+		"id": 164,
+		"type": "starCluster",
+		"name": "NGC 2384 Open Cluster",
+		"galMapSearch": "CPD-20 2376",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2701490/name/CPD-20+2376",
+		"coords": {
+			"x": 5689.875,
+			"y": -288.03125,
+			"z": -3924.4375
+		}
+	},
+	{
+		"id": 165,
+		"type": "starCluster",
+		"name": "NGC 3293 Open Star Cluster",
+		"galMapSearch": "V405 Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/91491/name/V405+Carinae",
+		"coords": {
+			"x": 7330.59375,
+			"y": 11.78125,
+			"z": 2079.9375
+		}
+	},
+	{
+		"id": 166,
+		"type": "starCluster",
+		"name": "NGC 3590 Open Star Cluster",
+		"galMapSearch": "NGC 3590 36",
+		"galMapUrl": "https://www.edsm.net/en/system/id/81522/name/NGC+3590+36",
+		"coords": {
+			"x": 4946.53125,
+			"y": -14.1875,
+			"z": 1916.90625
+		}
+	},
+	{
+		"id": 167,
+		"type": "planetaryNebula",
+		"name": "Autumn Nebula",
+		"galMapSearch": "NGC 4463 Sector RY-R e4-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1024405/name/NGC+4463+Sector+RY-R+e4-5",
+		"coords": {
+			"x": 3252.46875,
+			"y": -4.625,
+			"z": 2009
+		}
+	},
+	{
+		"id": 168,
+		"type": "starCluster",
+		"name": "NGC 5606 Open Cluster",
+		"galMapSearch": "HD 126449",
+		"galMapUrl": "https://www.edsm.net/en/system/id/460454/name/HD+126449",
+		"coords": {
+			"x": 4137.53125,
+			"y": 101.15625,
+			"z": 4114.5
+		}
+	},
+	{
+		"id": 169,
+		"type": "nebula",
+		"name": "NGC 6357",
+		"galMapSearch": "Cl Pismis 2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/44945/name/Cl+Pismis+2",
+		"coords": {
+			"x": 963.65625,
+			"y": 142.0625,
+			"z": 8081.5
+		}
+	},
+	{
+		"id": 170,
+		"type": "starCluster",
+		"name": "NGC 6705 (Wild Duck Cluster)",
+		"galMapSearch": "NGC 6705 1204",
+		"galMapUrl": "https://www.edsm.net/en/system/id/87966/name/NGC+6705+1204",
+		"coords": {
+			"x": -2805.15625,
+			"y": -298.53125,
+			"z": 5446.8125
+		}
+	},
+	{
+		"id": 171,
+		"type": "nebula",
+		"name": "NGC 6820 Nebula & NGC 6823 Cluster",
+		"galMapSearch": "NGC 6820 Sector GW-W d1-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22133/name/NGC+6820+Sector+GW-W+d1-0",
+		"coords": {
+			"x": -5572.84375,
+			"y": -11.65625,
+			"z": 3342.6875
+		}
+	},
+	{
+		"id": 172,
+		"type": "nebula",
+		"name": "NGC 7538 Nebula",
+		"galMapSearch": "NGC 7538 Sector PD-S b4-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/323345/name/NGC+7538+Sector+PD-S+b4-1",
+		"coords": {
+			"x": -8376.71875,
+			"y": 126.0625,
+			"z": -3300.5
+		}
+	},
+	{
+		"id": 173,
+		"type": "nebula",
+		"name": "NGC 7822",
+		"galMapSearch": "S171 37",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22469/name/S171+37",
+		"coords": {
+			"x": -2460.28125,
+			"y": 301.28125,
+			"z": -1344.90625
+		}
+	},
+	{
+		"id": 174,
+		"type": "nebula",
+		"name": "Omega Nebula",
+		"galMapSearch": "Omega Sector PD-S b4-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/35579/name/Omega+Sector+PD-S+b4-0",
+		"coords": {
+			"x": -1432.0625,
+			"y": -75.46875,
+			"z": 5308.125
+		}
+	},
+	{
+		"id": 175,
+		"type": "regional",
+		"name": "Owl's Garden",
+		"galMapSearch": "Blo Eurl AA-A h0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1588083/name/Blo+Eurl+AA-A+h0",
+		"coords": {
+			"x": 2587.09375,
+			"y": 684.25,
+			"z": 4987.46875
+		}
+	},
+	{
+		"id": 177,
+		"type": "starCluster",
+		"name": "The Pleiades",
+		"galMapSearch": "Pleione",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25525/name/Pleione",
+		"coords": {
+			"x": -77,
+			"y": -146.78125,
+			"z": -344.125
+		}
+	},
+	{
+		"id": 178,
+		"type": "starCluster",
+		"name": "The PW2010 Supercluster",
+		"galMapSearch": "PW2010 210",
+		"galMapUrl": "https://www.edsm.net/en/system/id/45741/name/PW2010+210",
+		"coords": {
+			"x": -1337.9375,
+			"y": -48.34375,
+			"z": 5305.6875
+		}
+	},
+	{
+		"id": 179,
+		"type": "nebula",
+		"name": "Rosette Nebula",
+		"galMapSearch": "Rosette Sector CQ-Y d59",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2128425/name/Rosette+Sector+CQ-Y+d59",
+		"coords": {
+			"x": 2345.96875,
+			"y": -167.4375,
+			"z": -4752.90625
+		}
+	},
+	{
+		"id": 180,
+		"type": "nebula",
+		"name": "Seagull Nebula",
+		"galMapSearch": "BD-10 1848",
+		"galMapUrl": "https://www.edsm.net/en/system/id/61916/name/BD-10+1848",
+		"coords": {
+			"x": 2656.375,
+			"y": -159.15625,
+			"z": -2712.625
+		}
+	},
+	{
+		"id": 181,
+		"type": "planetaryNebula",
+		"name": "Shapley 1 (The Fine Ring Nebula)",
+		"galMapSearch": "Shapley 1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/35977/name/Shapley+1",
+		"coords": {
+			"x": 513.21875,
+			"y": 34.875,
+			"z": 857.53125
+		}
+	},
+	{
+		"id": 182,
+		"type": "historicalLocation",
+		"name": "Sol",
+		"galMapSearch": "Sol",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27/name/Sol",
+		"coords": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 183,
+		"type": "planetaryNebula",
+		"name": "Spiral Planetary Nebula",
+		"galMapSearch": "KN Muscae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/36321/name/KN+Muscae",
+		"coords": {
+			"x": 1415.3125,
+			"y": -105.59375,
+			"z": 1074.28125
+		}
+	},
+	{
+		"id": 184,
+		"type": "stellarRemnant",
+		"name": "Star of India",
+		"galMapSearch": "Star Of India",
+		"galMapUrl": "https://www.edsm.net/en/system/id/34155/name/Star+Of+India",
+		"coords": {
+			"x": -1840.5625,
+			"y": 95.25,
+			"z": 610.3125
+		}
+	},
+	{
+		"id": 185,
+		"type": "nebula",
+		"name": "Statue of Liberty Nebula",
+		"galMapSearch": "Statue of Liberty Sector LC-V c2-12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/81908/name/Statue+of+Liberty+Sector+LC-V+c2-12",
+		"coords": {
+			"x": 5588.71875,
+			"y": -70.71875,
+			"z": 2183.75
+		}
+	},
+	{
+		"id": 186,
+		"type": "nebula",
+		"name": "Thor's Helmet (Emission Nebula)",
+		"galMapSearch": "ALS 299",
+		"galMapUrl": "https://www.edsm.net/en/system/id/84183/name/ALS+299",
+		"coords": {
+			"x": 2704.15625,
+			"y": -19.1875,
+			"z": -2469.28125
+		}
+	},
+	{
+		"id": 187,
+		"type": "stellarRemnant",
+		"name": "The Traikeou Wolf-Rayet",
+		"galMapSearch": "Traikeou AA-A h0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2295386/name/Traikeou+AA-A+h0",
+		"coords": {
+			"x": -6959.4375,
+			"y": 148.59375,
+			"z": 5198.375
+		}
+	},
+	{
+		"id": 188,
+		"type": "nebula",
+		"name": "Trifid Nebula",
+		"galMapSearch": "Trifid Sector DH-K a9-6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/360485/name/Trifid+Sector+DH-K+a9-6",
+		"coords": {
+			"x": -637.65625,
+			"y": -26.375,
+			"z": 5161.90625
+		}
+	},
+	{
+		"id": 189,
+		"type": "starCluster",
+		"name": "Trifid of the North",
+		"galMapSearch": "Trifid of the North Sector HR-W d1-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/37372/name/Trifid+of+the+North+Sector+HR-W+d1-1",
+		"coords": {
+			"x": -649.59375,
+			"y": -416.75,
+			"z": -2474.6875
+		}
+	},
+	{
+		"id": 190,
+		"type": "starCluster",
+		"name": "Trumpler 16 Cluster",
+		"galMapSearch": "Trumpler 16 HG 1462",
+		"galMapUrl": "https://www.edsm.net/en/system/id/94246/name/Trumpler+16+HG+1462",
+		"coords": {
+			"x": 7824.15625,
+			"y": -100.3125,
+			"z": 2481.96875
+		}
+	},
+	{
+		"id": 191,
+		"type": "starCluster",
+		"name": "NGC 2099 Open Cluster (Messier 37)",
+		"galMapSearch": "NGC 2099 PPM 27",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2702261/name/NGC+2099+PPM+27",
+		"coords": {
+			"x": -169.71875,
+			"y": 223.15625,
+			"z": -4104.4375
+		}
+	},
+	{
+		"id": 192,
+		"type": "starCluster",
+		"name": "V945 Scorpii",
+		"galMapSearch": "V945 Scorpii",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23074/name/V945+Scorpii",
+		"coords": {
+			"x": 1144.875,
+			"y": 83.40625,
+			"z": 3840.09375
+		}
+	},
+	{
+		"id": 194,
+		"type": "stellarRemnant",
+		"name": "VY Canis Majoris",
+		"galMapSearch": "VY Canis Majoris",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25862/name/VY+Canis+Majoris",
+		"coords": {
+			"x": 1576.0625,
+			"y": -150.21875,
+			"z": -922.53125
+		}
+	},
+	{
+		"id": 195,
+		"type": "nebula",
+		"name": "Vela Dark Region",
+		"galMapSearch": "Vela Dark Region LC-V c2-29",
+		"galMapUrl": "https://www.edsm.net/en/system/id/261601/name/Vela+Dark+Region+LC-V+c2-29",
+		"coords": {
+			"x": 991.0625,
+			"y": -123.53125,
+			"z": -48.96875
+		}
+	},
+	{
+		"id": 197,
+		"type": "nebula",
+		"name": "Sadr",
+		"galMapSearch": "Sadr",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25634/name/Sadr",
+		"coords": {
+			"x": -1794.6875,
+			"y": 53.6875,
+			"z": 365.84375
+		}
+	},
+	{
+		"id": 198,
+		"type": "stellarRemnant",
+		"name": "Gamma Velorum (Regor)",
+		"galMapSearch": "Gamma Velorum",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1969353/name/Gamma+Velorum",
+		"coords": {
+			"x": 1099.21875,
+			"y": -146.6875,
+			"z": -133.59375
+		}
+	},
+	{
+		"id": 199,
+		"type": "planetaryNebula",
+		"name": "Ghost of Jupiter",
+		"galMapSearch": "BD-17 3140",
+		"galMapUrl": "https://www.edsm.net/en/system/id/88200/name/BD-17+3140",
+		"coords": {
+			"x": 1171.6875,
+			"y": 743.9375,
+			"z": -183.5
+		}
+	},
+	{
+		"id": 200,
+		"type": "stellarRemnant",
+		"name": "Y Canum Venaticorum",
+		"galMapSearch": "Y Canum Venaticorum",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2704366/name/Y+Canum+Venaticorum",
+		"coords": {
+			"x": -264.8125,
+			"y": 993.90625,
+			"z": -186.75
+		}
+	},
+	{
+		"id": 201,
+		"type": "stellarRemnant",
+		"name": "Upsilon Carinae",
+		"galMapSearch": "Upsilon Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/105925/name/Upsilon+Carinae",
+		"coords": {
+			"x": 1369.21875,
+			"y": -222.625,
+			"z": 374.375
+		}
+	},
+	{
+		"id": 202,
+		"type": "planetFeatures",
+		"name": "Alessia's Pearls",
+		"galMapSearch": "Outopps KO-X c28-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2704423/name/Outopps+KO-X+c28-0",
+		"coords": {
+			"x": -585.40625,
+			"y": 22.4375,
+			"z": -1087.90625
+		}
+	},
+	{
+		"id": 203,
+		"type": "starCluster",
+		"name": "NGC 1333 Star Cluster",
+		"galMapSearch": "GMM2008 22",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3299799/name/GMM2008+22",
+		"coords": {
+			"x": -381.5,
+			"y": -385.21875,
+			"z": -957.15625
+		}
+	},
+	{
+		"id": 204,
+		"type": "minorPOI",
+		"name": "Loneworld",
+		"galMapSearch": "Ploi Thua KS-J c22-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2704491/name/Ploi+Thua+KS-J+c22-0",
+		"coords": {
+			"x": -602,
+			"y": 13.25,
+			"z": -2640.9375
+		}
+	},
+	{
+		"id": 205,
+		"type": "blackHole",
+		"name": "Oochorrs Lighthouse",
+		"galMapSearch": "HD 43193",
+		"galMapUrl": "https://www.edsm.net/en/system/id/85920/name/HD+43193",
+		"coords": {
+			"x": 905.3125,
+			"y": -271.6875,
+			"z": -1465.875
+		}
+	},
+	{
+		"id": 206,
+		"type": "minorPOI",
+		"name": "Aquarius",
+		"galMapSearch": "Col 70 Sector PH-E b15-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2706940/name/Col+70+Sector+PH-E+b15-0",
+		"coords": {
+			"x": 880.625,
+			"y": -224.71875,
+			"z": -1272.78125
+		}
+	},
+	{
+		"id": 207,
+		"type": "planetFeatures",
+		"name": "Cycladia",
+		"galMapSearch": "Blu Thua GI-B b55-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/70222/name/Blu+Thua+GI-B+b55-2",
+		"coords": {
+			"x": 298.75,
+			"y": 131.5625,
+			"z": 2675.65625
+		}
+	},
+	{
+		"id": 208,
+		"type": "minorPOI",
+		"name": "Oceana",
+		"galMapSearch": "Pyult QP-V d3-56",
+		"galMapUrl": "https://www.edsm.net/en/system/id/80900/name/Pyult+QP-V+d3-56",
+		"coords": {
+			"x": 113.1875,
+			"y": -140.84375,
+			"z": -4561.3125
+		}
+	},
+	{
+		"id": 209,
+		"type": "minorPOI",
+		"name": "Delos",
+		"galMapSearch": "Droju UA-D d13-9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/69661/name/Droju+UA-D+d13-9",
+		"coords": {
+			"x": -679.46875,
+			"y": -514.15625,
+			"z": 3922.9375
+		}
+	},
+	{
+		"id": 211,
+		"type": "minorPOI",
+		"name": "Leda",
+		"galMapSearch": "Praea Euq KS-J d9-14",
+		"galMapUrl": "https://www.edsm.net/en/system/id/468657/name/Praea+Euq+KS-J+d9-14",
+		"coords": {
+			"x": 791.53125,
+			"y": 555.25,
+			"z": 1076.625
+		}
+	},
+	{
+		"id": 212,
+		"type": "minorPOI",
+		"name": "The Spiderweb",
+		"galMapSearch": "CPD-57 3520",
+		"galMapUrl": "https://www.edsm.net/en/system/id/107407/name/CPD-57+3520",
+		"coords": {
+			"x": 7433.875,
+			"y": 12.90625,
+			"z": 2111.625
+		}
+	},
+	{
+		"id": 213,
+		"type": "minorPOI",
+		"name": "Six Rings 'o Silver",
+		"galMapSearch": "NGC 5460 Sector DL-Y e6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/484340/name/NGC+5460+Sector+DL-Y+e6",
+		"coords": {
+			"x": 1494.125,
+			"y": 404.71875,
+			"z": 1347.59375
+		}
+	},
+	{
+		"id": 263,
+		"type": "historicalLocation",
+		"name": "CoR Listening Post 'Alpha'",
+		"galMapSearch": "IC 1848 Sector IS-T d3-29",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2681557/name/IC+1848+Sector+IS-T+d3-29",
+		"coords": {
+			"x": -4742.96875,
+			"y": 129.0625,
+			"z": -4812.34375
+		}
+	},
+	{
+		"id": 264,
+		"type": "historicalLocation",
+		"name": "CoR Listening Post 'Beta'",
+		"galMapSearch": "Phrio Phoe MP-E d12-11",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2653233/name/Phrio+Phoe+MP-E+d12-11",
+		"coords": {
+			"x": -6259.53125,
+			"y": -630.1875,
+			"z": -3851.84375
+		}
+	},
+	{
+		"id": 293,
+		"type": "planetaryNebula",
+		"name": "The Bug Nebula (NGC 6302)",
+		"galMapSearch": "CD-36 11341",
+		"galMapUrl": "https://www.edsm.net/en/system/id/20528/name/CD-36+11341",
+		"coords": {
+			"x": 619.46875,
+			"y": 65.25,
+			"z": 3342.4375
+		}
+	},
+	{
+		"id": 298,
+		"type": "minorPOI",
+		"name": "OGLE-TR-113",
+		"galMapSearch": "OGLE-TR-113",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53347/name/OGLE-TR-113",
+		"coords": {
+			"x": 1699,
+			"y": -56.21875,
+			"z": 591.71875
+		}
+	},
+	{
+		"id": 299,
+		"type": "minorPOI",
+		"name": "OGLE2-TR-L9",
+		"galMapSearch": "OGLE2-TR-L9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53346/name/OGLE2-TR-L9",
+		"coords": {
+			"x": 2744,
+			"y": -38.0625,
+			"z": 1040.75
+		}
+	},
+	{
+		"id": 301,
+		"type": "blackHole",
+		"name": "V404 Cygni",
+		"galMapSearch": "V404 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2779037/name/V404+Cygni",
+		"coords": {
+			"x": -7458.9375,
+			"y": -284.65625,
+			"z": 2263.5
+		}
+	},
+	{
+		"id": 302,
+		"type": "blackHole",
+		"name": "V1357 Cygni",
+		"galMapSearch": "V1357 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53352/name/V1357+Cygni",
+		"coords": {
+			"x": -7095.375,
+			"y": 401.25,
+			"z": 2396.8125
+		}
+	},
+	{
+		"id": 304,
+		"type": "blackHole",
+		"name": "QZ Vulpeculae",
+		"galMapSearch": "QZ Vulpeculae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53399/name/QZ+Vulpeculae",
+		"coords": {
+			"x": -7855.5,
+			"y": -460.40625,
+			"z": 3939.4375
+		}
+	},
+	{
+		"id": 306,
+		"type": "minorPOI",
+		"name": "OGLE-2006-BLG-109L",
+		"galMapSearch": "OGLE-2006-BLG-109L",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53344/name/OGLE-2006-BLG-109L",
+		"coords": {
+			"x": 17.875,
+			"y": -162.28125,
+			"z": 4917.28125
+		}
+	},
+	{
+		"id": 308,
+		"type": "blackHole",
+		"name": "V1487 Aquilae",
+		"galMapSearch": "V1487 Aquilae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/702629/name/V1487+Aquilae",
+		"coords": {
+			"x": -5763.96875,
+			"y": -31,
+			"z": 5690.84375
+		}
+	},
+	{
+		"id": 310,
+		"type": "pulsar",
+		"name": "PSR J1709-4429",
+		"galMapSearch": "PSR J1709-4429",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53334/name/PSR+J1709-4429",
+		"coords": {
+			"x": 2272.21875,
+			"y": -366.625,
+			"z": 7477.78125
+		}
+	},
+	{
+		"id": 311,
+		"type": "blackHole",
+		"name": "V1033 Scorpii",
+		"galMapSearch": "V1033 Scorpii",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53353/name/V1033+Scorpii",
+		"coords": {
+			"x": 2071.0625,
+			"y": 342.8125,
+			"z": 7719.625
+		}
+	},
+	{
+		"id": 312,
+		"type": "minorPOI",
+		"name": "OGLE-2011-BLG-0251",
+		"galMapSearch": "OGLE-2011-BLG-0251",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48399/name/OGLE-2011-BLG-0251",
+		"coords": {
+			"x": -97.9375,
+			"y": 341.25,
+			"z": 8373.46875
+		}
+	},
+	{
+		"id": 313,
+		"type": "minorPOI",
+		"name": "OGLE-05-169L",
+		"galMapSearch": "OGLE-05-169L",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48229/name/OGLE-05-169L",
+		"coords": {
+			"x": -103.625,
+			"y": -727.21875,
+			"z": 8769.28125
+		}
+	},
+	{
+		"id": 314,
+		"type": "blackHole",
+		"name": "XTE J1817-330",
+		"galMapSearch": "XTE J1817-330",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48033/name/XTE+J1817-330",
+		"coords": {
+			"x": 31.59375,
+			"y": -1391,
+			"z": 9902.71875
+		}
+	},
+	{
+		"id": 346,
+		"type": "stellarRemnant",
+		"name": "46 Upsilon Sagittarii",
+		"galMapSearch": "46 Upsilon Sagittarii",
+		"galMapUrl": "https://www.edsm.net/en/system/id/193544/name/46+Upsilon+Sagittarii",
+		"coords": {
+			"x": -653.1875,
+			"y": -442,
+			"z": 1598.3125
+		}
+	},
+	{
+		"id": 347,
+		"type": "minorPOI",
+		"name": "Lombard Trinary",
+		"galMapSearch": "Praea Euq UU-F d11-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2782133/name/Praea+Euq+UU-F+d11-0",
+		"coords": {
+			"x": 588.625,
+			"y": 380.4375,
+			"z": 1177.0625
+		}
+	},
+	{
+		"id": 348,
+		"type": "minorPOI",
+		"name": "Old Regaurus Point",
+		"galMapSearch": "Bleia Eohn QY-L c10-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2782160/name/Bleia+Eohn+QY-L+c10-4",
+		"coords": {
+			"x": -191.53125,
+			"y": -147.1875,
+			"z": 1961.03125
+		}
+	},
+	{
+		"id": 349,
+		"type": "stellarRemnant",
+		"name": "The Rings of Atreus",
+		"galMapSearch": "Lysoorb FW-N e6-15",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4981820/name/Lysoorb+FW-N+e6-15",
+		"coords": {
+			"x": 777.4375,
+			"y": 245.0625,
+			"z": 7886.46875
+		}
+	},
+	{
+		"id": 350,
+		"type": "starCluster",
+		"name": "Chi Persei Cluster",
+		"galMapSearch": "MWC 39",
+		"galMapUrl": "https://www.edsm.net/en/system/id/439410/name/MWC+39",
+		"coords": {
+			"x": -5381.90625,
+			"y": -472.78125,
+			"z": -5383.59375
+		}
+	},
+	{
+		"id": 366,
+		"type": "nebula",
+		"name": "NGC 1931 Nebula",
+		"galMapSearch": "NGC 1931 Sector PD-S b4-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/129837/name/NGC+1931+Sector+PD-S+b4-0",
+		"coords": {
+			"x": -743.84375,
+			"y": 37.4375,
+			"z": -6959.15625
+		}
+	},
+	{
+		"id": 375,
+		"type": "stellarRemnant",
+		"name": "Phi Cassiopeiae",
+		"galMapSearch": "Phi Cassiopeiae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2284771/name/Phi+Cassiopeiae",
+		"coords": {
+			"x": -5317.84375,
+			"y": -513.90625,
+			"z": -3964.71875
+		}
+	},
+	{
+		"id": 423,
+		"type": "planetaryNebula",
+		"name": "IC 289 Nebula",
+		"galMapSearch": "NSV 1056",
+		"galMapUrl": "https://www.edsm.net/en/system/id/109615/name/NSV+1056",
+		"coords": {
+			"x": -1118.4375,
+			"y": 83.03125,
+			"z": -1277.59375
+		}
+	},
+	{
+		"id": 426,
+		"type": "nebula",
+		"name": "The Horsehead Nebula",
+		"galMapSearch": "Horsehead Dark Region IR-V c2-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41823/name/Horsehead+Dark+Region+IR-V+c2-0",
+		"coords": {
+			"x": 654.78125,
+			"y": -423.6875,
+			"z": -1287.0625
+		}
+	},
+	{
+		"id": 427,
+		"type": "nebula",
+		"name": "The Orion Nebula",
+		"galMapSearch": "HD 36917",
+		"galMapUrl": "https://www.edsm.net/en/system/id/61675/name/HD+36917",
+		"coords": {
+			"x": 593.3125,
+			"y": -433.53125,
+			"z": -1065.03125
+		}
+	},
+	{
+		"id": 428,
+		"type": "nebula",
+		"name": "Witch Head Nebula",
+		"galMapSearch": "HIP 23759",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21364/name/HIP+23759",
+		"coords": {
+			"x": 359.84375,
+			"y": -385.53125,
+			"z": -718.375
+		}
+	},
+	{
+		"id": 429,
+		"type": "nebula",
+		"name": "Flame Nebula",
+		"galMapSearch": "Trapezium Sector AF-Z c5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/88124/name/Trapezium+Sector+AF-Z+c5",
+		"coords": {
+			"x": 625.75,
+			"y": -401.53125,
+			"z": -1198.53125
+		}
+	},
+	{
+		"id": 430,
+		"type": "planetaryNebula",
+		"name": "Hind Nebula (T Tauri)",
+		"galMapSearch": "T Tauri",
+		"galMapUrl": "https://www.edsm.net/en/system/id/31528/name/T+Tauri",
+		"coords": {
+			"x": -32.96875,
+			"y": -206.40625,
+			"z": -557.3125
+		}
+	},
+	{
+		"id": 431,
+		"type": "planetaryNebula",
+		"name": "Eskimo Nebula",
+		"galMapSearch": "GCRV 4981",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21238/name/GCRV+4981",
+		"coords": {
+			"x": 234.625,
+			"y": 239.21875,
+			"z": -726.46875
+		}
+	},
+	{
+		"id": 432,
+		"type": "planetaryNebula",
+		"name": "Spirograph Nebula",
+		"galMapSearch": "BD-12 1172",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15683/name/BD-12+1172",
+		"coords": {
+			"x": 577.875,
+			"y": -452.6875,
+			"z": -819.25
+		}
+	},
+	{
+		"id": 433,
+		"type": "nebula",
+		"name": "The Orion Dark Region Nebula",
+		"galMapSearch": "Orion Dark Region KC-V c2-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/128983/name/Orion+Dark+Region+KC-V+c2-0",
+		"coords": {
+			"x": 603.3125,
+			"y": -312.15625,
+			"z": -1337.6875
+		}
+	},
+	{
+		"id": 434,
+		"type": "nebula",
+		"name": "North America Nebula",
+		"galMapSearch": "North America Sector LC-V c2-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28554/name/North+America+Sector+LC-V+c2-3",
+		"coords": {
+			"x": -1891.46875,
+			"y": -30.8125,
+			"z": 150.5
+		}
+	},
+	{
+		"id": 435,
+		"type": "nebula",
+		"name": "Pelican Nebula",
+		"galMapSearch": "North America Sector JH-V c2-26",
+		"galMapUrl": "https://www.edsm.net/en/system/id/35057/name/North+America+Sector+JH-V+c2-26",
+		"coords": {
+			"x": -1886.625,
+			"y": -0.15625,
+			"z": 174.1875
+		}
+	},
+	{
+		"id": 436,
+		"type": "nebula",
+		"name": "Veil Nebula East",
+		"galMapSearch": "Veil East Sector GW-W c1-12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28961/name/Veil+East+Sector+GW-W+c1-12",
+		"coords": {
+			"x": -1920.03125,
+			"y": -307.34375,
+			"z": 486.5
+		}
+	},
+	{
+		"id": 437,
+		"type": "nebula",
+		"name": "Veil Nebula West",
+		"galMapSearch": "Veil West Sector DL-Y d68",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43689/name/Veil+West+Sector+DL-Y+d68",
+		"coords": {
+			"x": -1398.25,
+			"y": -193.5625,
+			"z": 418.90625
+		}
+	},
+	{
+		"id": 438,
+		"type": "nebula",
+		"name": "Cave Nebula",
+		"galMapSearch": "Cave Sector FB-X c1-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/73132/name/Cave+Sector+FB-X+c1-5",
+		"coords": {
+			"x": -2244.84375,
+			"y": 110.125,
+			"z": -825.78125
+		}
+	},
+	{
+		"id": 439,
+		"type": "planetaryNebula",
+		"name": "Dumbbell Nebula",
+		"galMapSearch": "BD+22 3878",
+		"galMapUrl": "https://www.edsm.net/en/system/id/46476/name/BD%2B22+3878",
+		"coords": {
+			"x": -958.21875,
+			"y": -71,
+			"z": 535.5
+		}
+	},
+	{
+		"id": 442,
+		"type": "minorPOI",
+		"name": "Gibb's Bridge",
+		"galMapSearch": "Syralia JT-V b7-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2031182/name/Syralia+JT-V+b7-0",
+		"coords": {
+			"x": 1276.1875,
+			"y": 1016.84375,
+			"z": 5509.09375
+		}
+	},
+	{
+		"id": 443,
+		"type": "planetaryNebula",
+		"name": "NGC 5979 (Octarine Plains)",
+		"galMapSearch": "CSI-61-15434",
+		"galMapUrl": "https://www.edsm.net/en/system/id/842214/name/CSI-61-15434",
+		"coords": {
+			"x": 5443,
+			"y": -831.34375,
+			"z": 7119.15625
+		}
+	},
+	{
+		"id": 444,
+		"type": "planetaryNebula",
+		"name": "NGC 5315 (Qing Long Caverns)",
+		"galMapSearch": "CPD-65 2513",
+		"galMapUrl": "https://www.edsm.net/en/system/id/879015/name/CPD-65+2513",
+		"coords": {
+			"x": 6499.5625,
+			"y": -644.46875,
+			"z": 5282.0625
+		}
+	},
+	{
+		"id": 464,
+		"type": "planetaryNebula",
+		"name": "NGC 6751 (Olympus Plateau)",
+		"galMapSearch": "CSI-06-19031",
+		"galMapUrl": "https://www.edsm.net/en/system/id/718299/name/CSI-06-19031",
+		"coords": {
+			"x": -3105.78125,
+			"y": -657.875,
+			"z": 5557.09375
+		}
+	},
+	{
+		"id": 480,
+		"type": "nebula",
+		"name": "Running Man Nebula",
+		"galMapSearch": "V1745 Orionis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67684/name/V1745+Orionis",
+		"coords": {
+			"x": 587.84375,
+			"y": -425.40625,
+			"z": -1077.5625
+		}
+	},
+	{
+		"id": 481,
+		"type": "planetaryNebula",
+		"name": "Saturn Nebula",
+		"galMapSearch": "BD-11 5511",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2829985/name/BD-11+5511",
+		"coords": {
+			"x": -2623.4375,
+			"y": -2952.8125,
+			"z": 3382.09375
+		}
+	},
+	{
+		"id": 482,
+		"type": "starCluster",
+		"name": "NGC 6811",
+		"galMapSearch": "TYC 3556-2492-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2834216/name/TYC+3556-2492-1",
+		"coords": {
+			"x": -3787.5,
+			"y": 822.21875,
+			"z": 719.84375
+		}
+	},
+	{
+		"id": 483,
+		"type": "planetaryNebula",
+		"name": "NGC 2818",
+		"galMapSearch": "Hen 2-23",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2834375/name/Hen+2-23",
+		"coords": {
+			"x": 8322.625,
+			"y": 1271.03125,
+			"z": -1169.6875
+		}
+	},
+	{
+		"id": 487,
+		"type": "stellarRemnant",
+		"name": "Variabilis",
+		"galMapSearch": "HD 112272",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2837484/name/HD+112272",
+		"coords": {
+			"x": 1934.625,
+			"y": -72.09375,
+			"z": 1296
+		}
+	},
+	{
+		"id": 488,
+		"type": "stellarRemnant",
+		"name": "QZ Carinae",
+		"galMapSearch": "QZ Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/34123/name/QZ+Carinae",
+		"coords": {
+			"x": 1857.125,
+			"y": -36.25,
+			"z": 603.5
+		}
+	},
+	{
+		"id": 490,
+		"type": "pulsar",
+		"name": "LGM-1 Pulsar",
+		"galMapSearch": "Lgm-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/677507/name/Lgm-1",
+		"coords": {
+			"x": -7533.46875,
+			"y": 557.34375,
+			"z": 5124.125
+		}
+	},
+	{
+		"id": 503,
+		"type": "historicalLocation",
+		"name": "New Yembo",
+		"galMapSearch": "New Yembo",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22103/name/New+Yembo",
+		"coords": {
+			"x": -334.625,
+			"y": -4.46875,
+			"z": 73.5
+		}
+	},
+	{
+		"id": 505,
+		"type": "nebula",
+		"name": "Cone Nebula & Star Custer",
+		"galMapSearch": "PQ Monocerotis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/87830/name/PQ+Monocerotis",
+		"coords": {
+			"x": 855.5625,
+			"y": 93,
+			"z": -2018.15625
+		}
+	},
+	{
+		"id": 506,
+		"type": "planetFeatures",
+		"name": "Tark",
+		"galMapSearch": "Blu Thua JS-J d9-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/874029/name/Blu+Thua+JS-J+d9-1",
+		"coords": {
+			"x": 694.15625,
+			"y": 583.5625,
+			"z": 2303.46875
+		}
+	},
+	{
+		"id": 508,
+		"type": "minorPOI",
+		"name": "Sapphire Veil",
+		"galMapSearch": "Scheau Phoe NB-M c24-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2820164/name/Scheau+Phoe+NB-M+c24-7",
+		"coords": {
+			"x": -5535.34375,
+			"y": -57.25,
+			"z": -5115.90625
+		}
+	},
+	{
+		"id": 518,
+		"type": "blackHole",
+		"name": "Beta Hydrae",
+		"galMapSearch": "Beta Hydrae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/192015/name/Beta+Hydrae",
+		"coords": {
+			"x": 258.84375,
+			"y": 141.90625,
+			"z": 93.8125
+		}
+	},
+	{
+		"id": 519,
+		"type": "historicalLocation",
+		"name": "Planet Wilson",
+		"galMapSearch": "Praea Euq GK-Y b30-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3366255/name/Praea+Euq+GK-Y+b30-0",
+		"coords": {
+			"x": 470.75,
+			"y": 462.28125,
+			"z": 889.96875
+		}
+	},
+	{
+		"id": 520,
+		"type": "minorPOI",
+		"name": "Mount Nerverest",
+		"galMapSearch": "Nervi",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9277/name/Nervi",
+		"coords": {
+			"x": -74.75,
+			"y": -72.71875,
+			"z": 35.84375
+		}
+	},
+	{
+		"id": 546,
+		"type": "nebula",
+		"name": "LBN 623 Nebula",
+		"galMapSearch": "LBN 623 Sector PD-S b4-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21926/name/LBN+623+Sector+PD-S+b4-5",
+		"coords": {
+			"x": -499.90625,
+			"y": -16.4375,
+			"z": -332.5625
+		}
+	},
+	{
+		"id": 548,
+		"type": "planetaryNebula",
+		"name": "Helix Nebula",
+		"galMapSearch": "CSI-21-22270",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24456/name/CSI-21-22270",
+		"coords": {
+			"x": -224.5625,
+			"y": -587.75,
+			"z": 306.8125
+		}
+	},
+	{
+		"id": 553,
+		"type": "historicalLocation",
+		"name": "Institute of Galactic Exploration and Research",
+		"galMapSearch": "HIP 72043",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8396/name/HIP+72043",
+		"coords": {
+			"x": -22,
+			"y": 118.5,
+			"z": 58.78125
+		}
+	},
+	{
+		"id": 554,
+		"type": "nebula",
+		"name": "Parrot Head Nebula",
+		"galMapSearch": "Parrot's Head Sector JC-U b3-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/490542/name/Parrot%27s+Head+Sector+JC-U+b3-5",
+		"coords": {
+			"x": 21.15625,
+			"y": -84.3125,
+			"z": 994.40625
+		}
+	},
+	{
+		"id": 555,
+		"type": "nebula",
+		"name": "Cinnabar Moth Nebula",
+		"galMapSearch": "Traikaae KT-P d6-10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/69330/name/Traikaae+KT-P+d6-10",
+		"coords": {
+			"x": -969.375,
+			"y": 900.8125,
+			"z": 4637.34375
+		}
+	},
+	{
+		"id": 556,
+		"type": "minorPOI",
+		"name": "The Doppelgangers",
+		"galMapSearch": "Tr 24 Sector IW-V d2-15",
+		"galMapUrl": "https://www.edsm.net/en/system/id/496509/name/Tr+24+Sector+IW-V+d2-15",
+		"coords": {
+			"x": 1100.34375,
+			"y": 71.875,
+			"z": 3255.0625
+		}
+	},
+	{
+		"id": 557,
+		"type": "minorPOI",
+		"name": "Endleofan",
+		"galMapSearch": "Tr 24 Sector JH-K b38-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/193753/name/Tr+24+Sector+JH-K+b38-0",
+		"coords": {
+			"x": 948.8125,
+			"y": 84.25,
+			"z": 3895.9375
+		}
+	},
+	{
+		"id": 559,
+		"type": "minorPOI",
+		"name": "Stokkseyri",
+		"galMapSearch": "Ploi Aec RR-I c23-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/108420/name/Ploi+Aec+RR-I+c23-2",
+		"coords": {
+			"x": 6461.65625,
+			"y": 143.34375,
+			"z": 7616.6875
+		}
+	},
+	{
+		"id": 576,
+		"type": "minorPOI",
+		"name": "The Quartz Twins",
+		"galMapSearch": "Thaila YE-A g2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4238837/name/Thaila+YE-A+g2",
+		"coords": {
+			"x": 5675.875,
+			"y": -597.84375,
+			"z": 4124.78125
+		}
+	},
+	{
+		"id": 578,
+		"type": "minorPOI",
+		"name": "Gas Earth",
+		"galMapSearch": "Flyua Dryoae DG-M d8-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4238942/name/Flyua+Dryoae+DG-M+d8-3",
+		"coords": {
+			"x": 2464.15625,
+			"y": -415.40625,
+			"z": -297.28125
+		}
+	},
+	{
+		"id": 580,
+		"type": "planetaryNebula",
+		"name": "Altera's Eye",
+		"galMapSearch": "IC 1805 Sector DQ-Y e3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43914/name/IC+1805+Sector+DQ-Y+e3",
+		"coords": {
+			"x": -4337.375,
+			"y": 12.3125,
+			"z": -4425.40625
+		}
+	},
+	{
+		"id": 581,
+		"type": "starCluster",
+		"name": "NGC 869",
+		"galMapSearch": "NGC 869 LAV 1101",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2078092/name/NGC+869+LAV+1101",
+		"coords": {
+			"x": -4785.84375,
+			"y": -432.3125,
+			"z": -4727.59375
+		}
+	},
+	{
+		"id": 583,
+		"type": "minorPOI",
+		"name": "Haipeng Landing",
+		"galMapSearch": "Eafots XO-T b58-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1888666/name/Eafots+XO-T+b58-1",
+		"coords": {
+			"x": -5200.5625,
+			"y": 49.125,
+			"z": -4905.5625
+		}
+	},
+	{
+		"id": 584,
+		"type": "minorPOI",
+		"name": "The Smiling Crater",
+		"galMapSearch": "Eafots KR-T b58-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4444951/name/Eafots+KR-T+b58-3",
+		"coords": {
+			"x": -6462.8125,
+			"y": 66.9375,
+			"z": -4907.3125
+		}
+	},
+	{
+		"id": 585,
+		"type": "minorPOI",
+		"name": "Komarov’s Canyon",
+		"galMapSearch": "Eafots YE-A c0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4498920/name/Eafots+YE-A+c0",
+		"coords": {
+			"x": -6439.90625,
+			"y": 47.21875,
+			"z": -6184.96875
+		}
+	},
+	{
+		"id": 586,
+		"type": "minorPOI",
+		"name": "Crippen’s Basin",
+		"galMapSearch": "Eafots PA-A d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4467070/name/Eafots+PA-A+d0",
+		"coords": {
+			"x": -5193.78125,
+			"y": 9.46875,
+			"z": -6169.59375
+		}
+	},
+	{
+		"id": 595,
+		"type": "mysteryPOI",
+		"name": "Alien Crash Sites",
+		"galMapSearch": "Pleiades Sector AB-W b2-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/315359/name/Pleiades+Sector+AB-W+b2-4",
+		"coords": {
+			"x": -137.5625,
+			"y": -118.25,
+			"z": -380.4375
+		}
+	},
+	{
+		"id": 598,
+		"type": "starCluster",
+		"name": "M67 / NGC 2682 (Cancri Cluster)",
+		"galMapSearch": "EX CANCRI",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4985356/name/EX+CANCRI",
+		"coords": {
+			"x": 1412.21875,
+			"y": 1512,
+			"z": -1967.34375
+		}
+	},
+	{
+		"id": 609,
+		"type": "nebula",
+		"name": "Traikeou Nebula",
+		"galMapSearch": "Traikeou KO-E c13-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3467193/name/Traikeou+KO-E+c13-1",
+		"coords": {
+			"x": -7161.25,
+			"y": 677.1875,
+			"z": 4648.5625
+		}
+	},
+	{
+		"id": 638,
+		"type": "minorPOI",
+		"name": "Buboes Star",
+		"galMapSearch": "Thailio AA-A h43",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5297676/name/Thailio+AA-A+h43",
+		"coords": {
+			"x": -5917.46875,
+			"y": -701.71875,
+			"z": 4400.03125
+		}
+	},
+	{
+		"id": 668,
+		"type": "starCluster",
+		"name": "NGC 1027 (Micro Cluster)",
+		"galMapSearch": "BD+61 464",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2115448/name/BD%2B61+464",
+		"coords": {
+			"x": -1759.1875,
+			"y": 68.4375,
+			"z": -1803.0625
+		}
+	},
+	{
+		"id": 669,
+		"type": "planetaryNebula",
+		"name": "Mammon (IC 1287 Nebula)",
+		"galMapSearch": "Mammon",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2624901/name/Mammon",
+		"coords": {
+			"x": -358.375,
+			"y": -8.75,
+			"z": 933.53125
+		}
+	},
+	{
+		"id": 677,
+		"type": "minorPOI",
+		"name": "Anaia",
+		"galMapSearch": "Gria Drye OC-B d1-211",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5948368/name/Gria+Drye+OC-B+d1-211",
+		"coords": {
+			"x": -1451.65625,
+			"y": -73,
+			"z": 5435
+		}
+	},
+	{
+		"id": 681,
+		"type": "deepSpaceOutpost",
+		"name": "Amundsen Terminal",
+		"galMapSearch": "Lagoon Sector NI-S b4-10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/330192/name/Lagoon+Sector+NI-S+b4-10",
+		"coords": {
+			"x": -469.1875,
+			"y": -84.84375,
+			"z": 4456.125
+		}
+	},
+	{
+		"id": 682,
+		"type": "deepSpaceOutpost",
+		"name": "Eagle's Landing",
+		"galMapSearch": "Eagle Sector IR-W d1-117",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3612904/name/Eagle+Sector+IR-W+d1-117",
+		"coords": {
+			"x": -2054.09375,
+			"y": 85.71875,
+			"z": 6710.875
+		}
+	},
+	{
+		"id": 686,
+		"type": "deepSpaceOutpost",
+		"name": "Hillary Depot",
+		"galMapSearch": "Blu Thua AI-A c14-10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6100051/name/Blu+Thua+AI-A+c14-10",
+		"coords": {
+			"x": -54.5,
+			"y": 149.53125,
+			"z": 2099.21875
+		}
+	},
+	{
+		"id": 690,
+		"type": "pulsar",
+		"name": "Keck Binary Pulsar",
+		"galMapSearch": "PSR J0751+1807",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3600665/name/PSR+J0751%2B1807",
+		"coords": {
+			"x": 470.09375,
+			"y": 469.125,
+			"z": -1122.21875
+		}
+	},
+	{
+		"id": 691,
+		"type": "minorPOI",
+		"name": "Brüder Grimm",
+		"galMapSearch": "HD 64885",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6219993/name/HD+64885",
+		"coords": {
+			"x": 1044.8125,
+			"y": 569.84375,
+			"z": -1462.25
+		}
+	},
+	{
+		"id": 694,
+		"type": "regional",
+		"name": "Xibalba",
+		"galMapSearch": "Iopords EA-Y d1-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6081304/name/Iopords+EA-Y+d1-0",
+		"coords": {
+			"x": -6779.1875,
+			"y": -1887.4375,
+			"z": -3440.84375
+		}
+	},
+	{
+		"id": 695,
+		"type": "minorPOI",
+		"name": "Gibbonici's Trio",
+		"galMapSearch": "HIP 18119",
+		"galMapUrl": "https://www.edsm.net/en/system/id/230777/name/HIP+18119",
+		"coords": {
+			"x": -138.5625,
+			"y": -186.8125,
+			"z": -519.5625
+		}
+	},
+	{
+		"id": 717,
+		"type": "starCluster",
+		"name": "Messier 21",
+		"galMapSearch": "M21 Sector FW-W e1-10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1244568/name/M21+Sector+FW-W+e1-10",
+		"coords": {
+			"x": -484.125,
+			"y": 4.375,
+			"z": 3968.5625
+		}
+	},
+	{
+		"id": 718,
+		"type": "starCluster",
+		"name": "NGC 6546",
+		"galMapSearch": "NGC 6546 Sector GR-W e1-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3853970/name/NGC+6546+Sector+GR-W+e1-5",
+		"coords": {
+			"x": -408.6875,
+			"y": -58.1875,
+			"z": 3126.15625
+		}
+	},
+	{
+		"id": 719,
+		"type": "planetaryNebula",
+		"name": "Red Spider Nebula",
+		"galMapSearch": "Red Spider Sector UJ-Q b5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/34124/name/Red+Spider+Sector+UJ-Q+b5-0",
+		"coords": {
+			"x": -524.5625,
+			"y": 40.0625,
+			"z": 2957.53125
+		}
+	},
+	{
+		"id": 720,
+		"type": "starCluster",
+		"name": "Messier 6",
+		"galMapSearch": "HD 160167",
+		"galMapUrl": "https://www.edsm.net/en/system/id/30795/name/HD+160167",
+		"coords": {
+			"x": 103.46875,
+			"y": -22.125,
+			"z": 1657.59375
+		}
+	},
+	{
+		"id": 724,
+		"type": "mysteryPOI",
+		"name": "Guardian ruins - 'Site 1' - Regor western limit",
+		"galMapSearch": "Synuefe XR-H d11-102",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6379187/name/Synuefe+XR-H+d11-102",
+		"coords": {
+			"x": 357.34375,
+			"y": -49.34375,
+			"z": -74.75
+		}
+	},
+	{
+		"id": 725,
+		"type": "mysteryPOI",
+		"name": "Camp C-NO4 (abandoned exploration camp)",
+		"galMapSearch": "Synuefe JB-G b58-6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/226563/name/Synuefe+JB-G+b58-6",
+		"coords": {
+			"x": 168.125,
+			"y": -98.125,
+			"z": 177.3125
+		}
+	},
+	{
+		"id": 726,
+		"type": "deepSpaceOutpost",
+		"name": "Mic Turner Research Base",
+		"galMapSearch": "California Sector BA-A e6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/87417/name/California+Sector+BA-A+e6",
+		"coords": {
+			"x": -319.8125,
+			"y": -216.75,
+			"z": -913.46875
+		}
+	},
+	{
+		"id": 729,
+		"type": "planetaryNebula",
+		"name": "Bow-Tie Nebula",
+		"galMapSearch": "NGC 40 star",
+		"galMapUrl": "https://www.edsm.net/en/system/id/332599/name/NGC+40+star",
+		"coords": {
+			"x": -2985.96875,
+			"y": 601.75,
+			"z": -1723.96875
+		}
+	},
+	{
+		"id": 735,
+		"type": "surfacePOI",
+		"name": "Labirinto",
+		"galMapSearch": "Traikaae CH-Y c10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6591195/name/Traikaae+CH-Y+c10",
+		"coords": {
+			"x": -361.4375,
+			"y": -24.15625,
+			"z": 4095.375
+		}
+	},
+	{
+		"id": 747,
+		"type": "stellarRemnant",
+		"name": "Stellar Bowtie",
+		"galMapSearch": "V970 Scorpii",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27977/name/V970+Scorpii",
+		"coords": {
+			"x": 98.96875,
+			"y": -19.25,
+			"z": 1603.8125
+		}
+	},
+	{
+		"id": 758,
+		"type": "pulsar",
+		"name": "Geminga Pulsar",
+		"galMapSearch": "PSR J0633+1746",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1880339/name/PSR+J0633%2B1746",
+		"coords": {
+			"x": 212.15625,
+			"y": 60.59375,
+			"z": -784.5625
+		}
+	},
+	{
+		"id": 781,
+		"type": "historicalLocation",
+		"name": "Dynasty Expedition - Conflux Rally Point 3",
+		"galMapSearch": "Pru Aescs TY-J a64-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7009273/name/Pru+Aescs+TY-J+a64-1",
+		"coords": {
+			"x": -3187.9375,
+			"y": 63,
+			"z": 8592.15625
+		}
+	},
+	{
+		"id": 790,
+		"type": "pulsar",
+		"name": "Coronet Pulsar",
+		"galMapSearch": "PSR J1856-3754",
+		"galMapUrl": "https://www.edsm.net/en/system/id/449175/name/PSR+J1856-3754",
+		"coords": {
+			"x": 12.09375,
+			"y": -154.375,
+			"z": 498.09375
+		}
+	},
+	{
+		"id": 793,
+		"type": "blackHole",
+		"name": "Black Treasure",
+		"galMapSearch": "Traikoa FL-P e5-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/102992/name/Traikoa+FL-P+e5-4",
+		"coords": {
+			"x": -1504.375,
+			"y": -18.53125,
+			"z": 5040.96875
+		}
+	},
+	{
+		"id": 805,
+		"type": "minorPOI",
+		"name": "Blacklight",
+		"galMapSearch": "Schaikaei XJ-H d10-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7475115/name/Schaikaei+XJ-H+d10-1",
+		"coords": {
+			"x": 3542.96875,
+			"y": 1575.0625,
+			"z": 4948.34375
+		}
+	},
+	{
+		"id": 806,
+		"type": "starCluster",
+		"name": "Lambda Orionis Cluster",
+		"galMapSearch": "lam01 Orionis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/70244/name/lam01+Orionis",
+		"coords": {
+			"x": 365.78125,
+			"y": -299.28125,
+			"z": -1360.25
+		}
+	},
+	{
+		"id": 807,
+		"type": "planetFeatures",
+		"name": "Hades Edge",
+		"galMapSearch": "HD 49368",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5319401/name/HD+49368",
+		"coords": {
+			"x": 757.46875,
+			"y": 67.84375,
+			"z": -1424.375
+		}
+	},
+	{
+		"id": 808,
+		"type": "mysteryPOI",
+		"name": "Star Anise (1st Alien Encounter)",
+		"galMapSearch": "Aries Dark Region XU-O b6-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/186274/name/Aries+Dark+Region+XU-O+b6-3",
+		"coords": {
+			"x": -48.5625,
+			"y": -163.46875,
+			"z": -212.125
+		}
+	},
+	{
+		"id": 809,
+		"type": "starCluster",
+		"name": "Collinder 121 Open Cluster",
+		"galMapSearch": "Sigma Canis Majoris",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43071/name/Sigma+Canis+Majoris",
+		"coords": {
+			"x": 950.625,
+			"y": -192.875,
+			"z": -561.5625
+		}
+	},
+	{
+		"id": 810,
+		"type": "starCluster",
+		"name": "Collinder 140 Open Cluster",
+		"galMapSearch": "HIP 38064",
+		"galMapUrl": "https://www.edsm.net/en/system/id/40804/name/HIP+38064",
+		"coords": {
+			"x": 1152.9375,
+			"y": -60.6875,
+			"z": -478.25
+		}
+	},
+	{
+		"id": 811,
+		"type": "starCluster",
+		"name": "NGC 2232 Open Cluster",
+		"galMapSearch": "10 Monocerotis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5684928/name/10+Monocerotis",
+		"coords": {
+			"x": 616.46875,
+			"y": -129.75,
+			"z": -886.09375
+		}
+	},
+	{
+		"id": 812,
+		"type": "nebula",
+		"name": "Hubble's Variable Nebula",
+		"galMapSearch": "R Monocerotis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/101204/name/R+Monocerotis",
+		"coords": {
+			"x": 1210.3125,
+			"y": 68.03125,
+			"z": -2744.1875
+		}
+	},
+	{
+		"id": 815,
+		"type": "stellarRemnant",
+		"name": "RY Draconis",
+		"galMapSearch": "RY Draconis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5235836/name/RY+Draconis",
+		"coords": {
+			"x": -745.75,
+			"y": 1098.53125,
+			"z": -462.1875
+		}
+	},
+	{
+		"id": 821,
+		"type": "starCluster",
+		"name": "Pi Puppis Cluster (NGC 2451a)",
+		"galMapSearch": "Pi Puppis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/246667/name/Pi+Puppis",
+		"coords": {
+			"x": 741.09375,
+			"y": -154.09375,
+			"z": -280.78125
+		}
+	},
+	{
+		"id": 822,
+		"type": "mysteryPOI",
+		"name": "Conflux Abandoned Settlements",
+		"galMapSearch": "Pru Aescs HW-S b31-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7024499/name/Pru+Aescs+HW-S+b31-2",
+		"coords": {
+			"x": -3192.90625,
+			"y": 68.40625,
+			"z": 8591.75
+		}
+	},
+	{
+		"id": 823,
+		"type": "mysteryPOI",
+		"name": "Formidine Rift Abandoned Settlements",
+		"galMapSearch": "Eafots LZ-H b10-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7003456/name/Eafots+LZ-H+b10-0",
+		"coords": {
+			"x": -5800.84375,
+			"y": 115.59375,
+			"z": -5961.1875
+		}
+	},
+	{
+		"id": 830,
+		"type": "historicalLocation",
+		"name": "The Cancri Climb",
+		"galMapSearch": "Outotch LJ-P d6-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7829234/name/Outotch+LJ-P+d6-0",
+		"coords": {
+			"x": 1313.8125,
+			"y": 712.40625,
+			"z": -1747.40625
+		}
+	},
+	{
+		"id": 831,
+		"type": "planetaryNebula",
+		"name": "Little Gem Nebula",
+		"galMapSearch": "BD-14 5523",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1597327/name/BD-14+5523",
+		"coords": {
+			"x": -2493.96875,
+			"y": -1844.15625,
+			"z": 5136.0625
+		}
+	},
+	{
+		"id": 839,
+		"type": "mysteryPOI",
+		"name": "Stranded Snake (anaconda settlement)",
+		"galMapSearch": "HR 5906",
+		"galMapUrl": "https://www.edsm.net/en/system/id/366044/name/HR+5906",
+		"coords": {
+			"x": 81.65625,
+			"y": 154.53125,
+			"z": 382.21875
+		}
+	},
+	{
+		"id": 840,
+		"type": "mysteryPOI",
+		"name": "Dav's Hope (abandoned mining settlement)",
+		"galMapSearch": "Hyades Sector DR-V c2-23",
+		"galMapUrl": "https://www.edsm.net/en/system/id/167237/name/Hyades+Sector+DR-V+c2-23",
+		"coords": {
+			"x": -104.625,
+			"y": -0.8125,
+			"z": -151.90625
+		}
+	},
+	{
+		"id": 841,
+		"type": "mysteryPOI",
+		"name": "Lewis' Loss (Abandoned Research Facility)",
+		"galMapSearch": "HR 5991",
+		"galMapUrl": "https://www.edsm.net/en/system/id/61474/name/HR+5991",
+		"coords": {
+			"x": 56.09375,
+			"y": 33.21875,
+			"z": 166.375
+		}
+	},
+	{
+		"id": 842,
+		"type": "mysteryPOI",
+		"name": "Orion's Folly (Generation Ship / Abandoned Settlement)",
+		"galMapSearch": "Col 285 Sector UZ-O c6-9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/157758/name/Col+285+Sector+UZ-O+c6-9",
+		"coords": {
+			"x": -144.21875,
+			"y": -12.25,
+			"z": -87.71875
+		}
+	},
+	{
+		"id": 843,
+		"type": "mysteryPOI",
+		"name": "The Initiative Installation (abandoned corporate installation)",
+		"galMapSearch": "HIP 83237",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2337191/name/HIP+83237",
+		"coords": {
+			"x": -305.21875,
+			"y": 235.3125,
+			"z": 34.15625
+		}
+	},
+	{
+		"id": 845,
+		"type": "organicPOI",
+		"name": "Nstor Forest",
+		"galMapSearch": "IC 2391 Sector ZE-A d101",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9084820/name/IC+2391+Sector+ZE-A+d101",
+		"coords": {
+			"x": 526.5,
+			"y": -86.375,
+			"z": -37.9375
+		}
+	},
+	{
+		"id": 847,
+		"type": "starCluster",
+		"name": "NGC 2362",
+		"galMapSearch": "QY Canis Majoris",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2012894/name/QY+Canis+Majoris",
+		"coords": {
+			"x": 3902.15625,
+			"y": -446.15625,
+			"z": -2423.28125
+		}
+	},
+	{
+		"id": 849,
+		"type": "minorPOI",
+		"name": "Alectrona (Morning's Mists)",
+		"galMapSearch": "Alectrona",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3763/name/Alectrona",
+		"coords": {
+			"x": 14.53125,
+			"y": -52.46875,
+			"z": 2.5625
+		}
+	},
+	{
+		"id": 850,
+		"type": "minorPOI",
+		"name": "Bhare (Vostok Canyon)",
+		"galMapSearch": "Bhare",
+		"galMapUrl": "https://www.edsm.net/en/system/id/19447/name/Bhare",
+		"coords": {
+			"x": 10.3125,
+			"y": -86.96875,
+			"z": 97.0625
+		}
+	},
+	{
+		"id": 851,
+		"type": "minorPOI",
+		"name": "HIP 61061 (Geysers of 61)",
+		"galMapSearch": "HIP 61061",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18502/name/HIP+61061",
+		"coords": {
+			"x": 80.25,
+			"y": 170.5,
+			"z": 34.09375
+		}
+	},
+	{
+		"id": 852,
+		"type": "minorPOI",
+		"name": "HIP 60953 (Mists of Elivágar)",
+		"galMapSearch": "HIP 60953",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4324/name/HIP+60953",
+		"coords": {
+			"x": 68.53125,
+			"y": 139.96875,
+			"z": 28.59375
+		}
+	},
+	{
+		"id": 853,
+		"type": "minorPOI",
+		"name": "Veil Nebula Basin",
+		"galMapSearch": "Veil West Sector GW-W c1-13",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2295882/name/Veil+West+Sector+GW-W+c1-13",
+		"coords": {
+			"x": -1392.90625,
+			"y": -197.59375,
+			"z": 410.71875
+		}
+	},
+	{
+		"id": 855,
+		"type": "minorPOI",
+		"name": "HIP 17401 (Gaze of the Sulphur Eye)",
+		"galMapSearch": "HIP 17401",
+		"galMapUrl": "https://www.edsm.net/en/system/id/54092/name/HIP+17401",
+		"coords": {
+			"x": -90.3125,
+			"y": -173.6875,
+			"z": -383.21875
+		}
+	},
+	{
+		"id": 857,
+		"type": "minorPOI",
+		"name": "Mineral Clouds",
+		"galMapSearch": "Smojue LH-D d12-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8801794/name/Smojue+LH-D+d12-3",
+		"coords": {
+			"x": -281.8125,
+			"y": 99.09375,
+			"z": 3877.78125
+		}
+	},
+	{
+		"id": 864,
+		"type": "stellarRemnant",
+		"name": "R Sculptoris",
+		"galMapSearch": "R Sculptoris",
+		"galMapUrl": "https://www.edsm.net/en/system/id/461441/name/R+Sculptoris",
+		"coords": {
+			"x": 134.75,
+			"y": -855.09375,
+			"z": -56.28125
+		}
+	},
+	{
+		"id": 866,
+		"type": "planetaryNebula",
+		"name": "Robin's Egg Nebula",
+		"galMapSearch": "CD-26 1339",
+		"galMapUrl": "https://www.edsm.net/en/system/id/44755/name/CD-26+1339",
+		"coords": {
+			"x": 437.21875,
+			"y": -925.15625,
+			"z": -513.78125
+		}
+	},
+	{
+		"id": 870,
+		"type": "planetaryNebula",
+		"name": "Blinking Nebula",
+		"galMapSearch": "BD+50 2869",
+		"galMapUrl": "https://www.edsm.net/en/system/id/70947/name/BD%2B50+2869",
+		"coords": {
+			"x": -1938.15625,
+			"y": 443.09375,
+			"z": 217.375
+		}
+	},
+	{
+		"id": 871,
+		"type": "nebula",
+		"name": "Iris Nebula",
+		"galMapSearch": "Iris Sector EL-Y d22",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48169/name/Iris+Sector+EL-Y+d22",
+		"coords": {
+			"x": -1412.40625,
+			"y": 368.5625,
+			"z": -355.8125
+		}
+	},
+	{
+		"id": 872,
+		"type": "stellarRemnant",
+		"name": "HIP 12028",
+		"galMapSearch": "HIP 12028",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2276364/name/HIP+12028",
+		"coords": {
+			"x": 16.96875,
+			"y": -680.125,
+			"z": -404.84375
+		}
+	},
+	{
+		"id": 878,
+		"type": "pulsar",
+		"name": "The Black Widow Pulsar",
+		"galMapSearch": "PSR J1959+2048",
+		"galMapUrl": "https://www.edsm.net/en/system/id/316689/name/PSR+J1959%2B2048",
+		"coords": {
+			"x": -4280.25,
+			"y": -409.5,
+			"z": 2551.84375
+		}
+	},
+	{
+		"id": 883,
+		"type": "stellarRemnant",
+		"name": "The Traikeou Goliaths",
+		"galMapSearch": "Traikeou AA-A h4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2294225/name/Traikeou+AA-A+h4",
+		"coords": {
+			"x": -6872.96875,
+			"y": 937.125,
+			"z": 4106.71875
+		}
+	},
+	{
+		"id": 887,
+		"type": "nebula",
+		"name": "Crescent Nebula",
+		"galMapSearch": "Crescent Sector BQ-Y d26",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1316770/name/Crescent+Sector+BQ-Y+d26",
+		"coords": {
+			"x": -4837.71875,
+			"y": 215.90625,
+			"z": 1250.25
+		}
+	},
+	{
+		"id": 888,
+		"type": "stellarRemnant",
+		"name": "KY Cygni",
+		"galMapSearch": "KY Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25043/name/KY+Cygni",
+		"coords": {
+			"x": -4871.9375,
+			"y": 15.75,
+			"z": 1124.28125
+		}
+	},
+	{
+		"id": 892,
+		"type": "planetaryNebula",
+		"name": "NGC 7026 Nebula",
+		"galMapSearch": "Csi+47-21046",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2628979/name/Csi%2B47-21046",
+		"coords": {
+			"x": -5998.96875,
+			"y": 41.875,
+			"z": 104.6875
+		}
+	},
+	{
+		"id": 936,
+		"type": "pulsar",
+		"name": "PSR J1901+0716",
+		"galMapSearch": "PSR J1901+0716",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5477849/name/PSR+J1901%2B0716",
+		"coords": {
+			"x": -5935.46875,
+			"y": 168.25,
+			"z": 6932.6875
+		}
+	},
+	{
+		"id": 938,
+		"type": "minorPOI",
+		"name": "Pyramio Planetary Nebula",
+		"galMapSearch": "Pyramio JX-T e3-11",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3257400/name/Pyramio+JX-T+e3-11",
+		"coords": {
+			"x": 556.90625,
+			"y": -421.90625,
+			"z": 6040.59375
+		}
+	},
+	{
+		"id": 956,
+		"type": "stellarRemnant",
+		"name": "Guardians of Scorpius",
+		"galMapSearch": "SO4-H1E 2000",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3095069/name/SO4-H1E+2000",
+		"coords": {
+			"x": 734.65625,
+			"y": 14,
+			"z": 2460.84375
+		}
+	},
+	{
+		"id": 958,
+		"type": "planetFeatures",
+		"name": "Fire and Ice",
+		"galMapSearch": "HIP 9571",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6545781/name/HIP+9571",
+		"coords": {
+			"x": 423.125,
+			"y": -772.5625,
+			"z": 73.75
+		}
+	},
+	{
+		"id": 959,
+		"type": "planetaryNebula",
+		"name": "Eight Burst Nebula (Celestial Gem)",
+		"galMapSearch": "CD-39 6137",
+		"galMapUrl": "https://www.edsm.net/en/system/id/209097/name/CD-39+6137",
+		"coords": {
+			"x": 2049.625,
+			"y": 450.9375,
+			"z": 75.15625
+		}
+	},
+	{
+		"id": 988,
+		"type": "mysteryPOI",
+		"name": "Guardian ruins - Regor southern limit",
+		"galMapSearch": "Col 173 Sector LY-Q d5-59",
+		"galMapUrl": "https://www.edsm.net/en/system/id/647075/name/Col+173+Sector+LY-Q+d5-59",
+		"coords": {
+			"x": 1078.09375,
+			"y": -86.5625,
+			"z": -249.46875
+		}
+	},
+	{
+		"id": 990,
+		"type": "mysteryPOI",
+		"name": "Guardian ruins - Regor northern limit",
+		"galMapSearch": "Col 173 Sector OG-Z c15-35",
+		"galMapUrl": "https://www.edsm.net/en/system/id/10126107/name/Col+173+Sector+OG-Z+c15-35",
+		"coords": {
+			"x": 1084.125,
+			"y": 2.59375,
+			"z": 12.9375
+		}
+	},
+	{
+		"id": 995,
+		"type": "mysteryPOI",
+		"name": "Guardian ruins - Regor eastern limit",
+		"galMapSearch": "Col 173 Sector WN-B b29-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9838812/name/Col+173+Sector+WN-B+b29-1",
+		"coords": {
+			"x": 1237.75,
+			"y": -247.375,
+			"z": -76.90625
+		}
+	},
+	{
+		"id": 1012,
+		"type": "mysteryPOI",
+		"name": "Lab C23 (Abandoned Research Facility)",
+		"galMapSearch": "Col 285 Sector FL-X b17-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7300134/name/Col+285+Sector+FL-X+b17-3",
+		"coords": {
+			"x": -238.6875,
+			"y": 253.875,
+			"z": 20.15625
+		}
+	},
+	{
+		"id": 1013,
+		"type": "minorPOI",
+		"name": "Planctae (The Wandering Rock)",
+		"galMapSearch": "Praea Euq QD-C b54-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/10879988/name/Praea+Euq+QD-C+b54-0",
+		"coords": {
+			"x": 389.71875,
+			"y": 33.34375,
+			"z": 1387.875
+		}
+	},
+	{
+		"id": 1020,
+		"type": "deepSpaceOutpost",
+		"name": "Hind Mine",
+		"galMapSearch": "T Tauri",
+		"galMapUrl": "https://www.edsm.net/en/system/id/31528/name/T+Tauri",
+		"coords": {
+			"x": -32.96875,
+			"y": -206.40625,
+			"z": -557.3125
+		}
+	},
+	{
+		"id": 1021,
+		"type": "deepSpaceOutpost",
+		"name": "New Growth",
+		"galMapSearch": "Pencil Sector EL-Y d5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/75606/name/Pencil+Sector+EL-Y+d5",
+		"coords": {
+			"x": 816.3125,
+			"y": 2,
+			"z": -44.03125
+		}
+	},
+	{
+		"id": 1022,
+		"type": "deepSpaceOutpost",
+		"name": "Witch Head Science Centre",
+		"galMapSearch": "HIP 23759",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21364/name/HIP+23759",
+		"coords": {
+			"x": 359.84375,
+			"y": -385.53125,
+			"z": -718.375
+		}
+	},
+	{
+		"id": 1023,
+		"type": "deepSpaceOutpost",
+		"name": "Darwin Research Facility",
+		"galMapSearch": "California Sector BV-Y c7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1314476/name/California+Sector+BV-Y+c7",
+		"coords": {
+			"x": -342.3125,
+			"y": -219.28125,
+			"z": -952.71875
+		}
+	},
+	{
+		"id": 1024,
+		"type": "deepSpaceOutpost",
+		"name": "Ring Mine",
+		"galMapSearch": "2MASS J03291977+3124572",
+		"galMapUrl": "https://www.edsm.net/en/system/id/88491/name/2MASS+J03291977%2B3124572",
+		"coords": {
+			"x": -379.8125,
+			"y": -382.09375,
+			"z": -954.46875
+		}
+	},
+	{
+		"id": 1025,
+		"type": "deepSpaceOutpost",
+		"name": "Orion Nebula Tourist Centre",
+		"galMapSearch": "PMD2009 48",
+		"galMapUrl": "https://www.edsm.net/en/system/id/347921/name/PMD2009+48",
+		"coords": {
+			"x": 594.90625,
+			"y": -431.4375,
+			"z": -1071.78125
+		}
+	},
+	{
+		"id": 1026,
+		"type": "deepSpaceOutpost",
+		"name": "Iris Vacations",
+		"galMapSearch": "FW Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48136/name/FW+Cephei",
+		"coords": {
+			"x": -1415.78125,
+			"y": 366.65625,
+			"z": -355.3125
+		}
+	},
+	{
+		"id": 1027,
+		"type": "deepSpaceOutpost",
+		"name": "Flaming Star Logistics Centre",
+		"galMapSearch": "Flaming Star Sector LX-T b3-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3367097/name/Flaming+Star+Sector+LX-T+b3-0",
+		"coords": {
+			"x": -243.09375,
+			"y": -77.5625,
+			"z": -1687.71875
+		}
+	},
+	{
+		"id": 1028,
+		"type": "deepSpaceOutpost",
+		"name": "Sadr Logistics Depot",
+		"galMapSearch": "Sadr Region Sector GW-W c1-22",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33733/name/Sadr+Region+Sector+GW-W+c1-22",
+		"coords": {
+			"x": -1792.125,
+			"y": 52.65625,
+			"z": 369.5625
+		}
+	},
+	{
+		"id": 1029,
+		"type": "deepSpaceOutpost",
+		"name": "Elephant's Trunk Mine",
+		"galMapSearch": "GM Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24541/name/GM+Cephei",
+		"coords": {
+			"x": -2660.96875,
+			"y": 180.15625,
+			"z": -433.15625
+		}
+	},
+	{
+		"id": 1030,
+		"type": "deepSpaceOutpost",
+		"name": "Gorgon Research Facility",
+		"galMapSearch": "NGC 7822 Sector BQ-Y d12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28504/name/NGC+7822+Sector+BQ-Y+d12",
+		"coords": {
+			"x": -2454.1875,
+			"y": 299.0625,
+			"z": -1326.0625
+		}
+	},
+	{
+		"id": 1032,
+		"type": "deepSpaceOutpost",
+		"name": "Sagan Research Centre",
+		"galMapSearch": "Thor's Helmet Sector FB-X c1-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3133904/name/Thor%27s+Helmet+Sector+FB-X+c1-5",
+		"coords": {
+			"x": 2704.96875,
+			"y": -23.25,
+			"z": -2470.78125
+		}
+	},
+	{
+		"id": 1033,
+		"type": "deepSpaceOutpost",
+		"name": "Hell Port",
+		"galMapSearch": "Seagull Sector DL-Y d3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3199685/name/Seagull+Sector+DL-Y+d3",
+		"coords": {
+			"x": 2608.15625,
+			"y": -181.96875,
+			"z": -2692.28125
+		}
+	},
+	{
+		"id": 1034,
+		"type": "deepSpaceOutpost",
+		"name": "Morgan's Rock",
+		"galMapSearch": "NGC 6188 Sector LC-V c2-28",
+		"galMapUrl": "https://www.edsm.net/en/system/id/55893/name/NGC+6188+Sector+LC-V+c2-28",
+		"coords": {
+			"x": 1706.1875,
+			"y": -87.625,
+			"z": 4057.15625
+		}
+	},
+	{
+		"id": 1035,
+		"type": "deepSpaceOutpost",
+		"name": "Attenborough's Watch",
+		"galMapSearch": "Lagoon Sector FW-W d1-122",
+		"galMapUrl": "https://www.edsm.net/en/system/id/302601/name/Lagoon+Sector+FW-W+d1-122",
+		"coords": {
+			"x": -467.75,
+			"y": -93.1875,
+			"z": 4485.625
+		}
+	},
+	{
+		"id": 1036,
+		"type": "deepSpaceOutpost",
+		"name": "Medusa's Rock",
+		"galMapSearch": "Crescent Sector GW-W c1-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67502/name/Crescent+Sector+GW-W+c1-8",
+		"coords": {
+			"x": -4842.1875,
+			"y": 210.8125,
+			"z": 1252.21875
+		}
+	},
+	{
+		"id": 1037,
+		"type": "deepSpaceOutpost",
+		"name": "Beta Site",
+		"galMapSearch": "Jellyfish Sector FB-X c1-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/73385/name/Jellyfish+Sector+FB-X+c1-5",
+		"coords": {
+			"x": 788.40625,
+			"y": 255.46875,
+			"z": -4946.4375
+		}
+	},
+	{
+		"id": 1038,
+		"type": "deepSpaceOutpost",
+		"name": "Observation Post Epsilon",
+		"galMapSearch": "Trifid Sector IR-W d1-52",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1688406/name/Trifid+Sector+IR-W+d1-52",
+		"coords": {
+			"x": -612.40625,
+			"y": -31.5,
+			"z": 5182.875
+		}
+	},
+	{
+		"id": 1039,
+		"type": "deepSpaceOutpost",
+		"name": "New Beginning",
+		"galMapSearch": "Rosette Sector CQ-Y d59",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2128425/name/Rosette+Sector+CQ-Y+d59",
+		"coords": {
+			"x": 2345.96875,
+			"y": -167.4375,
+			"z": -4752.90625
+		}
+	},
+	{
+		"id": 1040,
+		"type": "deepSpaceOutpost",
+		"name": "Omega Mining Operation",
+		"galMapSearch": "Omega Sector VE-Q b5-15",
+		"galMapUrl": "https://www.edsm.net/en/system/id/612042/name/Omega+Sector+VE-Q+b5-15",
+		"coords": {
+			"x": -1444.3125,
+			"y": -85.8125,
+			"z": 5319.9375
+		}
+	},
+	{
+		"id": 1041,
+		"type": "deepSpaceOutpost",
+		"name": "Station X",
+		"galMapSearch": "Crab Sector DL-Y d9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1751747/name/Crab+Sector+DL-Y+d9",
+		"coords": {
+			"x": 559.625,
+			"y": -708.0625,
+			"z": -6947.5625
+		}
+	},
+	{
+		"id": 1042,
+		"type": "deepSpaceOutpost",
+		"name": "Eagle Sector Secure Facility",
+		"galMapSearch": "Eagle Sector IR-W d1-105",
+		"galMapUrl": "https://www.edsm.net/en/system/id/57929/name/Eagle+Sector+IR-W+d1-105",
+		"coords": {
+			"x": -2046.21875,
+			"y": 104.40625,
+			"z": 6699.90625
+		}
+	},
+	{
+		"id": 1043,
+		"type": "deepSpaceOutpost",
+		"name": "Base Camp",
+		"galMapSearch": "Soul Sector EL-Y d7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3194633/name/Soul+Sector+EL-Y+d7",
+		"coords": {
+			"x": -5043.15625,
+			"y": 85.03125,
+			"z": -5513.09375
+		}
+	},
+	{
+		"id": 1044,
+		"type": "deepSpaceOutpost",
+		"name": "Farsight Expedition Base",
+		"galMapSearch": "Heart Sector IR-V b2-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2567704/name/Heart+Sector+IR-V+b2-0",
+		"coords": {
+			"x": -5303.78125,
+			"y": 130.34375,
+			"z": -5305.40625
+		}
+	},
+	{
+		"id": 1048,
+		"type": "starCluster",
+		"name": "NGC 6664",
+		"galMapSearch": "HIP 90600",
+		"galMapUrl": "https://www.edsm.net/en/system/id/44082/name/HIP+90600",
+		"coords": {
+			"x": -1543.8125,
+			"y": 27.875,
+			"z": 3613.625
+		}
+	},
+	{
+		"id": 1058,
+		"type": "stellarRemnant",
+		"name": "Mu Cephei",
+		"galMapSearch": "Mu Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2531913/name/Mu+Cephei",
+		"coords": {
+			"x": -5806.46875,
+			"y": 451,
+			"z": -1117.8125
+		}
+	},
+	{
+		"id": 1061,
+		"type": "planetaryNebula",
+		"name": "Fetus Nebula",
+		"galMapSearch": "Lan 111",
+		"galMapUrl": "https://www.edsm.net/en/system/id/94363/name/Lan+111",
+		"coords": {
+			"x": -2881.59375,
+			"y": 277.9375,
+			"z": -171.21875
+		}
+	},
+	{
+		"id": 1069,
+		"type": "stellarRemnant",
+		"name": "RS Persei",
+		"galMapSearch": "RS Persei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/449812/name/RS+Persei",
+		"coords": {
+			"x": -5405.78125,
+			"y": -481.90625,
+			"z": -5419.8125
+		}
+	},
+	{
+		"id": 1070,
+		"type": "starCluster",
+		"name": "NGC 7160",
+		"galMapSearch": "NGC 7160 HG 18",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2953582/name/NGC+7160+HG+18",
+		"coords": {
+			"x": -2270.09375,
+			"y": 262.46875,
+			"z": -569.0625
+		}
+	},
+	{
+		"id": 1071,
+		"type": "starCluster",
+		"name": "NGC 6830 Open Cluster",
+		"galMapSearch": "NGC 6830 Sector BA-A g2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5168179/name/NGC+6830+Sector+BA-A+g2",
+		"coords": {
+			"x": -4517.34375,
+			"y": -121.125,
+			"z": 2650.6875
+		}
+	},
+	{
+		"id": 1072,
+		"type": "stellarRemnant",
+		"name": "HIP 102082 Carbon Star",
+		"galMapSearch": "HIP 102082",
+		"galMapUrl": "https://www.edsm.net/en/system/id/760935/name/HIP+102082",
+		"coords": {
+			"x": -1190.5,
+			"y": 76.375,
+			"z": 65.625
+		}
+	},
+	{
+		"id": 1131,
+		"type": "starCluster",
+		"name": "NGC 6281",
+		"galMapSearch": "V948 Scorpii",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3059380/name/V948+Scorpii",
+		"coords": {
+			"x": 334.0625,
+			"y": 54.375,
+			"z": 1522.8125
+		}
+	},
+	{
+		"id": 1132,
+		"type": "deepSpaceOutpost",
+		"name": "Mammon Monitoring Facility",
+		"galMapSearch": "Mammon",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2624901/name/Mammon",
+		"coords": {
+			"x": -358.375,
+			"y": -8.75,
+			"z": 933.53125
+		}
+	},
+	{
+		"id": 1133,
+		"type": "regional",
+		"name": "The Great Rift",
+		"galMapSearch": "HIP 84605",
+		"galMapUrl": "https://www.edsm.net/en/system/id/176894/name/HIP+84605",
+		"coords": {
+			"x": 9.625,
+			"y": 51.75,
+			"z": 506.09375
+		}
+	},
+	{
+		"id": 1134,
+		"type": "planetaryNebula",
+		"name": "NGC 6884 Nebula",
+		"galMapSearch": "Csi+46-20087",
+		"galMapUrl": "https://www.edsm.net/en/system/id/427628/name/Csi%2B46-20087",
+		"coords": {
+			"x": -2457.3125,
+			"y": 309,
+			"z": 340.96875
+		}
+	},
+	{
+		"id": 1135,
+		"type": "planetaryNebula",
+		"name": "Blue Flash Nebula",
+		"galMapSearch": "Csi+19-20201",
+		"galMapUrl": "https://www.edsm.net/en/system/id/282159/name/Csi%2B19-20201",
+		"coords": {
+			"x": -2599.53125,
+			"y": 500.28125,
+			"z": 1411.40625
+		}
+	},
+	{
+		"id": 1136,
+		"type": "planetaryNebula",
+		"name": "NGC 7027 Nebula",
+		"galMapSearch": "BD+41 4004",
+		"galMapUrl": "https://www.edsm.net/en/system/id/879383/name/BD%2B41+4004",
+		"coords": {
+			"x": -3380.25,
+			"y": -207.59375,
+			"z": 301.65625
+		}
+	},
+	{
+		"id": 1137,
+		"type": "planetaryNebula",
+		"name": "IC 5117 Nebula",
+		"galMapSearch": "Csi+44-21305",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2025506/name/Csi%2B44-21305",
+		"coords": {
+			"x": -2988.125,
+			"y": -266.6875,
+			"z": 5.1875
+		}
+	},
+	{
+		"id": 1138,
+		"type": "planetaryNebula",
+		"name": "NGC 7354 Nebula",
+		"galMapSearch": "Csi+61-22385",
+		"galMapUrl": "https://www.edsm.net/en/system/id/667791/name/Csi%2B61-22385",
+		"coords": {
+			"x": -3995.75,
+			"y": 168.53125,
+			"z": -1282.90625
+		}
+	},
+	{
+		"id": 1140,
+		"type": "planetaryNebula",
+		"name": "Retina Nebula",
+		"galMapSearch": "CD-43 9005",
+		"galMapUrl": "https://www.edsm.net/en/system/id/62899/name/CD-43+9005",
+		"coords": {
+			"x": 1867.96875,
+			"y": 811.78125,
+			"z": 2202.625
+		}
+	},
+	{
+		"id": 1141,
+		"type": "stellarRemnant",
+		"name": "RW Cephei",
+		"galMapSearch": "RW Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1584022/name/RW+Cephei",
+		"coords": {
+			"x": -3913.78125,
+			"y": -73.53125,
+			"z": -944.21875
+		}
+	},
+	{
+		"id": 1142,
+		"type": "stellarRemnant",
+		"name": "V509 Cassiopeiae",
+		"galMapSearch": "V509 Cassiopeiae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2887423/name/V509+Cassiopeiae",
+		"coords": {
+			"x": -4232.03125,
+			"y": -200.5,
+			"z": -1418.78125
+		}
+	},
+	{
+		"id": 1144,
+		"type": "planetaryNebula",
+		"name": "NGC 2438 Nebula",
+		"galMapSearch": "BD-14 2129",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2589849/name/BD-14+2129",
+		"coords": {
+			"x": 2508.28125,
+			"y": 228.78125,
+			"z": -1973.84375
+		}
+	},
+	{
+		"id": 1147,
+		"type": "planetaryNebula",
+		"name": "NGC 7048",
+		"galMapSearch": "IRAS 21124+4604",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2776037/name/IRAS+21124%2B4604",
+		"coords": {
+			"x": -5596.3125,
+			"y": -166.15625,
+			"z": 117.21875
+		}
+	},
+	{
+		"id": 1152,
+		"type": "planetaryNebula",
+		"name": "Butterfly Nebula",
+		"galMapSearch": "V651 Monoceros",
+		"galMapUrl": "https://www.edsm.net/en/system/id/526882/name/V651+Monoceros",
+		"coords": {
+			"x": 1747.15625,
+			"y": 188.34375,
+			"z": -2431.46875
+		}
+	},
+	{
+		"id": 1153,
+		"type": "historicalLocation",
+		"name": "Anaconda's Graveyard",
+		"galMapSearch": "HD 76133",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6212217/name/HD+76133",
+		"coords": {
+			"x": 1645.34375,
+			"y": 1728.3125,
+			"z": -2128.59375
+		}
+	},
+	{
+		"id": 1183,
+		"type": "starCluster",
+		"name": "NGC 6871",
+		"galMapSearch": "V1820 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/285696/name/V1820+Cygni",
+		"coords": {
+			"x": -4910.84375,
+			"y": 188.9375,
+			"z": 1539.625
+		}
+	},
+	{
+		"id": 1185,
+		"type": "planetaryNebula",
+		"name": "NGC 2371",
+		"galMapSearch": "GCRV 4925",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7086389/name/GCRV+4925",
+		"coords": {
+			"x": 661.46875,
+			"y": 1497.65625,
+			"z": -4084.0625
+		}
+	},
+	{
+		"id": 1191,
+		"type": "nebula",
+		"name": "NGC 1999",
+		"galMapSearch": "V380 Orionis",
+		"galMapUrl": "https://www.edsm.net/en/system/id/49931/name/V380+Orionis",
+		"coords": {
+			"x": 549.34375,
+			"y": -374.53125,
+			"z": -926.59375
+		}
+	},
+	{
+		"id": 1192,
+		"type": "planetaryNebula",
+		"name": "NGC 6886",
+		"galMapSearch": "Csi+19-20105",
+		"galMapUrl": "https://www.edsm.net/en/system/id/121063/name/Csi%2B19-20105",
+		"coords": {
+			"x": -7731.75,
+			"y": -1205.90625,
+			"z": 4445.90625
+		}
+	},
+	{
+		"id": 1194,
+		"type": "planetaryNebula",
+		"name": "NGC 6803 Nebula",
+		"galMapSearch": "Csi+09-19289",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5154289/name/Csi%2B09-19289",
+		"coords": {
+			"x": -4117.21875,
+			"y": -407.5625,
+			"z": 3920.75
+		}
+	},
+	{
+		"id": 1197,
+		"type": "planetaryNebula",
+		"name": "NGC 6804 Nebula",
+		"galMapSearch": "Csi+09-19291",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1265678/name/Csi%2B09-19291",
+		"coords": {
+			"x": -3573.03125,
+			"y": -401,
+			"z": 3474.59375
+		}
+	},
+	{
+		"id": 1198,
+		"type": "planetaryNebula",
+		"name": "NGC 6781 Nebula",
+		"galMapSearch": "IRAS 19160+0626",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2776033/name/IRAS+19160%2B0626",
+		"coords": {
+			"x": -3394.6875,
+			"y": -266.9375,
+			"z": 3796.6875
+		}
+	},
+	{
+		"id": 1199,
+		"type": "starCluster",
+		"name": "NGC 4463 Open Cluster",
+		"galMapSearch": "HIP 60974",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6761143/name/HIP+60974",
+		"coords": {
+			"x": 2927.71875,
+			"y": -119.6875,
+			"z": 1734.375
+		}
+	},
+	{
+		"id": 1200,
+		"type": "nebula",
+		"name": "NGC 1333 Nebula",
+		"galMapSearch": "NGC 1333 Sector FB-X c1-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67545/name/NGC+1333+Sector+FB-X+c1-4",
+		"coords": {
+			"x": -382.15625,
+			"y": -383.4375,
+			"z": -958.28125
+		}
+	},
+	{
+		"id": 1201,
+		"type": "planetaryNebula",
+		"name": "Phantom Streak Nebula (NGC 6741)",
+		"galMapSearch": "BD-00 3630",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41638/name/BD-00+3630",
+		"coords": {
+			"x": -3611.9375,
+			"y": -306.21875,
+			"z": 5395.375
+		}
+	},
+	{
+		"id": 1207,
+		"type": "planetaryNebula",
+		"name": "NGC 1514",
+		"galMapSearch": "BD+30 623",
+		"galMapUrl": "https://www.edsm.net/en/system/id/44133/name/BD%2B30+623",
+		"coords": {
+			"x": -202.25,
+			"y": -218.6875,
+			"z": -807.40625
+		}
+	},
+	{
+		"id": 1208,
+		"type": "nebula",
+		"name": "Struve's Lost Nebula",
+		"galMapSearch": "Hind Sector FS-J b9-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/303286/name/Hind+Sector+FS-J+b9-1",
+		"coords": {
+			"x": -35.3125,
+			"y": -179.6875,
+			"z": -463.90625
+		}
+	},
+	{
+		"id": 1217,
+		"type": "planetFeatures",
+		"name": "The Dark Fortress & Fumarole in a Bubble",
+		"galMapSearch": "Bubble Sector LX-T b3-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67029/name/Bubble+Sector+LX-T+b3-1",
+		"coords": {
+			"x": -6568.375,
+			"y": 24.6875,
+			"z": -2687.28125
+		}
+	},
+	{
+		"id": 1220,
+		"type": "planetaryNebula",
+		"name": "NGC 6790 Nebula",
+		"galMapSearch": "BD+01 3979",
+		"galMapUrl": "https://www.edsm.net/en/system/id/60240/name/BD%2B01+3979",
+		"coords": {
+			"x": -2014.90625,
+			"y": -362.125,
+			"z": 2588.25
+		}
+	},
+	{
+		"id": 1221,
+		"type": "stellarRemnant",
+		"name": "Heaven's Lathe",
+		"galMapSearch": "HD 175876",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6087928/name/HD+175876",
+		"coords": {
+			"x": -644.1875,
+			"y": -472,
+			"z": 2299.3125
+		}
+	},
+	{
+		"id": 1225,
+		"type": "stellarRemnant",
+		"name": "Antares",
+		"galMapSearch": "Antares",
+		"galMapUrl": "https://www.edsm.net/en/system/id/20242/name/Antares",
+		"coords": {
+			"x": 71.5,
+			"y": 138.40625,
+			"z": 531.375
+		}
+	},
+	{
+		"id": 1226,
+		"type": "nebula",
+		"name": "Rho Ophiuchi Cloud Complex (IC 4603/4604)",
+		"galMapSearch": "IC 4604 Sector FB-X c1-17",
+		"galMapUrl": "https://www.edsm.net/en/system/id/26385/name/IC+4604+Sector+FB-X+c1-17",
+		"coords": {
+			"x": 60.40625,
+			"y": 182.9375,
+			"z": 570.78125
+		}
+	},
+	{
+		"id": 1227,
+		"type": "planetaryNebula",
+		"name": "Blue Snowball Nebula",
+		"galMapSearch": "BD+41 4773",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12602115/name/BD%2B41+4773",
+		"coords": {
+			"x": -5024.0625,
+			"y": -1663.0625,
+			"z": -1497.75
+		}
+	},
+	{
+		"id": 1228,
+		"type": "geyserPOI",
+		"name": "Funfair Geysers",
+		"galMapSearch": "Veil West Sector DL-Y d68",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43689/name/Veil+West+Sector+DL-Y+d68",
+		"coords": {
+			"x": -1398.25,
+			"y": -193.5625,
+			"z": 418.90625
+		}
+	},
+	{
+		"id": 1229,
+		"type": "geyserPOI",
+		"name": "Doom Geysers",
+		"galMapSearch": "Soul Sector EL-Y d7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3194633/name/Soul+Sector+EL-Y+d7",
+		"coords": {
+			"x": -5043.15625,
+			"y": 85.03125,
+			"z": -5513.09375
+		}
+	},
+	{
+		"id": 1232,
+		"type": "minorPOI",
+		"name": "Little Red Riding Hood",
+		"galMapSearch": "Gria Eork EP-A d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7071160/name/Gria+Eork+EP-A+d0",
+		"coords": {
+			"x": 8426.375,
+			"y": -1022.875,
+			"z": 2813.6875
+		}
+	},
+	{
+		"id": 1237,
+		"type": "planetaryNebula",
+		"name": "NGC 1501",
+		"galMapSearch": "GCRV 2334",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4410659/name/GCRV+2334",
+		"coords": {
+			"x": -2071.59375,
+			"y": 413.75,
+			"z": -2915.03125
+		}
+	},
+	{
+		"id": 1248,
+		"type": "minorPOI",
+		"name": "Hathor's Prophecy",
+		"galMapSearch": "Eta Carina Sector MX-U c2-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/711423/name/Eta+Carina+Sector+MX-U+c2-8",
+		"coords": {
+			"x": 8572.46875,
+			"y": -187.21875,
+			"z": 2726.90625
+		}
+	},
+	{
+		"id": 1254,
+		"type": "stellarRemnant",
+		"name": "HIP 47126",
+		"galMapSearch": "HIP 47126",
+		"galMapUrl": "https://www.edsm.net/en/system/id/892192/name/HIP+47126",
+		"coords": {
+			"x": 955.875,
+			"y": -13.71875,
+			"z": 108.59375
+		}
+	},
+	{
+		"id": 1255,
+		"type": "mysteryPOI",
+		"name": "Alien Ship Surface Sighting",
+		"galMapSearch": "Pleiades Sector OI-T c3-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1578411/name/Pleiades+Sector+OI-T+c3-7",
+		"coords": {
+			"x": -69.4375,
+			"y": -180.4375,
+			"z": -287.625
+		}
+	},
+	{
+		"id": 1256,
+		"type": "nebula",
+		"name": "R CrA Nebula (NGC 6729)",
+		"galMapSearch": "BrsO 14",
+		"galMapUrl": "https://www.edsm.net/en/system/id/56919/name/BrsO+14",
+		"coords": {
+			"x": 0,
+			"y": -128.40625,
+			"z": 399.875
+		}
+	},
+	{
+		"id": 1258,
+		"type": "stellarRemnant",
+		"name": "4 Cygni",
+		"galMapSearch": "4 Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29630/name/4+Cygni",
+		"coords": {
+			"x": -653.9375,
+			"y": 111.125,
+			"z": 246.125
+		}
+	},
+	{
+		"id": 1267,
+		"type": "starCluster",
+		"name": "Stock 1 Open Cluster",
+		"galMapSearch": "HD 338660",
+		"galMapUrl": "https://www.edsm.net/en/system/id/262276/name/HD+338660",
+		"coords": {
+			"x": -945.25,
+			"y": 37.46875,
+			"z": 541.46875
+		}
+	},
+	{
+		"id": 1270,
+		"type": "stellarRemnant",
+		"name": "Deneb (Alpha Cygni)",
+		"galMapSearch": "Alpha Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23434/name/Alpha+Cygni",
+		"coords": {
+			"x": -1405,
+			"y": 46.125,
+			"z": 132.5
+		}
+	},
+	{
+		"id": 1271,
+		"type": "stellarRemnant",
+		"name": "VV Cephei",
+		"galMapSearch": "VV Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25859/name/VV+Cephei",
+		"coords": {
+			"x": -2348.34375,
+			"y": 304.71875,
+			"z": -637.6875
+		}
+	},
+	{
+		"id": 1272,
+		"type": "planetaryNebula",
+		"name": "Little Dumbbell Nebula",
+		"galMapSearch": "GCRV 950",
+		"galMapUrl": "https://www.edsm.net/en/system/id/401264/name/GCRV+950",
+		"coords": {
+			"x": -1560.71875,
+			"y": -382.71875,
+			"z": -1351.9375
+		}
+	},
+	{
+		"id": 1275,
+		"type": "starCluster",
+		"name": "Stock 2 Open Cluster",
+		"galMapSearch": "BD+58 392",
+		"galMapUrl": "https://www.edsm.net/en/system/id/326101/name/BD%2B58+392",
+		"coords": {
+			"x": -706.875,
+			"y": -37.5625,
+			"z": -663.21875
+		}
+	},
+	{
+		"id": 1276,
+		"type": "pulsar",
+		"name": "Lich",
+		"galMapSearch": "PSR J1300+1240",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2963586/name/PSR+J1300%2B1240",
+		"coords": {
+			"x": 369.28125,
+			"y": 1892.90625,
+			"z": 326.25
+		}
+	},
+	{
+		"id": 1277,
+		"type": "stellarRemnant",
+		"name": "Mira",
+		"galMapSearch": "Mira",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1752131/name/Mira",
+		"coords": {
+			"x": -45.375,
+			"y": -352.78125,
+			"z": -220.9375
+		}
+	},
+	{
+		"id": 1278,
+		"type": "planetFeatures",
+		"name": "Helios Rock Garden",
+		"galMapSearch": "TYC 3319-306-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1399251/name/TYC+3319-306-1",
+		"coords": {
+			"x": -343.15625,
+			"y": -79.21875,
+			"z": -512.71875
+		}
+	},
+	{
+		"id": 1279,
+		"type": "stellarRemnant",
+		"name": "Rigel",
+		"galMapSearch": "Rigel",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25601/name/Rigel",
+		"coords": {
+			"x": 385.78125,
+			"y": -360.40625,
+			"z": -682.53125
+		}
+	},
+	{
+		"id": 1283,
+		"type": "nebula",
+		"name": "Pencil Nebula (NGC 2736)",
+		"galMapSearch": "Pencil Sector EL-Y d5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/75606/name/Pencil+Sector+EL-Y+d5",
+		"coords": {
+			"x": 816.3125,
+			"y": 2,
+			"z": -44.03125
+		}
+	},
+	{
+		"id": 1286,
+		"type": "starCluster",
+		"name": "NGC 3532 Cluster",
+		"galMapSearch": "HD 94144",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5533858/name/HD+94144",
+		"coords": {
+			"x": 1562.09375,
+			"y": -53.6875,
+			"z": 545.96875
+		}
+	},
+	{
+		"id": 1287,
+		"type": "planetaryNebula",
+		"name": "NGC 3699",
+		"galMapSearch": "Hen 2-65",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2407768/name/Hen+2-65",
+		"coords": {
+			"x": 4150.34375,
+			"y": 102.0625,
+			"z": 1736.125
+		}
+	},
+	{
+		"id": 1289,
+		"type": "stellarRemnant",
+		"name": "x Carinae",
+		"galMapSearch": "x Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2849849/name/x+Carinae",
+		"coords": {
+			"x": 5879.03125,
+			"y": 125.46875,
+			"z": 2182.5625
+		}
+	},
+	{
+		"id": 1290,
+		"type": "starCluster",
+		"name": "NGC 663 Open Cluster",
+		"galMapSearch": "NGC 663 Sector YJ-I b9-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13007635/name/NGC+663+Sector+YJ-I+b9-1",
+		"coords": {
+			"x": -4965.15625,
+			"y": -345.90625,
+			"z": -4105.34375
+		}
+	},
+	{
+		"id": 1291,
+		"type": "starCluster",
+		"name": "NGC 659 Open Cluster",
+		"galMapSearch": "NGC 659 Sector BG-O b6-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8165977/name/NGC+659+Sector+BG-O+b6-3",
+		"coords": {
+			"x": -4868.1875,
+			"y": -197.0625,
+			"z": -3960.90625
+		}
+	},
+	{
+		"id": 1292,
+		"type": "starCluster",
+		"name": "Messier 103",
+		"galMapSearch": "M103 Sector AA-A e8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2474043/name/M103+Sector+AA-A+e8",
+		"coords": {
+			"x": -5670.5,
+			"y": -292.9375,
+			"z": -4460.34375
+		}
+	},
+	{
+		"id": 1294,
+		"type": "starCluster",
+		"name": "Messier 52",
+		"galMapSearch": "TYC 4279-998-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2095246/name/TYC+4279-998-1",
+		"coords": {
+			"x": -4273.8125,
+			"y": 29.71875,
+			"z": -1801.375
+		}
+	},
+	{
+		"id": 1295,
+		"type": "starCluster",
+		"name": "Messier 50",
+		"galMapSearch": "BD-08 1708",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5773982/name/BD-08+1708",
+		"coords": {
+			"x": 2037.3125,
+			"y": -67.5,
+			"z": -2286.21875
+		}
+	},
+	{
+		"id": 1301,
+		"type": "planetFeatures",
+		"name": "Vela Furnace",
+		"galMapSearch": "q Velorum",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13122817/name/q+Velorum",
+		"coords": {
+			"x": 1310.625,
+			"y": 78.09375,
+			"z": 220.09375
+		}
+	},
+	{
+		"id": 1307,
+		"type": "planetaryNebula",
+		"name": "NGC 3211",
+		"galMapSearch": "GCRV 6493",
+		"galMapUrl": "https://www.edsm.net/en/system/id/147671/name/GCRV+6493",
+		"coords": {
+			"x": 8797.90625,
+			"y": -785.84375,
+			"z": 2572.6875
+		}
+	},
+	{
+		"id": 1321,
+		"type": "planetaryNebula",
+		"name": "NGC 2792",
+		"galMapSearch": "CD-41 4893",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2715428/name/CD-41+4893",
+		"coords": {
+			"x": 8157.03125,
+			"y": 586.25,
+			"z": -599.03125
+		}
+	},
+	{
+		"id": 1330,
+		"type": "starCluster",
+		"name": "Collinder 89 Open Cluster",
+		"galMapSearch": "HD 42896",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13747418/name/HD+42896",
+		"coords": {
+			"x": 809.6875,
+			"y": 134.9375,
+			"z": -4100.25
+		}
+	},
+	{
+		"id": 1338,
+		"type": "planetaryNebula",
+		"name": "NGC 2440",
+		"galMapSearch": "FAUST 1521",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3112191/name/FAUST+1521",
+		"coords": {
+			"x": 4653.625,
+			"y": 238.6875,
+			"z": -3282.8125
+		}
+	},
+	{
+		"id": 1345,
+		"type": "planetaryNebula",
+		"name": "Cyoidai GH-U Supernova Remnant",
+		"galMapSearch": "Cyoidai GH-U e3-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/129509/name/Cyoidai+GH-U+e3-3",
+		"coords": {
+			"x": 663.1875,
+			"y": -160.9375,
+			"z": -6773.4375
+		}
+	},
+	{
+		"id": 1346,
+		"type": "historicalLocation",
+		"name": "Serebrov Beacon",
+		"galMapSearch": "Dryaa Phoe WV-C d0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13648928/name/Dryaa+Phoe+WV-C+d0",
+		"coords": {
+			"x": -4.15625,
+			"y": -62.84375,
+			"z": -9993.875
+		}
+	},
+	{
+		"id": 1353,
+		"type": "planetaryNebula",
+		"name": "IC 2149",
+		"galMapSearch": "BD+46 1067",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7017023/name/BD%2B46+1067",
+		"coords": {
+			"x": -1688.6875,
+			"y": 1312.09375,
+			"z": -6875.09375
+		}
+	},
+	{
+		"id": 1359,
+		"type": "organicPOI",
+		"name": "Barnacle Sites - the Pleiades",
+		"galMapSearch": "Pleiades Sector JC-U b3-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/244481/name/Pleiades+Sector+JC-U+b3-2",
+		"coords": {
+			"x": -73.625,
+			"y": -135.75,
+			"z": -359.71875
+		}
+	},
+	{
+		"id": 1360,
+		"type": "organicPOI",
+		"name": "Barnacle Sites - California Nebula",
+		"galMapSearch": "California Sector LX-T b3-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/354214/name/California+Sector+LX-T+b3-0",
+		"coords": {
+			"x": -337.90625,
+			"y": -211.9375,
+			"z": -927.03125
+		}
+	},
+	{
+		"id": 1361,
+		"type": "organicPOI",
+		"name": "Barnacle Sites - Witch Head Nebula",
+		"galMapSearch": "HIP 23759",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21364/name/HIP+23759",
+		"coords": {
+			"x": 359.84375,
+			"y": -385.53125,
+			"z": -718.375
+		}
+	},
+	{
+		"id": 1362,
+		"type": "historicalLocation",
+		"name": "Salomé's World",
+		"galMapSearch": "Eafots RX-T d3-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4673210/name/Eafots+RX-T+d3-3",
+		"coords": {
+			"x": -5579.25,
+			"y": 450.09375,
+			"z": -5795.0625
+		}
+	},
+	{
+		"id": 1365,
+		"type": "stellarRemnant",
+		"name": "Fireflies",
+		"galMapSearch": "2MASS J02351897+6131236",
+		"galMapUrl": "https://www.edsm.net/en/system/id/322861/name/2MASS+J02351897%2B6131236",
+		"coords": {
+			"x": -4192.71875,
+			"y": 114.5,
+			"z": -4190.625
+		}
+	},
+	{
+		"id": 1366,
+		"type": "starCluster",
+		"name": "NGC 188 (Caldwell 1)",
+		"galMapSearch": "V785 Cephei",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14177960/name/V785+Cephei",
+		"coords": {
+			"x": -5174.71875,
+			"y": 2529.9375,
+			"z": -3355.21875
+		}
+	},
+	{
+		"id": 1369,
+		"type": "minorPOI",
+		"name": "HIP 23759 Geysers",
+		"galMapSearch": "HIP 23759",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21364/name/HIP+23759",
+		"coords": {
+			"x": 359.84375,
+			"y": -385.53125,
+			"z": -718.375
+		}
+	},
+	{
+		"id": 1374,
+		"type": "planetaryNebula",
+		"name": "IC 5148",
+		"galMapSearch": "IRAS 21565-3937",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14211155/name/IRAS+21565-3937",
+		"coords": {
+			"x": -86.25,
+			"y": -2376.875,
+			"z": 1828.375
+		}
+	},
+	{
+		"id": 1376,
+		"type": "stellarRemnant",
+		"name": "Moore-Nauenberg",
+		"galMapSearch": "Phroea Phoe RD-S e4-12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14178510/name/Phroea+Phoe+RD-S+e4-12",
+		"coords": {
+			"x": -3947.21875,
+			"y": -473.6875,
+			"z": -3968.21875
+		}
+	},
+	{
+		"id": 1378,
+		"type": "deepSpaceOutpost",
+		"name": "Mahon Research Base",
+		"galMapSearch": "HIP 18077",
+		"galMapUrl": "https://www.edsm.net/en/system/id/99655/name/HIP+18077",
+		"coords": {
+			"x": -303.84375,
+			"y": -236.125,
+			"z": -860.59375
+		}
+	},
+	{
+		"id": 1382,
+		"type": "stellarRemnant",
+		"name": "HD 53041",
+		"galMapSearch": "HD 53041",
+		"galMapUrl": "https://www.edsm.net/en/system/id/438667/name/HD+53041",
+		"coords": {
+			"x": 1110.71875,
+			"y": -225.15625,
+			"z": -646.3125
+		}
+	},
+	{
+		"id": 1383,
+		"type": "pulsar",
+		"name": "Vela Pulsar",
+		"galMapSearch": "Vela Pulsar",
+		"galMapUrl": "https://www.edsm.net/en/system/id/491743/name/Vela+Pulsar",
+		"coords": {
+			"x": 905.9375,
+			"y": -44.40625,
+			"z": -102.40625
+		}
+	},
+	{
+		"id": 1386,
+		"type": "planetFeatures",
+		"name": "Phi Velorum",
+		"galMapSearch": "Phi Velorum",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12480497/name/Phi+Velorum",
+		"coords": {
+			"x": 1568.3125,
+			"y": 1.96875,
+			"z": 267.90625
+		}
+	},
+	{
+		"id": 1387,
+		"type": "planetFeatures",
+		"name": "Radioactive Green",
+		"galMapSearch": "Col 285 Sector VU-M c8-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9395331/name/Col+285+Sector+VU-M+c8-1",
+		"coords": {
+			"x": 138.34375,
+			"y": 264.71875,
+			"z": -22.6875
+		}
+	},
+	{
+		"id": 1389,
+		"type": "starCluster",
+		"name": "Beehive Cluster",
+		"galMapSearch": "Praesepe",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3041108/name/Praesepe",
+		"coords": {
+			"x": 219.75,
+			"y": 319.6875,
+			"z": -440.03125
+		}
+	},
+	{
+		"id": 1392,
+		"type": "planetFeatures",
+		"name": "HIP 104643",
+		"galMapSearch": "HIP 104643",
+		"galMapUrl": "https://www.edsm.net/en/system/id/442758/name/HIP+104643",
+		"coords": {
+			"x": -857.25,
+			"y": -200.5,
+			"z": 203.09375
+		}
+	},
+	{
+		"id": 1394,
+		"type": "stellarRemnant",
+		"name": "Nova Aquila No 3",
+		"galMapSearch": "Nova Aquila No 3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/385659/name/Nova+Aquila+No+3",
+		"coords": {
+			"x": -363.03125,
+			"y": 3.3125,
+			"z": 548.28125
+		}
+	},
+	{
+		"id": 1395,
+		"type": "stellarRemnant",
+		"name": "HD 171804",
+		"galMapSearch": "HD 171804",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2510007/name/HD+171804",
+		"coords": {
+			"x": -594.03125,
+			"y": -21.34375,
+			"z": 1280.75
+		}
+	},
+	{
+		"id": 1396,
+		"type": "nebula",
+		"name": "NGC 6188",
+		"galMapSearch": "NGC 6188 Sector LC-V c2-28",
+		"galMapUrl": "https://www.edsm.net/en/system/id/55893/name/NGC+6188+Sector+LC-V+c2-28",
+		"coords": {
+			"x": 1706.1875,
+			"y": -87.625,
+			"z": 4057.15625
+		}
+	},
+	{
+		"id": 1397,
+		"type": "planetFeatures",
+		"name": "Bleia Dryiae Glowing Green Giant",
+		"galMapSearch": "Bleia Dryiae HF-W b35-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/585254/name/Bleia+Dryiae+HF-W+b35-1",
+		"coords": {
+			"x": -836.40625,
+			"y": -112.5625,
+			"z": 4826.15625
+		}
+	},
+	{
+		"id": 1404,
+		"type": "stellarRemnant",
+		"name": "Chantico",
+		"galMapSearch": "HIP 38716",
+		"galMapUrl": "https://www.edsm.net/en/system/id/40805/name/HIP+38716",
+		"coords": {
+			"x": 714.90625,
+			"y": 7.25,
+			"z": -330.9375
+		}
+	},
+	{
+		"id": 1409,
+		"type": "minorPOI",
+		"name": "HIP 15882 Geysers",
+		"galMapSearch": "HIP 15882",
+		"galMapUrl": "https://www.edsm.net/en/system/id/317836/name/HIP+15882",
+		"coords": {
+			"x": -107.0625,
+			"y": -207.90625,
+			"z": -377.90625
+		}
+	},
+	{
+		"id": 1410,
+		"type": "minorPOI",
+		"name": "Cat's Paw Geysers",
+		"galMapSearch": "Cat's Paw Sector HR-W d1-238",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1622054/name/Cat%27s+Paw+Sector+HR-W+d1-238",
+		"coords": {
+			"x": 828.9375,
+			"y": 45.4375,
+			"z": 5419.59375
+		}
+	},
+	{
+		"id": 1411,
+		"type": "geyserPOI",
+		"name": "Red Storm Geysers",
+		"galMapSearch": "Cat's Paw Sector HR-W d1-31",
+		"galMapUrl": "https://www.edsm.net/en/system/id/587544/name/Cat%27s+Paw+Sector+HR-W+d1-31",
+		"coords": {
+			"x": 834.8125,
+			"y": 54.625,
+			"z": 5423
+		}
+	},
+	{
+		"id": 1412,
+		"type": "mysteryPOI",
+		"name": "Lycaon (generation ship)",
+		"galMapSearch": "Alaunus",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23425/name/Alaunus",
+		"coords": {
+			"x": -0.65625,
+			"y": -52.28125,
+			"z": -5.96875
+		}
+	},
+	{
+		"id": 1413,
+		"type": "mysteryPOI",
+		"name": "Venusian (Generation Ship)",
+		"galMapSearch": "Kitae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/19664/name/Kitae",
+		"coords": {
+			"x": -13.5,
+			"y": 24.75,
+			"z": -56.46875
+		}
+	},
+	{
+		"id": 1414,
+		"type": "mysteryPOI",
+		"name": "Hyperion (generation ship)",
+		"galMapSearch": "Lalande 2966",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25058/name/Lalande+2966",
+		"coords": {
+			"x": -95.25,
+			"y": 10.21875,
+			"z": -74.78125
+		}
+	},
+	{
+		"id": 1415,
+		"type": "mysteryPOI",
+		"name": "Odysseus (Generation Ship)",
+		"galMapSearch": "Ross 859",
+		"galMapUrl": "https://www.edsm.net/en/system/id/30263/name/Ross+859",
+		"coords": {
+			"x": -31.8125,
+			"y": 15.9375,
+			"z": 162.125
+		}
+	},
+	{
+		"id": 1416,
+		"type": "mysteryPOI",
+		"name": "Thetis (generation ship)",
+		"galMapSearch": "Nefertem",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25371/name/Nefertem",
+		"coords": {
+			"x": 38.125,
+			"y": 30.875,
+			"z": -21.25
+		}
+	},
+	{
+		"id": 1417,
+		"type": "mysteryPOI",
+		"name": "Pleione (Generation Ship)",
+		"galMapSearch": "Hez Ur",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4361/name/Hez+Ur",
+		"coords": {
+			"x": 149.96875,
+			"y": 23.65625,
+			"z": -85.03125
+		}
+	},
+	{
+		"id": 1418,
+		"type": "mysteryPOI",
+		"name": "Atlas (generation ship)",
+		"galMapSearch": "Charick Drift",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23801/name/Charick+Drift",
+		"coords": {
+			"x": 8.1875,
+			"y": 26.71875,
+			"z": -6.0625
+		}
+	},
+	{
+		"id": 1419,
+		"type": "mysteryPOI",
+		"name": "The Cete (derelict research vessel)",
+		"galMapSearch": "Col 173 Sector LJ-F c12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/10415930/name/Col+173+Sector+LJ-F+c12-0",
+		"coords": {
+			"x": 1202.125,
+			"y": -213.40625,
+			"z": -165.5625
+		}
+	},
+	{
+		"id": 1420,
+		"type": "mysteryPOI",
+		"name": "Thargoid Site - Merope eastern limit",
+		"galMapSearch": "Synuefe RT-Z c16-13",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4350298/name/Synuefe+RT-Z+c16-13",
+		"coords": {
+			"x": 56.9375,
+			"y": -142.03125,
+			"z": -339.9375
+		}
+	},
+	{
+		"id": 1421,
+		"type": "mysteryPOI",
+		"name": "Thargoid Site - Merope western limit",
+		"galMapSearch": "Mel 22 Sector OO-Q c5-10",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6741715/name/Mel+22+Sector+OO-Q+c5-10",
+		"coords": {
+			"x": -219.6875,
+			"y": -112.28125,
+			"z": -369
+		}
+	},
+	{
+		"id": 1422,
+		"type": "mysteryPOI",
+		"name": "Thargoid Site - Merope northern limit",
+		"galMapSearch": "HIP 15134",
+		"galMapUrl": "https://www.edsm.net/en/system/id/182107/name/HIP+15134",
+		"coords": {
+			"x": -48.09375,
+			"y": -136.65625,
+			"z": -198.8125
+		}
+	},
+	{
+		"id": 1423,
+		"type": "mysteryPOI",
+		"name": "Thargoid Site - Merope southern limit",
+		"galMapSearch": "Taurus Dark Region BQ-Y c12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1246232/name/Taurus+Dark+Region+BQ-Y+c12",
+		"coords": {
+			"x": -106.59375,
+			"y": -120.625,
+			"z": -477.46875
+		}
+	},
+	{
+		"id": 1429,
+		"type": "mysteryPOI",
+		"name": "Merope",
+		"galMapSearch": "Merope",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25355/name/Merope",
+		"coords": {
+			"x": -78.59375,
+			"y": -149.625,
+			"z": -340.53125
+		}
+	},
+	{
+		"id": 1430,
+		"type": "deepSpaceOutpost",
+		"name": "Obsidian Orbital (and other settlements in the Pleiades)",
+		"galMapSearch": "Maia",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25341/name/Maia",
+		"coords": {
+			"x": -81.78125,
+			"y": -149.4375,
+			"z": -343.375
+		}
+	},
+	{
+		"id": 1431,
+		"type": "historicalLocation",
+		"name": "Achenar",
+		"galMapSearch": "Achenar",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12523/name/Achenar",
+		"coords": {
+			"x": 67.5,
+			"y": -119.46875,
+			"z": 24.84375
+		}
+	},
+	{
+		"id": 1432,
+		"type": "historicalLocation",
+		"name": "Alioth",
+		"galMapSearch": "Alioth",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8218/name/Alioth",
+		"coords": {
+			"x": -33.65625,
+			"y": 72.46875,
+			"z": -20.65625
+		}
+	},
+	{
+		"id": 1434,
+		"type": "planetaryNebula",
+		"name": "IC 5217",
+		"galMapSearch": "Csi+50-22218",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2776096/name/Csi%2B50-22218",
+		"coords": {
+			"x": -9198.59375,
+			"y": -884.625,
+			"z": -1721.46875
+		}
+	},
+	{
+		"id": 1435,
+		"type": "geyserPOI",
+		"name": "Seagull Nebula Geysers",
+		"galMapSearch": "Seagull Sector QD-T c3-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14969854/name/Seagull+Sector+QD-T+c3-5",
+		"coords": {
+			"x": 2631.03125,
+			"y": -200.8125,
+			"z": -2660.40625
+		}
+	},
+	{
+		"id": 1436,
+		"type": "stellarRemnant",
+		"name": "Chi Cygni",
+		"galMapSearch": "Chi Cygni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29544/name/Chi+Cygni",
+		"coords": {
+			"x": -549.375,
+			"y": 30.8125,
+			"z": 212.4375
+		}
+	},
+	{
+		"id": 1437,
+		"type": "minorPOI",
+		"name": "Aquapark Geysers",
+		"galMapSearch": "Rosette Sector JH-V c2-11",
+		"galMapUrl": "https://www.edsm.net/en/system/id/296223/name/Rosette+Sector+JH-V+c2-11",
+		"coords": {
+			"x": 2355.375,
+			"y": -170.5,
+			"z": -4740.84375
+		}
+	},
+	{
+		"id": 1440,
+		"type": "planetaryNebula",
+		"name": "IC 4634",
+		"galMapSearch": "BD-21 4483",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2715430/name/BD-21+4483",
+		"coords": {
+			"x": -51.1875,
+			"y": 1584.90625,
+			"z": 7330.4375
+		}
+	},
+	{
+		"id": 1442,
+		"type": "planetaryNebula",
+		"name": "NGC 6842",
+		"galMapSearch": "Csi+29-19529",
+		"galMapUrl": "https://www.edsm.net/en/system/id/754575/name/Csi%2B29-19529",
+		"coords": {
+			"x": -5476.71875,
+			"y": 62.8125,
+			"z": 2449.84375
+		}
+	},
+	{
+		"id": 1443,
+		"type": "planetaryNebula",
+		"name": "NGC 6852",
+		"galMapSearch": "IRAS 19581+0135",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2776032/name/IRAS+19581%2B0135",
+		"coords": {
+			"x": -3276.59375,
+			"y": -1251.90625,
+			"z": 3563.25
+		}
+	},
+	{
+		"id": 1444,
+		"type": "planetaryNebula",
+		"name": "NGC 6567",
+		"galMapSearch": "CSI-19-18107",
+		"galMapUrl": "https://www.edsm.net/en/system/id/661680/name/CSI-19-18107",
+		"coords": {
+			"x": -851.65625,
+			"y": -51.3125,
+			"z": 4112.40625
+		}
+	},
+	{
+		"id": 1445,
+		"type": "minorPOI",
+		"name": "The Blue Diamond",
+		"galMapSearch": "Cyoidai XF-C c14-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15123674/name/Cyoidai+XF-C+c14-0",
+		"coords": {
+			"x": 652.34375,
+			"y": -735.71875,
+			"z": -6852.75
+		}
+	},
+	{
+		"id": 1446,
+		"type": "planetaryNebula",
+		"name": "NGC 6629",
+		"galMapSearch": "CD-23 14350",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7107016/name/CD-23+14350",
+		"coords": {
+			"x": -1041.15625,
+			"y": -568.9375,
+			"z": 6289.0625
+		}
+	},
+	{
+		"id": 1447,
+		"type": "organicPOI",
+		"name": "Baton's Orchard",
+		"galMapSearch": "Col 173 Sector HN-J d9-52",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15334358/name/Col+173+Sector+HN-J+d9-52",
+		"coords": {
+			"x": 1217.8125,
+			"y": -241.40625,
+			"z": 83.28125
+		}
+	},
+	{
+		"id": 1448,
+		"type": "minorPOI",
+		"name": "Ice Garden",
+		"galMapSearch": "Col 173 Sector SI-I b26-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12417764/name/Col+173+Sector+SI-I+b26-8",
+		"coords": {
+			"x": 1203.21875,
+			"y": -103.25,
+			"z": -136.1875
+		}
+	},
+	{
+		"id": 1449,
+		"type": "planetaryNebula",
+		"name": "NGC 6565",
+		"galMapSearch": "CD-28 14266",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3881591/name/CD-28+14266",
+		"coords": {
+			"x": -359.03125,
+			"y": -473.1875,
+			"z": 5870
+		}
+	},
+	{
+		"id": 1451,
+		"type": "planetaryNebula",
+		"name": "NGC 6058",
+		"galMapSearch": "Csi+40-16027",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5098241/name/Csi%2B40-16027",
+		"coords": {
+			"x": -5472.96875,
+			"y": 6794.40625,
+			"z": 2587.03125
+		}
+	},
+	{
+		"id": 1455,
+		"type": "minorPOI",
+		"name": "Garden of Eden",
+		"galMapSearch": "TV Muscae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14246215/name/TV+Muscae",
+		"coords": {
+			"x": 680.625,
+			"y": -39.40625,
+			"z": 323.46875
+		}
+	},
+	{
+		"id": 1460,
+		"type": "planetaryNebula",
+		"name": "NGC 5882",
+		"galMapSearch": "CD-45 9789",
+		"galMapUrl": "https://www.edsm.net/en/system/id/6136531/name/CD-45+9789",
+		"coords": {
+			"x": 4616.625,
+			"y": 1543.21875,
+			"z": 7331.09375
+		}
+	},
+	{
+		"id": 1461,
+		"type": "planetaryNebula",
+		"name": "NGC 5307",
+		"galMapSearch": "CD-50 8073",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2714674/name/CD-50+8073",
+		"coords": {
+			"x": 5879.40625,
+			"y": 1490,
+			"z": 5368.625
+		}
+	},
+	{
+		"id": 1465,
+		"type": "planetaryNebula",
+		"name": "NGC 6563",
+		"galMapSearch": "CD-33 12935",
+		"galMapUrl": "https://www.edsm.net/en/system/id/282632/name/CD-33+12935",
+		"coords": {
+			"x": 80.46875,
+			"y": -393.90625,
+			"z": 3073.8125
+		}
+	},
+	{
+		"id": 1466,
+		"type": "planetaryNebula",
+		"name": "NGC 6153",
+		"galMapSearch": "CD-39 10464",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3303026/name/CD-39+10464",
+		"coords": {
+			"x": 1670.1875,
+			"y": 508.15625,
+			"z": 5110
+		}
+	},
+	{
+		"id": 1467,
+		"type": "planetaryNebula",
+		"name": "NGC 6337",
+		"galMapSearch": "Hen 2-215",
+		"galMapUrl": "https://www.edsm.net/en/system/id/70089/name/Hen+2-215",
+		"coords": {
+			"x": 901.1875,
+			"y": -94.09375,
+			"z": 4815.46875
+		}
+	},
+	{
+		"id": 1469,
+		"type": "starCluster",
+		"name": "NGC 7209",
+		"galMapSearch": "CN Lacertae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16091944/name/CN+Lacertae",
+		"coords": {
+			"x": -3734.40625,
+			"y": -499.5,
+			"z": -361.9375
+		}
+	},
+	{
+		"id": 1470,
+		"type": "mysteryPOI",
+		"name": "Lazarus (Generation Ship)",
+		"galMapSearch": "Virudnir",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17712/name/Virudnir",
+		"coords": {
+			"x": -12.78125,
+			"y": 143.28125,
+			"z": -66.125
+		}
+	},
+	{
+		"id": 1494,
+		"type": "deepSpaceOutpost",
+		"name": "Eudaemon Anchorage",
+		"galMapSearch": "Rohini",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16355685/name/Rohini",
+		"coords": {
+			"x": -3374.8125,
+			"y": -47.8125,
+			"z": 6912.25
+		}
+	},
+	{
+		"id": 1498,
+		"type": "starCluster",
+		"name": "IC 1805",
+		"galMapSearch": "IC 1805 Sector DQ-Y e3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/43914/name/IC+1805+Sector+DQ-Y+e3",
+		"coords": {
+			"x": -4337.375,
+			"y": 12.3125,
+			"z": -4425.40625
+		}
+	},
+	{
+		"id": 1502,
+		"type": "stellarRemnant",
+		"name": "The View",
+		"galMapSearch": "HR 6164",
+		"galMapUrl": "https://www.edsm.net/en/system/id/21566/name/HR+6164",
+		"coords": {
+			"x": 444.34375,
+			"y": 58.3125,
+			"z": 1282.96875
+		}
+	},
+	{
+		"id": 1503,
+		"type": "planetFeatures",
+		"name": "Earth-Like Dance With Giant",
+		"galMapSearch": "IC 1396 Sector RU-F d11-7",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3381284/name/IC+1396+Sector+RU-F+d11-7",
+		"coords": {
+			"x": -2778.28125,
+			"y": 129.34375,
+			"z": 7.65625
+		}
+	},
+	{
+		"id": 1506,
+		"type": "surfacePOI",
+		"name": "The Arkgamanon Mountain Range",
+		"galMapSearch": "Pyramoe PM-X b33-6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9542001/name/Pyramoe+PM-X+b33-6",
+		"coords": {
+			"x": -483.5,
+			"y": -354.71875,
+			"z": 6068.90625
+		}
+	},
+	{
+		"id": 1516,
+		"type": "planetaryNebula",
+		"name": "NGC 6445",
+		"galMapSearch": "CSI-20-17462",
+		"galMapUrl": "https://www.edsm.net/en/system/id/105460/name/CSI-20-17462",
+		"coords": {
+			"x": -632.59375,
+			"y": 306.0625,
+			"z": 4444.78125
+		}
+	},
+	{
+		"id": 1519,
+		"type": "planetFeatures",
+		"name": "Cerebus",
+		"galMapSearch": "Pyramio GO-K c24-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5622589/name/Pyramio+GO-K+c24-8",
+		"coords": {
+			"x": 993.5,
+			"y": -374.8125,
+			"z": 6399.78125
+		}
+	},
+	{
+		"id": 1530,
+		"type": "minorPOI",
+		"name": "Red Planet",
+		"galMapSearch": "Flyeia Hypai FH-X c17-16",
+		"galMapUrl": "https://www.edsm.net/en/system/id/11631041/name/Flyeia+Hypai+FH-X+c17-16",
+		"coords": {
+			"x": 3766.3125,
+			"y": -279.28125,
+			"z": 7377.1875
+		}
+	},
+	{
+		"id": 1537,
+		"type": "surfacePOI",
+		"name": "Lucifer's Lair",
+		"galMapSearch": "Trifid Sector OI-S b4-12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/536960/name/Trifid+Sector+OI-S+b4-12",
+		"coords": {
+			"x": -615.09375,
+			"y": -24.15625,
+			"z": 5171.0625
+		}
+	},
+	{
+		"id": 1540,
+		"type": "surfacePOI",
+		"name": "Glacier Point",
+		"galMapSearch": "Slege WJ-R c20-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17652474/name/Slege+WJ-R+c20-0",
+		"coords": {
+			"x": -8847.0625,
+			"y": -422.96875,
+			"z": -2738.25
+		}
+	},
+	{
+		"id": 1554,
+		"type": "minorPOI",
+		"name": "Gigas",
+		"galMapSearch": "Plaa Eurk DF-D c26-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9769208/name/Plaa+Eurk+DF-D+c26-1",
+		"coords": {
+			"x": -2583.40625,
+			"y": 102.3125,
+			"z": 60.3125
+		}
+	},
+	{
+		"id": 1556,
+		"type": "mysteryPOI",
+		"name": "Jameson's Demise",
+		"galMapSearch": "HIP 12099",
+		"galMapUrl": "https://www.edsm.net/en/system/id/176846/name/HIP+12099",
+		"coords": {
+			"x": -101.90625,
+			"y": -95.46875,
+			"z": -165.59375
+		}
+	},
+	{
+		"id": 1557,
+		"type": "minorPOI",
+		"name": "Belle de Fontenay",
+		"galMapSearch": "Crab Sector AF-A d6",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3500440/name/Crab+Sector+AF-A+d6",
+		"coords": {
+			"x": 577.6875,
+			"y": -671.5625,
+			"z": -7031
+		}
+	},
+	{
+		"id": 1568,
+		"type": "stellarRemnant",
+		"name": "Momma's Boy",
+		"galMapSearch": "Chaluia FS-A d1-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18964001/name/Chaluia+FS-A+d1-4",
+		"coords": {
+			"x": -2486.15625,
+			"y": -1483.625,
+			"z": 5426.65625
+		}
+	},
+	{
+		"id": 1580,
+		"type": "mysteryPOI",
+		"name": "Guardian ruins - Eta Carina sites",
+		"galMapSearch": "Eta Carina Sector EL-Y d16",
+		"galMapUrl": "https://www.edsm.net/en/system/id/12976221/name/Eta+Carina+Sector+EL-Y+d16",
+		"coords": {
+			"x": 8636.59375,
+			"y": -156.1875,
+			"z": 2686.71875
+		}
+	},
+	{
+		"id": 1595,
+		"type": "pulsar",
+		"name": "Marta's Pulsars",
+		"galMapSearch": "PSR J0737-3039A",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2298440/name/PSR+J0737-3039A",
+		"coords": {
+			"x": 3246.15625,
+			"y": -281.6875,
+			"z": -1497.5
+		}
+	},
+	{
+		"id": 1609,
+		"type": "blackHole",
+		"name": "Three Angels of Death",
+		"galMapSearch": "Phrio Hypue AA-A h0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/2482903/name/Phrio+Hypue+AA-A+h0",
+		"coords": {
+			"x": -6130.46875,
+			"y": -95.875,
+			"z": -7185.78125
+		}
+	},
+	{
+		"id": 1613,
+		"type": "mysteryPOI",
+		"name": "Artemis (generation ship)",
+		"galMapSearch": "mu cassiopeia",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25365/name/mu+cassiopeia",
+		"coords": {
+			"x": -26.125,
+			"y": -24.625,
+			"z": 17.34375
+		}
+	},
+	{
+		"id": 1646,
+		"type": "planetFeatures",
+		"name": "Gantan of Orion",
+		"galMapSearch": "IC 1287 Sector BQ-Y d9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/10684501/name/IC+1287+Sector+BQ-Y+d9",
+		"coords": {
+			"x": -352.96875,
+			"y": -18.0625,
+			"z": 856.28125
+		}
+	},
+	{
+		"id": 1649,
+		"type": "minorPOI",
+		"name": "Yellow Fountains",
+		"galMapSearch": "Flyua Hypue LI-A d14-11",
+		"galMapUrl": "https://www.edsm.net/en/system/id/19851973/name/Flyua+Hypue+LI-A+d14-11",
+		"coords": {
+			"x": -5545.4375,
+			"y": -946,
+			"z": 7880.78125
+		}
+	},
+	{
+		"id": 1665,
+		"type": "minorPOI",
+		"name": "Melis Geysers",
+		"galMapSearch": "Sleguae JC-S d5-135",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23299551/name/Sleguae+JC-S+d5-135",
+		"coords": {
+			"x": -2810.25,
+			"y": -179.75,
+			"z": -3121.84375
+		}
+	},
+	{
+		"id": 1681,
+		"type": "minorPOI",
+		"name": "Defenders Of Talmor",
+		"galMapSearch": "Synuefe UY-R b34-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23816238/name/Synuefe+UY-R+b34-0",
+		"coords": {
+			"x": 1056.71875,
+			"y": -750.53125,
+			"z": -306.96875
+		}
+	},
+	{
+		"id": 1691,
+		"type": "minorPOI",
+		"name": "Altered Hortensia",
+		"galMapSearch": "Trapezium Sector XO-Y b1-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/58950/name/Trapezium+Sector+XO-Y+b1-0",
+		"coords": {
+			"x": 619.75,
+			"y": -400.96875,
+			"z": -1224.3125
+		}
+	},
+	{
+		"id": 1697,
+		"type": "minorPOI",
+		"name": "Purple Unicorn",
+		"galMapSearch": "Thailoi CY-S c20-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25930054/name/Thailoi+CY-S+c20-8",
+		"coords": {
+			"x": -2858.21875,
+			"y": -72.03125,
+			"z": 4961.40625
+		}
+	},
+	{
+		"id": 1698,
+		"type": "organicPOI",
+		"name": "Baton's Plantation",
+		"galMapSearch": "HIP 41908",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9676335/name/HIP+41908",
+		"coords": {
+			"x": 843.9375,
+			"y": -34.875,
+			"z": -108.375
+		}
+	},
+	{
+		"id": 1708,
+		"type": "starCluster",
+		"name": "Theta Carinae Cluster (IC 2602)",
+		"galMapSearch": "Theta Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22990/name/Theta+Carinae",
+		"coords": {
+			"x": 426.6875,
+			"y": -40.0625,
+			"z": 154.40625
+		}
+	},
+	{
+		"id": 1710,
+		"type": "minorPOI",
+		"name": "Angerona",
+		"galMapSearch": "Plio Aihm ML-P d5-307",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18944606/name/Plio+Aihm+ML-P+d5-307",
+		"coords": {
+			"x": 2372.75,
+			"y": 5.3125,
+			"z": 9673.65625
+		}
+	},
+	{
+		"id": 1722,
+		"type": "geyserPOI",
+		"name": "Jess' Lilac Grove",
+		"galMapSearch": "Plaa Ain HE-A c1-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/24861003/name/Plaa+Ain+HE-A+c1-0",
+		"coords": {
+			"x": 885.6875,
+			"y": 412.40625,
+			"z": 9218.90625
+		}
+	},
+	{
+		"id": 1727,
+		"type": "historicalLocation",
+		"name": "Rekohu Project",
+		"galMapSearch": "Plaa Ain FF-Z d76",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13960522/name/Plaa+Ain+FF-Z+d76",
+		"coords": {
+			"x": 881.6875,
+			"y": 415.03125,
+			"z": 9257.03125
+		}
+	},
+	{
+		"id": 1729,
+		"type": "minorPOI",
+		"name": "Siebold White Smoker",
+		"galMapSearch": "Gru Dryou HC-B d14-21",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25395423/name/Gru+Dryou+HC-B+d14-21",
+		"coords": {
+			"x": 6261.75,
+			"y": -594.3125,
+			"z": 6601.3125
+		}
+	},
+	{
+		"id": 1736,
+		"type": "mysteryPOI",
+		"name": "Ancient Plot",
+		"galMapSearch": "Synuefe FM-T d4-32",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3297045/name/Synuefe+FM-T+d4-32",
+		"coords": {
+			"x": 705.21875,
+			"y": -307.96875,
+			"z": -607.84375
+		}
+	},
+	{
+		"id": 1741,
+		"type": "minorPOI",
+		"name": "Phroea Phio Geysers",
+		"galMapSearch": "Phroea Phio KB-R b51-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/26733169/name/Phroea+Phio+KB-R+b51-1",
+		"coords": {
+			"x": 2500.34375,
+			"y": -231,
+			"z": -3786.25
+		}
+	},
+	{
+		"id": 1744,
+		"type": "historicalLocation",
+		"name": "Gnosis' Fate And Hydra's Coming",
+		"galMapSearch": "Outotz ST-I d9-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27437988/name/Outotz+ST-I+d9-4",
+		"coords": {
+			"x": 609.4375,
+			"y": 154.25,
+			"z": -1503.59375
+		}
+	},
+	{
+		"id": 1747,
+		"type": "planetaryNebula",
+		"name": "Owl Nebula",
+		"galMapSearch": "GCRV 6897",
+		"galMapUrl": "https://www.edsm.net/en/system/id/272853/name/GCRV+6897",
+		"coords": {
+			"x": -624.40625,
+			"y": 1847.15625,
+			"z": -1018.90625
+		}
+	},
+	{
+		"id": 1752,
+		"type": "planetFeatures",
+		"name": "Five Emperors",
+		"galMapSearch": "M36 Sector RI-T c3-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27218940/name/M36+Sector+RI-T+c3-5",
+		"coords": {
+			"x": -332.75,
+			"y": 17.53125,
+			"z": -4229.53125
+		}
+	},
+	{
+		"id": 1755,
+		"type": "stellarRemnant",
+		"name": "Cygnus OB2-12",
+		"galMapSearch": "HIP 101364",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8664337/name/HIP+101364",
+		"coords": {
+			"x": -8040.375,
+			"y": 94.25,
+			"z": 1353.875
+		}
+	},
+	{
+		"id": 1756,
+		"type": "minorPOI",
+		"name": "Sarpanit",
+		"galMapSearch": "Blau Thaa AA-A h0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/11996871/name/Blau+Thaa+AA-A+h0",
+		"coords": {
+			"x": -8571.9375,
+			"y": 577.03125,
+			"z": 1620.6875
+		}
+	},
+	{
+		"id": 1757,
+		"type": "stellarRemnant",
+		"name": "HD 193634",
+		"galMapSearch": "HD 193634",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29043810/name/HD+193634",
+		"coords": {
+			"x": -8575.65625,
+			"y": 147.375,
+			"z": 2035.9375
+		}
+	},
+	{
+		"id": 1767,
+		"type": "planetaryNebula",
+		"name": "IC 4663",
+		"galMapSearch": "CSI-44-17417",
+		"galMapUrl": "https://www.edsm.net/en/system/id/201537/name/CSI-44-17417",
+		"coords": {
+			"x": 1523.6875,
+			"y": -927.09375,
+			"z": 6250.5
+		}
+	},
+	{
+		"id": 1778,
+		"type": "minorPOI",
+		"name": "The Twin Sisters",
+		"galMapSearch": "Nyeakio TG-N c23-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29475668/name/Nyeakio+TG-N+c23-2",
+		"coords": {
+			"x": 2307.125,
+			"y": -162.46875,
+			"z": 7654.8125
+		}
+	},
+	{
+		"id": 1795,
+		"type": "minorPOI",
+		"name": "Persephone's Hidden Gem",
+		"galMapSearch": "Chraufao HQ-G d10-120",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28008170/name/Chraufao+HQ-G+d10-120",
+		"coords": {
+			"x": -3953.78125,
+			"y": 43.5625,
+			"z": 2393.125
+		}
+	},
+	{
+		"id": 1796,
+		"type": "regional",
+		"name": "The Valley of the Lonely Giants",
+		"galMapSearch": "Drojuae RI-K d8-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28335007/name/Drojuae+RI-K+d8-3",
+		"coords": {
+			"x": -8240.875,
+			"y": -1208.8125,
+			"z": 3543.65625
+		}
+	},
+	{
+		"id": 1797,
+		"type": "planetFeatures",
+		"name": "Existence in Desolation",
+		"galMapSearch": "Thailoe UO-A e4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28177968/name/Thailoe+UO-A+e4",
+		"coords": {
+			"x": -7666.9375,
+			"y": -816.8125,
+			"z": 4196.59375
+		}
+	},
+	{
+		"id": 1800,
+		"type": "minorPOI",
+		"name": "The Crooked Mile",
+		"galMapSearch": "Plio Eurl PW-G c12-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29050841/name/Plio+Eurl+PW-G+c12-0",
+		"coords": {
+			"x": 1340.125,
+			"y": 775.53125,
+			"z": -544.15625
+		}
+	},
+	{
+		"id": 1831,
+		"type": "historicalLocation",
+		"name": "Pallaeni",
+		"galMapSearch": "Pallaeni",
+		"galMapUrl": "https://www.edsm.net/en/system/id/1093/name/Pallaeni",
+		"coords": {
+			"x": 112.6875,
+			"y": 47.125,
+			"z": 128.4375
+		}
+	},
+	{
+		"id": 1833,
+		"type": "minorPOI",
+		"name": "Siamese Twins",
+		"galMapSearch": "Lysooh AQ-G d10-145",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29829951/name/Lysooh+AQ-G+d10-145",
+		"coords": {
+			"x": 1883.21875,
+			"y": 53.0625,
+			"z": 7521.03125
+		}
+	},
+	{
+		"id": 1836,
+		"type": "planetFeatures",
+		"name": "Quantum World",
+		"galMapSearch": "Flyiedgiae QN-T d3-17",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8762955/name/Flyiedgiae+QN-T+d3-17",
+		"coords": {
+			"x": -3423.8125,
+			"y": -1029.8125,
+			"z": 8254.9375
+		}
+	},
+	{
+		"id": 1840,
+		"type": "mysteryPOI",
+		"name": "Spear of Hope (Generation Ship)",
+		"galMapSearch": "HIP 21654",
+		"galMapUrl": "https://www.edsm.net/en/system/id/51661/name/HIP+21654",
+		"coords": {
+			"x": 9.5,
+			"y": -53.15625,
+			"z": -141.625
+		}
+	},
+	{
+		"id": 1844,
+		"type": "planetFeatures",
+		"name": "Huygens' Ringworld",
+		"galMapSearch": "Pyramoe XR-W c17-9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33011171/name/Pyramoe+XR-W+c17-9",
+		"coords": {
+			"x": -638.8125,
+			"y": -401.875,
+			"z": 6108.25
+		}
+	},
+	{
+		"id": 1845,
+		"type": "geyserPOI",
+		"name": "Reinhold's Keep",
+		"galMapSearch": "Ploi Aerb RT-F c25-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33142797/name/Ploi+Aerb+RT-F+c25-0",
+		"coords": {
+			"x": -262.3125,
+			"y": 1537.25,
+			"z": 7697.28125
+		}
+	},
+	{
+		"id": 1846,
+		"type": "planetFeatures",
+		"name": "Roche's Waltz",
+		"galMapSearch": "Eaembie RT-Q d5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33293016/name/Eaembie+RT-Q+d5-0",
+		"coords": {
+			"x": -3278.21875,
+			"y": -1962.40625,
+			"z": 8425.4375
+		}
+	},
+	{
+		"id": 1847,
+		"type": "planetFeatures",
+		"name": "Al-Qūhī Oasis",
+		"galMapSearch": "Nyeajeau XF-T c5-9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33351485/name/Nyeajeau+XF-T+c5-9",
+		"coords": {
+			"x": -2090.21875,
+			"y": -472.40625,
+			"z": 6868.4375
+		}
+	},
+	{
+		"id": 1848,
+		"type": "planetFeatures",
+		"name": "Tumbleweed",
+		"galMapSearch": "Byeia Eurk YJ-X c2-5",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33642837/name/Byeia+Eurk+YJ-X+c2-5",
+		"coords": {
+			"x": -2040.625,
+			"y": 548.125,
+			"z": 5456.15625
+		}
+	},
+	{
+		"id": 1849,
+		"type": "minorPOI",
+		"name": "Helium View",
+		"galMapSearch": "Nyeajaae WQ-C d13-19",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33198249/name/Nyeajaae+WQ-C+d13-19",
+		"coords": {
+			"x": -3386.78125,
+			"y": -693.03125,
+			"z": 7778.1875
+		}
+	},
+	{
+		"id": 1859,
+		"type": "minorPOI",
+		"name": "Double Blue Mountain",
+		"galMapSearch": "HD 1740",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7284017/name/HD+1740",
+		"coords": {
+			"x": 417.1875,
+			"y": -1066.21875,
+			"z": 371.03125
+		}
+	},
+	{
+		"id": 1872,
+		"type": "mysteryPOI",
+		"name": "Crowther's Rest",
+		"galMapSearch": "Nervir",
+		"galMapUrl": "https://www.edsm.net/en/system/id/18890/name/Nervir",
+		"coords": {
+			"x": 39.84375,
+			"y": -24.15625,
+			"z": -43.21875
+		}
+	},
+	{
+		"id": 1882,
+		"type": "minorPOI",
+		"name": "Doomed Waters",
+		"galMapSearch": "Pru Aescs YV-E d11-170",
+		"galMapUrl": "https://www.edsm.net/en/system/id/33297909/name/Pru+Aescs+YV-E+d11-170",
+		"coords": {
+			"x": -3677.5625,
+			"y": 53.75,
+			"z": 8886.78125
+		}
+	},
+	{
+		"id": 1905,
+		"type": "minorPOI",
+		"name": "June's Garden",
+		"galMapSearch": "Tr 24 Sector GL-P d5-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13490986/name/Tr+24+Sector+GL-P+d5-4",
+		"coords": {
+			"x": 1112,
+			"y": -346.5625,
+			"z": 3562.96875
+		}
+	},
+	{
+		"id": 1906,
+		"type": "planetFeatures",
+		"name": "Dreamer Blush",
+		"galMapSearch": "Gongae QW-L c24-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16085021/name/Gongae+QW-L+c24-0",
+		"coords": {
+			"x": -383.0625,
+			"y": -101.53125,
+			"z": -8980
+		}
+	},
+	{
+		"id": 1918,
+		"type": "geyserPOI",
+		"name": "Rare Earth Riches",
+		"galMapSearch": "HIP 36601",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14549450/name/HIP+36601",
+		"coords": {
+			"x": 337.8125,
+			"y": 562.96875,
+			"z": -1457.84375
+		}
+	},
+	{
+		"id": 1945,
+		"type": "stellarRemnant",
+		"name": "Cupid's Arrow",
+		"galMapSearch": "S171 34",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22466/name/S171+34",
+		"coords": {
+			"x": -2426.84375,
+			"y": 295.03125,
+			"z": -1323.625
+		}
+	},
+	{
+		"id": 1953,
+		"type": "surfacePOI",
+		"name": "Frontier Crater",
+		"galMapSearch": "NGC 4609 Sector VZ-O b23-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/34286913/name/NGC+4609+Sector+VZ-O+b23-1",
+		"coords": {
+			"x": 3827.1875,
+			"y": 226.84375,
+			"z": 2096.125
+		}
+	},
+	{
+		"id": 1955,
+		"type": "minorPOI",
+		"name": "Heart of the Hunter",
+		"galMapSearch": "Synuefe ZD-K c11-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3158541/name/Synuefe+ZD-K+c11-2",
+		"coords": {
+			"x": 227.40625,
+			"y": -182.0625,
+			"z": -555.21875
+		}
+	},
+	{
+		"id": 1957,
+		"type": "surfacePOI",
+		"name": "Satan's Kingdom",
+		"galMapSearch": "V337 Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/16393011/name/V337+Carinae",
+		"coords": {
+			"x": 631.28125,
+			"y": -44.78125,
+			"z": 178.5
+		}
+	},
+	{
+		"id": 1964,
+		"type": "geyserPOI",
+		"name": "Runner's Gorge",
+		"galMapSearch": "Running Man Sector FW-W d1-8",
+		"galMapUrl": "https://www.edsm.net/en/system/id/41898/name/Running+Man+Sector+FW-W+d1-8",
+		"coords": {
+			"x": 543.625,
+			"y": -400.8125,
+			"z": -1000.75
+		}
+	},
+	{
+		"id": 1965,
+		"type": "minorPOI",
+		"name": "Planet of Slightly Lesser Death",
+		"galMapSearch": "Blaa Eohn YZ-G d10-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/31640419/name/Blaa+Eohn+YZ-G+d10-0",
+		"coords": {
+			"x": -5593.09375,
+			"y": -1088.96875,
+			"z": 2424.75
+		}
+	},
+	{
+		"id": 1984,
+		"type": "minorPOI",
+		"name": "Rusty Rings",
+		"galMapSearch": "HD 36867",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4841405/name/HD+36867",
+		"coords": {
+			"x": 850.71875,
+			"y": -597.46875,
+			"z": -1412.21875
+		}
+	},
+	{
+		"id": 1988,
+		"type": "mysteryPOI",
+		"name": "Lonely Crash Site",
+		"galMapSearch": "WISE 2056+1459",
+		"galMapUrl": "https://www.edsm.net/en/system/id/25874/name/WISE+2056%2B1459",
+		"coords": {
+			"x": -19.1875,
+			"y": -7.5625,
+			"z": 10.1875
+		}
+	},
+	{
+		"id": 1995,
+		"type": "surfacePOI",
+		"name": "Mt. Wesley",
+		"galMapSearch": "Smojai IT-P d6-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23548024/name/Smojai+IT-P+d6-2",
+		"coords": {
+			"x": 106.53125,
+			"y": 881.90625,
+			"z": 3336.15625
+		}
+	},
+	{
+		"id": 1996,
+		"type": "surfacePOI",
+		"name": "David and Goliath",
+		"galMapSearch": "Qeajo CZ-N c20-15",
+		"galMapUrl": "https://www.edsm.net/en/system/id/40542163/name/Qeajo+CZ-N+c20-15",
+		"coords": {
+			"x": 5064.15625,
+			"y": 149.625,
+			"z": 7503.53125
+		}
+	},
+	{
+		"id": 1997,
+		"type": "minorPOI",
+		"name": "Rocky Showers",
+		"galMapSearch": "Pyramoe BG-V d3-13",
+		"galMapUrl": "https://www.edsm.net/en/system/id/36807365/name/Pyramoe+BG-V+d3-13",
+		"coords": {
+			"x": -590.25,
+			"y": -314.75,
+			"z": 5690.21875
+		}
+	},
+	{
+		"id": 2010,
+		"type": "minorPOI",
+		"name": "The 359s",
+		"galMapSearch": "Col 359 Sector FB-N d7-62",
+		"galMapUrl": "https://www.edsm.net/en/system/id/7482584/name/Col+359+Sector+FB-N+d7-62",
+		"coords": {
+			"x": -90.96875,
+			"y": 109.03125,
+			"z": 699.28125
+		}
+	},
+	{
+		"id": 2011,
+		"type": "planetFeatures",
+		"name": "Haldane's Hypothesis",
+		"galMapSearch": "M7 Sector IF-S b19-4",
+		"galMapUrl": "https://www.edsm.net/en/system/id/8077389/name/M7+Sector+IF-S+b19-4",
+		"coords": {
+			"x": 51.5,
+			"y": 19.65625,
+			"z": 1162.53125
+		}
+	},
+	{
+		"id": 2012,
+		"type": "planetFeatures",
+		"name": "Hyacinthum Mortem",
+		"galMapSearch": "HIP 69445",
+		"galMapUrl": "https://www.edsm.net/en/system/id/112931/name/HIP+69445",
+		"coords": {
+			"x": 502.59375,
+			"y": -50.03125,
+			"z": 446.09375
+		}
+	},
+	{
+		"id": 2013,
+		"type": "planetFeatures",
+		"name": "The Extremes",
+		"galMapSearch": "Wredguia CE-W b16-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/9079422/name/Wredguia+CE-W+b16-0",
+		"coords": {
+			"x": -1302.875,
+			"y": 183.53125,
+			"z": -692.25
+		}
+	},
+	{
+		"id": 2015,
+		"type": "planetFeatures",
+		"name": "Goliath's Rest Stop",
+		"galMapSearch": "Traikeou OR-W b5-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29628124/name/Traikeou+OR-W+b5-0",
+		"coords": {
+			"x": -6939.875,
+			"y": 754.4375,
+			"z": 4182.15625
+		}
+	},
+	{
+		"id": 2016,
+		"type": "planetFeatures",
+		"name": "Viridian Dreams",
+		"galMapSearch": "Nyeajaae IT-M c9-19",
+		"galMapUrl": "https://www.edsm.net/en/system/id/20407284/name/Nyeajaae+IT-M+c9-19",
+		"coords": {
+			"x": -3329.84375,
+			"y": -361.40625,
+			"z": 7049.03125
+		}
+	},
+	{
+		"id": 2038,
+		"type": "planetFeatures",
+		"name": "Wedding Rings",
+		"galMapSearch": "Byeia Thaa QM-V d2-27",
+		"galMapUrl": "https://www.edsm.net/en/system/id/14976222/name/Byeia+Thaa+QM-V+d2-27",
+		"coords": {
+			"x": -1602.375,
+			"y": 302.9375,
+			"z": 3069.5625
+		}
+	},
+	{
+		"id": 2048,
+		"type": "planetFeatures",
+		"name": "The Gludgooe Campfires",
+		"galMapSearch": "Gludgooe PY-Z d13-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/46235936/name/Gludgooe+PY-Z+d13-2",
+		"coords": {
+			"x": 4681.0625,
+			"y": 208.21875,
+			"z": -3685.59375
+		}
+	},
+	{
+		"id": 2060,
+		"type": "planetaryNebula",
+		"name": "Skull Nebula",
+		"galMapSearch": "Skull Sector GW-W d1-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/393215/name/Skull+Sector+GW-W+d1-1",
+		"coords": {
+			"x": -367.09375,
+			"y": -1532.78125,
+			"z": -185
+		}
+	},
+	{
+		"id": 2071,
+		"type": "planetFeatures",
+		"name": "Red Cyclotron",
+		"galMapSearch": "Wregoe QD-K d8-144",
+		"galMapUrl": "https://www.edsm.net/en/system/id/5775479/name/Wregoe+QD-K+d8-144",
+		"coords": {
+			"x": 441.84375,
+			"y": 13.625,
+			"z": -305.6875
+		}
+	},
+	{
+		"id": 2077,
+		"type": "planetFeatures",
+		"name": "Nimbostratus",
+		"galMapSearch": "Blu Thua WI-B d15",
+		"galMapUrl": "https://www.edsm.net/en/system/id/578465/name/Blu+Thua+WI-B+d15",
+		"coords": {
+			"x": 756.875,
+			"y": 557.9375,
+			"z": 1504.1875
+		}
+	},
+	{
+		"id": 2080,
+		"type": "planetFeatures",
+		"name": "Musica Universalis",
+		"galMapSearch": "Smojoo ZE-R d4-109",
+		"galMapUrl": "https://www.edsm.net/en/system/id/27327225/name/Smojoo+ZE-R+d4-109",
+		"coords": {
+			"x": -3467.375,
+			"y": 12.15625,
+			"z": 3228.3125
+		}
+	},
+	{
+		"id": 2082,
+		"type": "planetFeatures",
+		"name": "Green Glory",
+		"galMapSearch": "Praea Euq VP-M c21-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48615592/name/Praea+Euq+VP-M+c21-1",
+		"coords": {
+			"x": 716.40625,
+			"y": 239.09375,
+			"z": 1166.25
+		}
+	},
+	{
+		"id": 2084,
+		"type": "planetFeatures",
+		"name": "Waltz of Castor & Pollux",
+		"galMapSearch": "NGC 7380 Sector WC-D b15-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48992866/name/NGC+7380+Sector+WC-D+b15-3",
+		"coords": {
+			"x": -7074.5,
+			"y": 28.625,
+			"z": -2244.8125
+		}
+	},
+	{
+		"id": 2088,
+		"type": "planetFeatures",
+		"name": "Trio in a Ring",
+		"galMapSearch": "Bleae Thua YE-H d10-29",
+		"galMapUrl": "https://www.edsm.net/en/system/id/40912044/name/Bleae+Thua+YE-H+d10-29",
+		"coords": {
+			"x": -377,
+			"y": 273.28125,
+			"z": 2448.75
+		}
+	},
+	{
+		"id": 2089,
+		"type": "planetFeatures",
+		"name": "The Racetrack",
+		"galMapSearch": "Slegou LU-N b21-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/23680000/name/Slegou+LU-N+b21-0",
+		"coords": {
+			"x": -4234.625,
+			"y": -1059.6875,
+			"z": -3159.4375
+		}
+	},
+	{
+		"id": 2090,
+		"type": "minorPOI",
+		"name": "Close Shave",
+		"galMapSearch": "Gludgaa PD-A d14-9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15534427/name/Gludgaa+PD-A+d14-9",
+		"coords": {
+			"x": -241.1875,
+			"y": 264.21875,
+			"z": -3640.90625
+		}
+	},
+	{
+		"id": 2091,
+		"type": "planetFeatures",
+		"name": "Liz's Ring",
+		"galMapSearch": "Sifou MU-N c7-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/48661702/name/Sifou+MU-N+c7-0",
+		"coords": {
+			"x": -5147.21875,
+			"y": 402.90625,
+			"z": 541.3125
+		}
+	},
+	{
+		"id": 2092,
+		"type": "minorPOI",
+		"name": "R'Lyeh II",
+		"galMapSearch": "Pro Eurk RN-B d13-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/49294437/name/Pro+Eurk+RN-B+d13-3",
+		"coords": {
+			"x": -7820.84375,
+			"y": 79.1875,
+			"z": 1353.71875
+		}
+	},
+	{
+		"id": 2104,
+		"type": "starCluster",
+		"name": "NGC 2516 Open Cluster",
+		"galMapSearch": "66 G. Carinae",
+		"galMapUrl": "https://www.edsm.net/en/system/id/17923059/name/66+G.+Carinae",
+		"coords": {
+			"x": 1257.09375,
+			"y": -359.15625,
+			"z": 80.78125
+		}
+	},
+	{
+		"id": 2157,
+		"type": "planetaryNebula",
+		"name": "Lemon Slice Nebula",
+		"galMapSearch": "BD+83 357",
+		"galMapUrl": "https://www.edsm.net/en/system/id/28908000/name/BD%2B83+357",
+		"coords": {
+			"x": -3085.375,
+			"y": 2548.8125,
+			"z": -2057.6875
+		}
+	},
+	{
+		"id": 2159,
+		"type": "planetFeatures",
+		"name": "Aquarian Paradise",
+		"galMapSearch": "Flyae Eaec IW-U d3-86",
+		"galMapUrl": "https://www.edsm.net/en/system/id/22128633/name/Flyae+Eaec+IW-U+d3-86",
+		"coords": {
+			"x": -2924.28125,
+			"y": -490.78125,
+			"z": 9508.6875
+		}
+	},
+	{
+		"id": 2160,
+		"type": "planetFeatures",
+		"name": "Halley's World",
+		"galMapSearch": "Lysooh WT-R b7-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/51401338/name/Lysooh+WT-R+b7-0",
+		"coords": {
+			"x": 1233.25,
+			"y": 614.25,
+			"z": 6785.875
+		}
+	},
+	{
+		"id": 2161,
+		"type": "planetFeatures",
+		"name": "KOI 413",
+		"galMapSearch": "KOI 413",
+		"galMapUrl": "https://www.edsm.net/en/system/id/26564740/name/KOI+413",
+		"coords": {
+			"x": -3622.375,
+			"y": 849,
+			"z": 430.625
+		}
+	},
+	{
+		"id": 2166,
+		"type": "planetFeatures",
+		"name": "Cyanean Rocks",
+		"galMapSearch": "Synuefe WH-F c0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/4308078/name/Synuefe+WH-F+c0",
+		"coords": {
+			"x": -29.46875,
+			"y": -184.0625,
+			"z": -1061.8125
+		}
+	},
+	{
+		"id": 2167,
+		"type": "planetFeatures",
+		"name": "Eye of Ice",
+		"galMapSearch": "Synuefe TO-O b52-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/29437201/name/Synuefe+TO-O+b52-3",
+		"coords": {
+			"x": 399.71875,
+			"y": -320.09375,
+			"z": 65.71875
+		}
+	},
+	{
+		"id": 2171,
+		"type": "starCluster",
+		"name": "NGC 6940",
+		"galMapSearch": "TYC 2169-976-1",
+		"galMapUrl": "https://www.edsm.net/en/system/id/50252454/name/TYC+2169-976-1",
+		"coords": {
+			"x": -2357.875,
+			"y": -314.5,
+			"z": 867.5625
+		}
+	},
+	{
+		"id": 2187,
+		"type": "planetaryNebula",
+		"name": "NGC 6891",
+		"galMapSearch": "BD+12 4266",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3109011/name/BD%2B12+4266",
+		"coords": {
+			"x": -6740.90625,
+			"y": -1781.78125,
+			"z": 4861.65625
+		}
+	},
+	{
+		"id": 2188,
+		"type": "planetaryNebula",
+		"name": "IC 4997",
+		"galMapSearch": "Csi+16-20178",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3108961/name/Csi%2B16-20178",
+		"coords": {
+			"x": -6681.4375,
+			"y": -1526.5,
+			"z": 4126.53125
+		}
+	},
+	{
+		"id": 2189,
+		"type": "deepSpaceOutpost",
+		"name": "Rackham's Peak",
+		"galMapSearch": "HIP 58832",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53148050/name/HIP+58832",
+		"coords": {
+			"x": -111.6875,
+			"y": 5319.21875,
+			"z": -1115.375
+		}
+	},
+	{
+		"id": 2195,
+		"type": "historicalLocation",
+		"name": "Chainbreak",
+		"galMapSearch": "Wregoe GT-G d11-2",
+		"galMapUrl": "https://www.edsm.net/en/system/id/15401809/name/Wregoe+GT-G+d11-2",
+		"coords": {
+			"x": 280.15625,
+			"y": 796.0625,
+			"z": -47.3125
+		}
+	},
+	{
+		"id": 2202,
+		"type": "planetFeatures",
+		"name": "The Green Pentagon",
+		"galMapSearch": "Lysoovsky BH-L d8-26",
+		"galMapUrl": "https://www.edsm.net/en/system/id/63699604/name/Lysoovsky+BH-L+d8-26",
+		"coords": {
+			"x": -6214.53125,
+			"y": 461.375,
+			"z": 7361.75
+		}
+	},
+	{
+		"id": 2208,
+		"type": "surfacePOI",
+		"name": "Mount Pallas",
+		"galMapSearch": "Heart Sector YJ-A c9",
+		"galMapUrl": "https://www.edsm.net/en/system/id/13269958/name/Heart+Sector+YJ-A+c9",
+		"coords": {
+			"x": -5312.96875,
+			"y": 104.34375,
+			"z": -5365.15625
+		}
+	},
+	{
+		"id": 2211,
+		"type": "planetFeatures",
+		"name": "Via Gravitatis",
+		"galMapSearch": "KOI 1701",
+		"galMapUrl": "https://www.edsm.net/en/system/id/68741857/name/KOI+1701",
+		"coords": {
+			"x": -5931.0625,
+			"y": 887.75,
+			"z": 1361.28125
+		}
+	},
+	{
+		"id": 2229,
+		"type": "planetFeatures",
+		"name": "Icarus' Rest",
+		"galMapSearch": "Yaikiae WP-V d3-3",
+		"galMapUrl": "https://www.edsm.net/en/system/id/67119448/name/Yaikiae+WP-V+d3-3",
+		"coords": {
+			"x": -3247.875,
+			"y": -1456.875,
+			"z": 4407.9375
+		}
+	},
+	{
+		"id": 2231,
+		"type": "planetFeatures",
+		"name": "Three-Pointed Crown",
+		"galMapSearch": "Sifeae YM-Q c19-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/47744744/name/Sifeae+YM-Q+c19-0",
+		"coords": {
+			"x": 2828,
+			"y": 313.28125,
+			"z": 1060.21875
+		}
+	},
+	{
+		"id": 2238,
+		"type": "planetFeatures",
+		"name": "A Heart of Gold",
+		"galMapSearch": "Sleguae HH-C d67",
+		"galMapUrl": "https://www.edsm.net/en/system/id/53894290/name/Sleguae+HH-C+d67",
+		"coords": {
+			"x": -3430.9375,
+			"y": -333.78125,
+			"z": -3568.125
+		}
+	},
+	{
+		"id": 2242,
+		"type": "planetFeatures",
+		"name": "Elysian Eye Deep Dive",
+		"galMapSearch": "Pludgo VL-C d13-0",
+		"galMapUrl": "https://www.edsm.net/en/system/id/70373115/name/Pludgo+VL-C+d13-0",
+		"coords": {
+			"x": -6218.6875,
+			"y": -2097.09375,
+			"z": -3771.65625
+		}
+	},
+	{
+		"id": 2247,
+		"type": "stellarRemnant",
+		"name": "Five Black Eyes",
+		"galMapSearch": "Phrio Phoea AA-A h12",
+		"galMapUrl": "https://www.edsm.net/en/system/id/3134218/name/Phrio+Phoea+AA-A+h12",
+		"coords": {
+			"x": 4944.53125,
+			"y": -1072.5625,
+			"z": -4395.71875
+		}
+	}
+]

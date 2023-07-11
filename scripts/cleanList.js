@@ -1,33 +1,54 @@
 // module imports
 import fs from "fs";
-import { distanceCalc, dynamicSort, nearestNeighbor, optimization2Opt } from "./helperFunctions.js";
+import { distanceCalc, calculateDistancesBetweenAll, nearestNeighbor, optimization2Opt } from "./helperFunctions.js";
 
-import POIs from "./../data/within1kLy.json" assert { type: "json" };
+// import pointList from "./../data/CleanedCoords.json" assert { type: "json" };
+// import pointList from "./../data/NearSol.json" assert { type: "json" };
+// import pointList from "./../data/within1kLy.json" assert { type: "json" };
+// import pointList from "./../data/within5kLy.json" assert { type: "json" };
+// import pointList from "./../data/within10kLy.json" assert { type: "json" };
+// import pointList from "./../data/within20kLy.json" assert { type: "json" };
+import pointList from "./../data/within35kLy.json" assert { type: "json" };
+
 
 const startTime = new Date();
-console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${POIs.length}" items in the POI list`);
-
+console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${pointList.length}" items in the POI list\n`);
+/*
 let solCoords = { x: 0, y: 0, z: 0 };
-// let sagACoords = { x: 25.21875, y: -20.90625, z: 25899.96875 };
+let sagACoords = { x: 25.21875, y: -20.90625, z: 25899.96875 };
 
-// let within1kLy = [];
-//
-// for (let item of POIs) {
-//     if (distanceCalc(solCoords, item.coords) < 2000) within1kLy.push(item);
-// }
-//
-// console.log(within1kLy.length);
-//
-// fs.writeFileSync("./../data/within1kLy.json", JSON.stringify(within1kLy, null, "\t"));
+let within20kLy = [];
 
+for (let item of pointList) {
+    if (distanceCalc(solCoords, item.coords) < 20000) within20kLy.push(item);
+}
+
+console.log(within20kLy.length);
+
+fs.writeFileSync("./../data/within20kLy.json", JSON.stringify(within20kLy, null, "\t"));
+*/
+
+
+// do all the distance calculations between all points
+let distancesCalcStart = performance.now();
+let distancesObject = calculateDistancesBetweenAll(pointList);
+console.log(`took ${performance.now() - distancesCalcStart}ms to do all distance calculations`);
+
+// do the initial trip initalization
 let nearestTime = performance.now();
-
-let initialTrip = nearestNeighbor(POIs);
-
+let initialPath = nearestNeighbor(pointList, distancesObject);
 console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
 
-optimization2Opt(initialTrip);
+// create an array containing the point id's for the inital path
+let initialPathIndexArray = {
+    path: initialPath.path.map(item => item.id),
+    totalDistance: initialPath.totalDistance
+};
 
+// do the 2-opt optimization
+let optTime = performance.now();
+optimization2Opt(initialPathIndexArray, distancesObject);
+console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
 
 const endTime = new Date();
 console.log(`\nScript ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish`);
