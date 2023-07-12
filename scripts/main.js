@@ -1,6 +1,6 @@
 // module imports
 import fs from "fs";
-import { distanceCalc, calculateDistancesBetweenAll, nearestNeighbor, optimization2Opt } from "./helperFunctions.js";
+import { distanceCalc, calculateDistancesBetweenAll, randomNearestNeighbor, optimization2Opt } from "./helperFunctions.js";
 
 // import pointList from "./../data/CleanedCoords.json" assert { type: "json" };
 // import pointList from "./../data/NearSol.json" assert { type: "json" };
@@ -12,7 +12,7 @@ import pointList from "./../data/within35kLy.json" assert { type: "json" };
 
 
 const startTime = new Date();
-console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${pointList.length}" items in the POI list\n`);
+console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${pointList.length}" items in the POI list`);
 /*
 let solCoords = { x: 0, y: 0, z: 0 };
 let sagACoords = { x: 25.21875, y: -20.90625, z: 25899.96875 };
@@ -30,14 +30,14 @@ fs.writeFileSync("./../data/within20kLy.json", JSON.stringify(within20kLy, null,
 
 
 // do all the distance calculations between all points
-let distancesCalcStart = performance.now();
+// let distancesCalcStart = performance.now();
 let distancesObject = calculateDistancesBetweenAll(pointList);
-console.log(`took ${performance.now() - distancesCalcStart}ms to do all distance calculations`);
+// console.log(`took ${performance.now() - distancesCalcStart}ms to do all distance calculations`);
 
 // do the initial trip initalization
-let nearestTime = performance.now();
-let initialPath = nearestNeighbor(pointList, distancesObject);
-console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
+// let nearestTime = performance.now();
+let initialPath = randomNearestNeighbor(pointList, 3, distancesObject);
+// console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
 
 // create an array containing the point id's for the inital path
 let initialPathIndexArray = {
@@ -46,12 +46,12 @@ let initialPathIndexArray = {
 };
 
 // do the 2-opt optimization
-let optTime = performance.now();
+// let optTime = performance.now();
 optimization2Opt(initialPathIndexArray, distancesObject);
-console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
+// console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
 
 const endTime = new Date();
-console.log(`\nScript ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish`);
+console.log(`Script ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish\n`);
 
 /*
 list of types

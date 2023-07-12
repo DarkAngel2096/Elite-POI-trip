@@ -26,12 +26,10 @@ export const calculateDistancesBetweenAll = (pointList) => {
 }
 
 // function to use the Nearest Neighbor Algorithm to find a path between all points
-export const nearestNeighbor = (pointList, distancesObject) => {
+export const randomNearestNeighbor = (pointList, randomFrom, distancesObject) => {
     // fucntion for the list of places visited and distance travelled
     let visitedPoints = [];
     let totalDistanceTravelled = 0;
-
-    let totalTimeForDist = 0.0;
 
     // variable to define starting point, set that to visited points and remove it from the point list
     let startingPoint = pointList.find(item => item.galMapSearch === "Sol");
@@ -41,28 +39,28 @@ export const nearestNeighbor = (pointList, distancesObject) => {
 
     // loop through the point list untill it's empty
     while (pointList.length > 0) {
-        // variable to keep track of shortest distance to the last point we're at
-        let shortestDistance = -1;
-        let currentLeader;
 
-        // get the last point we've been to
-        let lastVisited = visitedPoints[visitedPoints.length - 1];
+        // get the id of the last visited point
+        const lastVisitedID = visitedPoints[visitedPoints.length - 1].id;
 
-        // loop through all the points in the point list, checking at each one if the distance is shorter
-        for (let item of pointList) {
-            let tempDistance = distancesObject[lastVisited.id][item.id];
+        // get all the distances for this point to all others and get all the ID's for the points left
+        const distances = distancesObject[lastVisitedID];
+        const pointIDs = pointList.map(item => item.id);
 
-            // check if the distance found is shorter than the shortest distance, or if it's -1 at which point we're on the first loop
-            if (tempDistance < shortestDistance || shortestDistance == -1) {
-                shortestDistance = tempDistance;
-                currentLeader = item;
-            }
-        }
+        // remove all the points from the list that isn't in pointList, sort by distance and get the shortest 3
+        const sortedAndFilteredDistances = Object.entries(distances)
+            .filter(([pointID]) => pointIDs.includes(parseInt(pointID)))
+            .sort(([, a], [, b]) => a - b)
+            .slice(0, randomFrom);
 
-        // now we've found the shortest distance to the last place visited, so move that from the pointList to visitedPoints and check total distance travelled
-        visitedPoints.push(currentLeader);
-        pointList = pointList.filter(listItem => listItem.id !== currentLeader.id);
-        totalDistanceTravelled += shortestDistance;
+        // get the random item from the sorted and filtered things, get it's index
+        const randomItem = sortedAndFilteredDistances[Math.floor(Math.random() * sortedAndFilteredDistances.length)];
+        const randomItemIndex = pointList.findIndex(item => item.id == randomItem[0]);
+
+        // add the point to the visited points, splice it out from the point list and add distance to total
+        visitedPoints.push(pointList[randomItemIndex]);
+        pointList.splice(randomItemIndex, 1);
+        totalDistanceTravelled += randomItem[1];
     }
 
     // now add in the path back to the start, and the distance between those
@@ -96,7 +94,7 @@ export const optimization2Opt = (initialPath, distancesObject) => {
         roundsDone++;
 
         // log something to have an idea of what iteration we're on, comment out if annoying
-        if (roundsDone % 50 == 0) console.log(`Passed iteration: ${roundsDone}`);
+        // if (roundsDone % 500 == 0) console.log(`Passed iteration: ${roundsDone}`);
 
         // create a loop to go through each pair of the points, excluding the first and last (plus one on the last, since going there anyway in the loop)
         for (let i = 1; i < pathLength - 3; i++) {
@@ -134,7 +132,10 @@ export const optimization2Opt = (initialPath, distancesObject) => {
     console.log(`Did: "${roundsDone}" iterations in total, trip length is down to: "${newShortDistance.toFixed(4)}"Ly, from "${initialPath.totalDistance.toFixed(4)}"Ly ` +
     `(down by: "${((1 - (newShortDistance / initialPath.totalDistance)) * 100).toFixed(4)}"%)`);
 
-    return bestPath;
+    return {
+        path: bestPath,
+        totalDistance: newShortDistance
+    };
 }
 
 
