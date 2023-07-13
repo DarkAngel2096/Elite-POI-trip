@@ -25,7 +25,7 @@ export const calculateDistancesBetweenAll = (pointList) => {
     return distances;
 }
 
-// function to use the Nearest Neighbor Algorithm to find a path between all points
+// function to use the Random Nearest Neighbor Algorithm to find a path between all points
 export const randomNearestNeighbor = (pointList, randomFrom, distancesObject) => {
     // fucntion for the list of places visited and distance travelled
     let visitedPoints = [];
@@ -74,6 +74,57 @@ export const randomNearestNeighbor = (pointList, randomFrom, distancesObject) =>
     }
 }
 
+// function to use the Nearest Neighbor Algorithm to find a path between all points
+export const nearestNeighbor = (pointList, distancesObject) => {
+    // fucntion for the list of places visited and distance travelled
+    let visitedPoints = [];
+    let totalDistanceTravelled = 0;
+
+    let totalTimeForDist = 0.0;
+
+    // variable to define starting point, set that to visited points and remove it from the point list
+    let startingPoint = pointList.find(item => item.galMapSearch === "Sol");
+    visitedPoints.push(startingPoint);
+
+    pointList = pointList.filter(item => item.galMapSearch !== "Sol");
+
+    // loop through the point list untill it's empty
+    while (pointList.length > 0) {
+        // variable to keep track of shortest distance to the last point we're at
+        let shortestDistance = -1;
+        let currentLeader;
+
+        // get the last point we've been to
+        let lastVisited = visitedPoints[visitedPoints.length - 1];
+
+        // loop through all the points in the point list, checking at each one if the distance is shorter
+        for (let item of pointList) {
+            let tempDistance = distancesObject[lastVisited.id][item.id];
+
+            // check if the distance found is shorter than the shortest distance, or if it's -1 at which point we're on the first loop
+            if (tempDistance < shortestDistance || shortestDistance == -1) {
+                shortestDistance = tempDistance;
+                currentLeader = item;
+            }
+        }
+
+        // now we've found the shortest distance to the last place visited, so move that from the pointList to visitedPoints and check total distance travelled
+        visitedPoints.push(currentLeader);
+        pointList = pointList.filter(listItem => listItem.id !== currentLeader.id);
+        totalDistanceTravelled += shortestDistance;
+    }
+
+    // now add in the path back to the start, and the distance between those
+    totalDistanceTravelled += distancesObject[visitedPoints[visitedPoints.length - 1].id][startingPoint.id];
+
+    visitedPoints.push(startingPoint);
+
+    return {
+        path: visitedPoints,
+        totalDistance: totalDistanceTravelled
+    }
+}
+
 
 // function for the 2-opt algorithm to run
 export const optimization2Opt = (initialPath, distancesObject) => {
@@ -87,7 +138,7 @@ export const optimization2Opt = (initialPath, distancesObject) => {
     let bestPath = initialPath.path;
     let pathLength = initialPath.path.length
 
-    console.log(`Starting with initial trip point count of: "${initialPath.path.length}" and a total distance of: "${initialPath.totalDistance}"Ly.`);
+    // console.log(`Starting with initial trip point count of: "${initialPath.path.length}" and a total distance of: "${initialPath.totalDistance}"Ly.`);
 
     do {
         improvementFound = false;
@@ -111,6 +162,22 @@ export const optimization2Opt = (initialPath, distancesObject) => {
                 // get the new distance
                 let newDistance = distancesObject[firstPair[0]][secondPair[0]] + distancesObject[firstPair[1]][secondPair[1]];
 
+
+                /*// get the two pairs of points i want to use to check with
+                let firstPair = [bestPath[i - 1], bestPath[i], bestPath[i + 1]];
+                let secondPair = [bestPath[j - 1], bestPath[j], bestPath[j + 1]];
+
+                // get the old distance between the two
+                let oldDistance = combinedDistance(firstPair, distancesObject) + combinedDistance(secondPair, distancesObject);
+
+                // explanation on how the points move is: old: (3, 4, 5), (45, 46, 47) and from there, new: (3, 46, 45), (5, 4, 47)
+                // create the new pairs
+                let newFirstPair = [firstPair[0], secondPair[1], secondPair[0]];
+                let newSecondPair = [firstPair[2], firstPair[1], secondPair[2]];
+
+                // get the new distance
+                let newDistance = combinedDistance(newFirstPair, distancesObject) + combinedDistance(newSecondPair, distancesObject);*/
+
                 // now check if the new path distance is shorter than old, if it is, slice it into the best path with removing the old parts
                 if (newDistance < oldDistance) {
                     // get the full path and reverse that
@@ -129,8 +196,8 @@ export const optimization2Opt = (initialPath, distancesObject) => {
 
     // create variable for the shortest distance found, log some stuff and return the list of ID's for the path
     let newShortDistance = combinedDistance(bestPath, distancesObject);
-    console.log(`Did: "${roundsDone}" iterations in total, trip length is down to: "${newShortDistance.toFixed(4)}"Ly, from "${initialPath.totalDistance.toFixed(4)}"Ly ` +
-    `(down by: "${((1 - (newShortDistance / initialPath.totalDistance)) * 100).toFixed(4)}"%)`);
+    // console.log(`Did: "${roundsDone}" iterations in total, trip length is down to: "${newShortDistance.toFixed(4)}"Ly, from "${initialPath.totalDistance.toFixed(4)}"Ly ` +
+    // `(down by: "${((1 - (newShortDistance / initialPath.totalDistance)) * 100).toFixed(4)}"%)`);
 
     return {
         path: bestPath,

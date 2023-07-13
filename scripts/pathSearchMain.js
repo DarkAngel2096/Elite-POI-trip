@@ -1,5 +1,5 @@
 // module imports
-import { calculateDistancesBetweenAll, randomNearestNeighbor, optimization2Opt } from "./helperFunctions.js";
+import { calculateDistancesBetweenAll, randomNearestNeighbor, nearestNeighbor,  optimization2Opt } from "./helperFunctions.js";
 
 // import pointList from "./../data/CleanedCoords.json" assert { type: "json" };
 // import pointList from "./../data/NearSol.json" assert { type: "json" };
@@ -12,7 +12,7 @@ import { calculateDistancesBetweenAll, randomNearestNeighbor, optimization2Opt }
 // function to do the complete part of 2-opt
 export const do2opt = (inputList) => {
     const startTime = new Date();
-    console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${inputList.length}" items in the POI list`);
+    // console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${inputList.length}" items in the POI list`);
 
     // do all the distance calculations between all points
     // let distancesCalcStart = performance.now();
@@ -21,6 +21,7 @@ export const do2opt = (inputList) => {
 
     // do the initial trip initalization
     // let nearestTime = performance.now();
+    // let initialPath = nearestNeighbor(inputList, distancesObject);
     let initialPath = randomNearestNeighbor(inputList, 3, distancesObject);
     // console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
 
@@ -36,12 +37,12 @@ export const do2opt = (inputList) => {
     // console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
 
     const endTime = new Date();
-    console.log(`Script ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish\n`);
+    // console.log(`Script ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish\n`);
 
     return finalDetails;
 }
 
-// do2opt(pointList);
+// console.log(do2opt(pointList).totalDistance);
 
 /*
 list of types
