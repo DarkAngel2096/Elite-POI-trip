@@ -3,13 +3,14 @@ import cluster from "cluster";
 
 // check if we're in the primary process
 if (cluster.isPrimary) {
-    console.log(`Starting at: ${new Date().toLocaleTimeString()}`);
+    const startTime = new Date();
+    console.log(`Starting at: ${startTime.toLocaleTimeString()}`);
     // import the data file
     // const pointList = await import ("./../data/within1kLy.json", { assert: { type: "json" } });
-    const pointList = await import ("./../data/within5kLy.json", { assert: { type: "json" } });
+    // const pointList = await import ("./../data/within5kLy.json", { assert: { type: "json" } });
     // const pointList = await import ("./../data/within10kLy.json", { assert: { type: "json" } });
     // const pointList = await import ("./../data/within20kLy.json", { assert: { type: "json" } });
-    // const pointList = await import ("./../data/within35kLy.json", { assert: { type: "json" } });
+    const pointList = await import ("./../data/within35kLy.json", { assert: { type: "json" } });
 
     // create list of workers that have been created
     let workers = [];
@@ -26,7 +27,7 @@ if (cluster.isPrimary) {
 	console.log("Total thread count: " + totalCores + " of which: " + coresToUse + " will be used for child processes.");
 
     // create variable that sets the amount of times to run through 2-opt
-    let total2optTimes = 50000;
+    let total2optTimes = 1000;
     let current2optTimes = 0;
 
     let bestPathDistance = -1;
@@ -34,8 +35,8 @@ if (cluster.isPrimary) {
     let bestPath;
 
     // const nnShortest = 51014.2594; // 1kly path, 195 points
-    const nnShortest = 133086.2865; // 5kly path, 309 points
-
+    // const nnShortest = 133086.2865; // 5kly path, 309 points
+    const nnShortest = 1724117.3693; // 35kly path, 1598 points
 
     // create the right amount of workers in a for loop
     for (let i = 0; i < coresToUse; i++) {
@@ -47,7 +48,7 @@ if (cluster.isPrimary) {
         workers[i].on("message", (message) => {
             current2optTimes++;
 
-            if (current2optTimes % 2500 == 0) console.log(`Passed repetition: ${current2optTimes}`);
+            if (current2optTimes % 50 == 0) console.log(`Passed repetition: ${current2optTimes} since start: ${new Date() - startTime}ms`);
 
             // check the path length, if it's better than best, set it to bestPath, if worse, do nothing and just go again
             if (message.output.totalDistance < bestPathDistance || bestPathDistance == - 1) {
@@ -86,10 +87,10 @@ if (cluster.isPrimary) {
                     }
 
                     //fs.writeFileSync(`./../data/${currentTime.replace(/\D/g, '')}BestPath_${parseInt(bestPathDistance)}Ly.json`, JSON.stringify(pathList, null, "\t"));
+                    console.log(`Done at: ${new Date().toLocaleTimeString()}`);
                 }
 
                 // disconnect if all done
-                console.log(`Done at: ${new Date().toLocaleTimeString()}`);
                 cluster.disconnect();
             }
         });

@@ -3,27 +3,29 @@ import { calculateDistancesBetweenAll, randomNearestNeighbor, nearestNeighbor,  
 
 // import pointList from "./../data/CleanedCoords.json" assert { type: "json" };
 // import pointList from "./../data/NearSol.json" assert { type: "json" };
-// import pointList from "./../data/within1kLy.json" assert { type: "json" };
-// import pointList from "./../data/within5kLy.json" assert { type: "json" };
-// import pointList from "./../data/within10kLy.json" assert { type: "json" };
-// import pointList from "./../data/within20kLy.json" assert { type: "json" };
-// import pointList from "./../data/within35kLy.json" assert { type: "json" };
+// import pointList1 from "./../data/within1kLy.json" assert { type: "json" };
+// import pointList2 from "./../data/within5kLy.json" assert { type: "json" };
+// import pointList3 from "./../data/within10kLy.json" assert { type: "json" };
+// import pointList4 from "./../data/within20kLy.json" assert { type: "json" };
+import pointList5 from "./../data/within35kLy.json" assert { type: "json" };
 
 // function to do the complete part of 2-opt
-export const do2opt = (inputList) => {
+export const do2opt = (inputList, shouldLog = false) => {
     const startTime = new Date();
-    // console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${inputList.length}" items in the POI list`);
+    if (shouldLog) console.log(`\nScript started at "${startTime.toLocaleTimeString()}", found "${inputList.length}" items in the POI list`);
 
     // do all the distance calculations between all points
-    // let distancesCalcStart = performance.now();
-    let distancesObject = calculateDistancesBetweenAll(inputList);
-    // console.log(`took ${performance.now() - distancesCalcStart}ms to do all distance calculations`);
+    let distancesCalcStart = performance.now();
+    let { distances, idToIndexMap } = calculateDistancesBetweenAll(inputList)
+    if (shouldLog) console.log(`took ${performance.now() - distancesCalcStart}ms to do all distance calculations`);
 
     // do the initial trip initalization
-    // let nearestTime = performance.now();
-    // let initialPath = nearestNeighbor(inputList, distancesObject);
-    let initialPath = randomNearestNeighbor(inputList, 3, distancesObject);
-    // console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
+    let nearestTime = performance.now();
+    let initialPath = nearestNeighbor(inputList, distances, idToIndexMap);
+    if (shouldLog) console.log(`took ${performance.now() - nearestTime}ms to do nearest neighbors`);
+
+    // let initialPath = randomNearestNeighbor(inputList, 2, distances, idToIndexMap);
+    // if (shouldLog) console.log(`took ${performance.now() - nearestTime}ms to do randomized nearest neighbors`);
 
     // create an array containing the point id's for the inital path
     let initialPathIndexArray = {
@@ -32,17 +34,24 @@ export const do2opt = (inputList) => {
     };
 
     // do the 2-opt optimization
-    // let optTime = performance.now();
-    let finalDetails = optimization2Opt(initialPathIndexArray, distancesObject);
-    // console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
+    let optTime = performance.now();
+    let finalDetails = optimization2Opt(initialPathIndexArray, distances, idToIndexMap);
+    if (shouldLog) console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
+
+    if (shouldLog) console.log(`Started from: "${initialPath.totalDistance.toFixed(4)}"Ly, went down to: "${finalDetails.totalDistance.toFixed(4)}"Ly. ` +
+        `(down by: "${((1 - (finalDetails.totalDistance / initialPath.totalDistance)) * 100).toFixed(4)}"%)`);
 
     const endTime = new Date();
-    // console.log(`Script ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish\n`);
+    if (shouldLog) console.log(`Script ended at "${endTime.toLocaleTimeString()}", taking "${endTime - startTime}"ms to finish\n`);
 
     return finalDetails;
 }
 
-// console.log(do2opt(pointList).totalDistance);
+// do2opt(pointList1, true);
+// do2opt(pointList2, true);
+// do2opt(pointList3, true);
+// do2opt(pointList4, true);
+do2opt(pointList5, true);
 
 /*
 list of types
