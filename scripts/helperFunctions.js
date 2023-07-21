@@ -159,7 +159,7 @@ export const optimization2Opt = (initialPath, distancesData, distancesIndexArray
         // if (roundsDone % 500 == 0) console.log(`Passed iteration: ${roundsDone}`);
 
         // create a loop to go through each pair of the points, excluding the first and last (plus one on the last, since going there anyway in the loop)
-        for (let i = 1; i < pathLength - 3; i++) {
+        for (let i = 1; i < pathLength; i++) {
             for (let j = i + 1; j < pathLength - 1; j++) {
 
                 // get the two pairs of points i want (end has to be +1 because not included)
@@ -198,6 +198,11 @@ export const optimization2Opt = (initialPath, distancesData, distancesIndexArray
         path: bestPath,
         totalDistance: newShortDistance
     };
+}
+
+// function for K-opt Algorithm where "complexity" is the depth that K-opt does
+export const optimizationKopt = (initialPath, complexity, distancesData, distancesIndexArray) => {
+    
 }
 
 

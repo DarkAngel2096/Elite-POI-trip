@@ -30,7 +30,7 @@ if (cluster.isPrimary) {
     let total2optTimes = 1000;
     let current2optTimes = 0;
 
-    let bestPathDistance = -1;
+    let bestPathDistance = Infinity;
     let bestPathIteration = 0;
     let bestPath;
 
@@ -51,7 +51,7 @@ if (cluster.isPrimary) {
             if (current2optTimes % 50 == 0) console.log(`Passed repetition: ${current2optTimes} since start: ${new Date() - startTime}ms`);
 
             // check the path length, if it's better than best, set it to bestPath, if worse, do nothing and just go again
-            if (message.output.totalDistance < bestPathDistance || bestPathDistance == - 1) {
+            if (message.output.totalDistance < bestPathDistance) {
                 console.log(`found new shortest at: "${message.output.totalDistance}"Ly at iteration: ${current2optTimes} (down by: "${((1 - (message.output.totalDistance / nnShortest)) * 100).toFixed(4)}"% form NN shortest)`);
                 bestPathDistance = message.output.totalDistance;
                 bestPathIteration = current2optTimes;
@@ -86,7 +86,7 @@ if (cluster.isPrimary) {
                         pathList.push(pointList.default.find(item => item.id == id));
                     }
 
-                    //fs.writeFileSync(`./../data/${currentTime.replace(/\D/g, '')}BestPath_${parseInt(bestPathDistance)}Ly.json`, JSON.stringify(pathList, null, "\t"));
+                    fs.writeFileSync(`./data/${currentTime.replace(/\D/g, '')}BestPath_${parseInt(bestPathDistance)}Ly.json`, JSON.stringify(pathList, null, "\t"));
                     console.log(`Done at: ${new Date().toLocaleTimeString()}`);
                 }
 
