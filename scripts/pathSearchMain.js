@@ -1,5 +1,5 @@
 // module imports
-import { calculateDistancesBetweenAll, randomNearestNeighbor, nearestNeighbor,  optimization2Opt } from "./helperFunctions.js";
+import { calculateDistancesBetweenAll, randomNearestNeighbor, nearestNeighbor,  optimization2Opt, optimizationKopt } from "./helperFunctions.js";
 
 // import pointListFull from "./../data/CleanedCoords.json" assert { type: "json" };
 // import pointList from "./../data/NearSol.json" assert { type: "json" };
@@ -37,6 +37,10 @@ export const do2opt = (inputList, shouldLog = false) => {
     let optTime = performance.now();
     let finalDetails = optimization2Opt(initialPathIndexArray, distances, idToIndexMap);
     if (shouldLog) console.log(`took ${performance.now() - optTime}ms to do 2-opt`);
+
+    // do k-opt, input the amount of pairs to check through each Loop
+    // let finalDetails = optimizationKopt({ initialPath: initialPathIndexArray, distancesData: distances, distancesIndexArray: idToIndexMap, complexity: 5´});
+    // if (shouldLog) console.log(`took ${performance.now() - optTime}ms to do k-opt`);
 
     if (shouldLog) console.log(`Started from: "${initialPath.totalDistance.toFixed(4)}"Ly, went down to: "${finalDetails.totalDistance.toFixed(4)}"Ly. ` +
         `(down by: "${((1 - (finalDetails.totalDistance / initialPath.totalDistance)) * 100).toFixed(4)}"%)`);

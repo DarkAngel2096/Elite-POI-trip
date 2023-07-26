@@ -159,11 +159,11 @@ export const optimization2Opt = (initialPath, distancesData, distancesIndexArray
         // if (roundsDone % 500 == 0) console.log(`Passed iteration: ${roundsDone}`);
 
         // create a loop to go through each pair of the points, excluding the first and last (plus one on the last, since going there anyway in the loop)
-        for (let i = 1; i < pathLength; i++) {
-            for (let j = i + 1; j < pathLength - 1; j++) {
+        for (let i = 0; i < pathLength - 3; i++) {
+            for (let j = i + 2; j < pathLength - 1; j++) {
 
-                // get the two pairs of points i want (end has to be +1 because not included)
-                let firstPair = [distancesIndexArray[bestPath[i - 1]], distancesIndexArray[bestPath[i]]];
+                // get the two pairs of points i want
+                let firstPair = [distancesIndexArray[bestPath[i]], distancesIndexArray[bestPath[i + 1]]];
                 let secondPair = [distancesIndexArray[bestPath[j]], distancesIndexArray[bestPath[j + 1]]];
 
                 // get the old distance between the two
@@ -176,10 +176,10 @@ export const optimization2Opt = (initialPath, distancesData, distancesIndexArray
                 // now check if the new path distance is shorter than old, if it is, slice it into the best path with removing the old parts
                 if (newDistance < oldDistance) {
                     // get the full path and reverse that
-                    let tempPath = reverseObjects(bestPath.slice(i - 1, j + 2));
+                    let tempPath = reverseObjects(bestPath.slice(i, j + 2));
 
                     // add the new path to the list, and trigger improvement
-                    bestPath.splice(i - 1, tempPath.length, ...tempPath);
+                    bestPath.splice(i, tempPath.length, ...tempPath);
                     improvementFound = true;
                     break;
                 }
@@ -201,8 +201,16 @@ export const optimization2Opt = (initialPath, distancesData, distancesIndexArray
 }
 
 // function for K-opt Algorithm where "complexity" is the depth that K-opt does
-export const optimizationKopt = (initialPath, complexity, distancesData, distancesIndexArray) => {
-    
+export const optimizationKopt = ({initialPath, complexity, distancesData, distancesIndexArray}) => {
+    console.log(complexity);
+    console.log(distancesData.length);
+
+
+
+    return {
+        path: [],
+        totalDistance: 0
+    }
 }
 
 
